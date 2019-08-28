@@ -1,0 +1,13 @@
+name,family,subfamily,score,aska_gs,aska_gio,aska_gq11,aska_g1213,gtop_gs,gtop_gio,gtop_gq11,gtop_g1213,merg_gs,merg_gio,merg_gq11,merg_g1213
+ghrhr_human,Peptide receptors,Glucagon receptor family,83,0,0,0,0,1,0,0,0,1,0,0,0
+pacr_human,Peptide receptors,VIP and PACAP receptors,85.1,1,0,1,0,1,0,1,0,1,0,1,0
+vipr2_human,Peptide receptors,VIP and PACAP receptors,85.1,0,0,0,0,1,0,0,0,1,0,0,0
+vipr1_human,Peptide receptors,VIP and PACAP receptors,85.1,0,0,0,0,1,2,2,0,1,2,2,0
+gipr_human,Peptide receptors,Glucagon receptor family,80.9,1,0,0,0,1,0,0,0,1,0,0,0
+crfr2_human,Peptide receptors,Corticotropin-releasing factor receptors,85.1,0,0,0,0,1,0,2,0,1,0,2,0
+sctr_human,Peptide receptors,Glucagon receptor family,85.1,0,0,0,0,0,0,0,0,0,0,0,0
+pth2r_human,Peptide receptors,Parathyroid hormone receptors,80.8,1,2,2,2,0,0,0,0,1,2,2,2
+crfr1_human,Peptide receptors,Corticotropin-releasing factor receptors,85.1,0,0,0,0,1,0,2,0,1,0,2,0
+glr_human,Peptide receptors,Glucagon receptor family,80.9,0,0,0,0,1,0,0,0,1,0,0,0
+calrl_human,Peptide receptors,Calcitonin receptors,83,0,0,0,0,0,0,0,0,0,0,0,0
+glp2r_human,Peptide receptors,Glucagon receptor family,83,0,0,0,0,0,0,0,0,0,0,0,0

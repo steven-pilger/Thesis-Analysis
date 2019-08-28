@@ -1,0 +1,13 @@
+name,family,subfamily,score,aska_gs,aska_gio,aska_gq11,aska_g1213,gtop_gs,gtop_gio,gtop_gq11,gtop_g1213,merg_gs,merg_gio,merg_gq11,merg_g1213
+PACR,Peptide receptors,VIP and PACAP receptors,81,primary,no coupling,primary,no coupling,primary,,primary,,primary,no coupling,primary,no coupling
+GHRHR,Peptide receptors,Glucagon receptor family,79,,,,,primary,,,,primary,,,
+VIPR1,Peptide receptors,VIP and PACAP receptors,81,,,,,primary,secondary,secondary,,primary,secondary,secondary,
+SCTR,Peptide receptors,Glucagon receptor family,81,,,,,,,,,,,,
+GLR,Peptide receptors,Glucagon receptor family,79,,,,,primary,,,,primary,,,
+GLP2R,Peptide receptors,Glucagon receptor family,79,,,,,,,,,,,,
+CALRL,Peptide receptors,Calcitonin receptors,79,,,,,,,,,,,,
+VIPR2,Peptide receptors,VIP and PACAP receptors,81,,,,,primary,,,,primary,,,
+PTH2R,Peptide receptors,Parathyroid hormone receptors,77,primary,secondary,secondary,secondary,,,,,primary,secondary,secondary,secondary
+CRFR1,Peptide receptors,Corticotropin-releasing factor receptors,75,,,,,primary,,secondary,,primary,,secondary,
+GIPR,Peptide receptors,Glucagon receptor family,79,primary,no coupling,no coupling,no coupling,primary,,,,primary,no coupling,no coupling,no coupling
+CRFR2,Peptide receptors,Corticotropin-releasing factor receptors,75,,,,,primary,,secondary,,primary,,secondary,

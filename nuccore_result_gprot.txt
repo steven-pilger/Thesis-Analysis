@@ -1,0 +1,17 @@
+name,code,rna,len,refseq,gi
+Homo sapiens G protein subunit alpha transducin 1,GNAT1,mRNA,2.465 bp linear mRNA,NM_000172.4,GI:1676439691
+Homo sapiens G protein subunit alpha i3,GNAI3, mRNA,9.044 bp linear mRNA,NM_006496.4,GI:1666305235
+Homo sapiens G protein subunit alpha q,GNAQ, mRNA,6.882 bp linear mRNA,NM_002072.5,GI:1653961273
+Homo sapiens G protein subunit alpha 15,GNA15, mRNA,2.273 bp linear mRNA,NM_002068.4,GI:1653960723
+Homo sapiens G protein subunit alpha L,GNAL,mRNA,6.227 bp linearmRNA,NM_182978.4,GI:1519315098
+Homo sapiens G protein subunit alpha i1,GNAI1,mRNA,10.083 bplinear mRNA,NM_002069.6,GI:1519246514
+Homo sapiens G protein subunit alpha 14,GNA14, mRNA,2.497 bp linear mRNA,NM_004297.4,GI:1519315426
+Homo sapiens GNAS complex locus,GNAS,mRNA,1.851 bp linear mRNA,NM_000516.6,GI:1677537299
+Homo sapiens G protein subunit alpha transducin 2,GNAT2, mRNA,1.379 bp linear mRNA,NM_005272.4,GI:1653961027
+Homo sapiens G protein subunit alpha transducin 3,GNAT3, mRNA,1.239 bp linear mRNA,NM_001102386.3,GI:1653961635
+Homo sapiens G protein subunit alpha i2,GNAI2, mRNA,2.219 bp linear mRNA,NM_002070.4,GI:1519316132
+Homo sapiens G protein subunit alpha z,GNAZ, mRNA,3.170 bp linear mRNA,NM_002073.4,GI:1519315956
+Homo sapiens G protein subunit alpha o1,GNAO1,mRNA,3.182 bp linear mRNA,NM_020988.3,GI:1519244934
+Homo sapiens G protein subunit alpha 11,GNA11, mRNA,4.190 bp linear mRNA,NM_002067.5,GI:1519244162
+Homo sapiens G protein subunit alpha 13,GNA13,mRNA,6.249 bp linear mRNA,NM_006572.6,GI:1519315114
+Homo sapiens G protein subunit alpha 12,GNA12, mRNA,4.369 bp linear mRNA,NM_007353.3,GI:1519314792

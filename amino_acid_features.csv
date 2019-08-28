@@ -1,0 +1,58 @@
+,Name,Feature Code,Sidechain Length,Amino Acids
+0,Hydrophobic,HY,any,"A, C, F, I, L, M, P, V, W, Y"
+1,Hydrophobic,HY,4-5,"F, M, Y"
+2,Hydrophobic aliphatic,HA,any,"A, I, L, M, V"
+3,Hydrophobic aliphatic,HA,1-2,"A, V"
+4,Hydrophobic aliphatic,HA,2-3,"I, L, V"
+5,Hydrophobic aliphatic,HA,3,"I, L"
+6,Hydrophobic aliphatic,HA,3-4,"I, L, M"
+7,Hydrophobic aliphatic [M],M,4,M
+8,Hydrophob al / α-H prop - very high [A],A,Max,A
+9,Hydrophobic aliphatic [I],I,,I
+10,Hydrophobic aliphatic [L],L,,L
+11,Hydrophobic aliphatic [V],V,,V
+12,Hydrophobic aromatic,HR,any,"F, H, W, Y"
+13,Hydrophobic aromatic,HR,4-5,"F, H, Y"
+14,Hydrophobic aromatic,HR,5,"F, Y"
+15,Hydrophobic aromatic,HR,5-6,"F, W, Y"
+16,Hydrophobic aromatic [W],W,6,W
+17,Hydropob ar / H-bonding [Y],Y,,Y
+18,Hydrophobic aromatic [F],F,,F
+19,Hydrogen bonding (polar),Hb,any,"D, E, H, K, N, Q, R, S, T, Y"
+20,Hydrogen bonding,Hb,2,"S, T"
+21,Hydrogen bonding,Hb,3,"H, N"
+22,Hydrogen bonding [N],N,,N
+23,Hydrogen bonding [Q],Q,,Q
+24,Hydrogen bonding [S],S,,S
+25,Hydrogen bonding [T],T,,T
+26,Hydrogen bonding uncharged,Hu,2-3,"N, S, T"
+27,Hydrogen bonding uncharged,Hu,3-4,"H, N, Q"
+28,Hydrogen bond acceptor,Ha,2-3,"D, N, S, T"
+29,Hydrogen bond acceptor,Ha,3,"D, N"
+30,Hydrogen bond acceptor,Ha,3-4,"D, E, H, N, Q"
+31,Hydrogen bond acceptor,Ha,4,"E, H, Q"
+32,Hydrogen bond donor,Hd,4,"H, Q"
+33,Hydrogen bond donor,Hd,4-5,"H, K, Q"
+34,Hydrogen bond donor,Hd,5-6,"K, R, Y"
+35,Hydrogen bond donor,Hd,6,"R, Y"
+36,Charged,+-,any,"D, E, H, K, R"
+37,Charged,+-,3-4,"D, E, H"
+38,Charged,+-,4-5,"E, H, K"
+39,Charged positive,+,any,"H, K, R"
+40,Charged pos / H bond / Hphob ar [H],H,4,H
+41,Charged positive,+,4-5,"H, K"
+42,Charged positive [K],K,5,K
+43,Charged positive,+,5-6,"K, R"
+44,Charged positive [R],R,6,R
+45,Charged negative,-,any,"D, E"
+46,Charged negative [D],D,3,D
+47,Charged negative [E],E,4,E
+48,Small,Sm,any,"A, C, G, S"
+49,Small,Sm,0-1,"A, G"
+50,Small,Sm,1-2,"A, C, S"
+51,α-Helix propensity - high,αH,Hig,"A, K, L, M, R"
+52,α-Helix propensity - low,αH,Min,"G, P"
+53,α-Helix flexibility [G],G,0,G
+54,α-Helix kink [P],P,2,P
+55,Disulfide-forming (S-S) [C],C,2,C
+56,Gap (no amino acid),-,,-

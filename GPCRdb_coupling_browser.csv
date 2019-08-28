@@ -1,0 +1,402 @@
+Class;Uniprot;Receptor;Merg Gs;Merg Gi/Go;Merg Gq/G11;Merg G12/G13;Gtop Gs;Gtop Gi/Go;Gtop Gq/G11;Gtop G12/G13;Asuka Gs;Asuka Gi/Go;Asuka Gq/G11;Asuka G12/G13
+Class A;5HT1A;5-HT1A;;primary;primary;;;primary;;;No coupling;primary;primary;No coupling
+Class A;5HT1B;5-HT1B;;primary;secondary;;;primary;;;No coupling;primary;secondary;No coupling
+Class A;5HT1D;5-HT1D;;primary;secondary;;;primary;;;No coupling;primary;secondary;No coupling
+Class A;5HT1E;5-ht1E;;primary;;;;primary;;;No coupling;primary;No coupling;No coupling
+Class A;5HT1F;5-HT1F;;primary;;;;primary;;;No coupling;primary;No coupling;No coupling
+Class A;5HT2A;5-HT2A;;secondary;primary;;;secondary;primary;;No coupling;secondary;primary;No coupling
+Class A;5HT2B;5-HT2B;;secondary;primary;;;;primary;;No coupling;secondary;primary;No coupling
+Class A;5HT2C;5-HT2C;;primary;primary;secondary;;secondary;primary;;No coupling;primary;secondary;secondary
+Class A;5HT4R;5-HT4;primary;primary;secondary;secondary;primary;;;secondary;secondary;primary;secondary;No coupling
+Class A;5HT5A;5-HT5A;;primary;secondary;;;primary;secondary;;;;;
+Class A;5HT6R;5-HT6;primary;secondary;secondary;secondary;primary;;secondary;;primary;secondary;secondary;secondary
+Class A;5HT7R;5-HT7;primary;secondary;primary;primary;primary;;;;primary;secondary;primary;primary
+Class A;ACM1;M1;;secondary;primary;;;;primary;;No coupling;secondary;primary;No coupling
+Class A;ACM2;M2;secondary;primary;secondary;;secondary;primary;secondary;;No coupling;primary;No coupling;No coupling
+Class A;DRD2;D2;;primary;;;;primary;;;No coupling;primary;No coupling;No coupling
+Class A;ACM3;M3;;secondary;primary;;;;primary;;No coupling;secondary;primary;No coupling
+Class A;ACM4;M4;;primary;;;;primary;;;No coupling;primary;No coupling;No coupling
+Class A;ACM5;M5;;secondary;primary;;;;primary;;No coupling;secondary;primary;No coupling
+Class A;ADA1A;α1A<;primary;;primary;secondary;;;primary;secondary;primary;No coupling;primary;secondary
+Class A;ADA1B;α1B<;primary;;primary;;;;primary;;primary;No coupling;secondary;No coupling
+Class A;ADA1D;α1D<;primary;;primary;;;;primary;;primary;No coupling;primary;No coupling
+Class A;ADA2A;α2A<;secondary;primary;;;secondary;primary;;;No coupling;primary;No coupling;No coupling
+Class A;ADA2B;α2B<;secondary;primary;;secondary;secondary;primary;;;No coupling;primary;No coupling;secondary
+Class A;ADA2C;α2C<;secondary;primary;;;secondary;primary;;;No coupling;primary;No coupling;No coupling
+Class A;ADRB1;β1;primary;secondary;primary;;primary;secondary;;;secondary;No coupling;primary;No coupling
+Class A;ADRB2;β2;primary;secondary;primary;;primary;secondary;;;primary;No coupling;primary;No coupling
+Class A;ADRB3;β3;primary;secondary;;;primary;secondary;;;primary;No coupling;No coupling;No coupling
+Class A;DRD1;D1;primary;secondary;primary;;primary;;;;primary;secondary;primary;No coupling
+Class A;DRD3;D3;;primary;;;;primary;;;No coupling;primary;No coupling;No coupling
+Class A;DRD4;D4;;primary;;;;primary;;;No coupling;primary;No coupling;No coupling
+Class A;DRD5;D5;primary;secondary;secondary;secondary;primary;;;;primary;secondary;secondary;secondary
+Class A;HRH1;H1;secondary;primary;primary;;;;primary;;secondary;primary;secondary;No coupling
+Class A;HRH2;H2;primary;secondary;primary;secondary;secondary;;primary;;primary;secondary;secondary;secondary
+Class A;HRH3;H3;;primary;;;;primary;;;No coupling;primary;No coupling;No coupling
+Class A;HRH4;H4;;primary;;;;primary;;;No coupling;primary;No coupling;No coupling
+Class A;TAAR1;TA1;primary;;secondary;;primary;;secondary;;;;;
+Class A;AGTR1;AT1;;primary;primary;;;primary;primary;;No coupling;primary;primary;No coupling
+Class A;AGTR2;AT2;;primary;;;;primary;;;;;;
+Class A;APJ;apelin;;primary;secondary;;;primary;;;No coupling;primary;secondary;No coupling
+Class A;NMBR;BB1;secondary;secondary;primary;secondary;;;primary;;secondary;secondary;primary;secondary
+Class A;GRPR;BB2;secondary;secondary;primary;secondary;;;primary;;secondary;secondary;primary;secondary
+Class A;BRS3;BB3;;;primary;;;;primary;;;;;
+Class A;BKRB1;B1;secondary;primary;primary;secondary;;primary;primary;;secondary;primary;primary;secondary
+Class A;BKRB2;B2;primary;primary;primary;secondary;primary;primary;primary;;No coupling;primary;primary;secondary
+Class A;CCKAR;CCK1;secondary;primary;primary;secondary;secondary;;primary;;secondary;primary;primary;secondary
+Class A;GASR;CCK2;secondary;secondary;primary;secondary;;;primary;;secondary;secondary;primary;secondary
+Class A;C3AR;C3a;;;;;;;;;;;;
+Class A;C5AR1;C5a1;;primary;secondary;;;primary;secondary;;;;;
+Class A;C5AR2;C5a2;;;;;;;;;;;;
+Class A;EDNRA;ETA;secondary;primary;primary;primary;;;primary;;secondary;primary;primary;primary
+Class A;EDNRB;ETB;primary;primary;primary;primary;primary;primary;primary;;secondary;primary;secondary;primary
+Class A;FPR1;FPR1;;primary;secondary;;;primary;;;No coupling;primary;secondary;No coupling
+Class A;FPR2;FPR2/ALX;;primary;primary;;;primary;secondary;;No coupling;secondary;primary;No coupling
+Class A;FPR3;FPR3;;primary;;;;primary;;;;;;
+Class A;GALR1;GAL1;;primary;;;;primary;;;No coupling;primary;No coupling;No coupling
+Class A;GALR2;GAL2;;secondary;primary;secondary;;secondary;primary;secondary;No coupling;secondary;primary;secondary
+Class A;GALR3;GAL3;;primary;secondary;;;primary;;;No coupling;primary;secondary;No coupling
+Class A;GHSR;ghrelin;secondary;secondary;primary;secondary;;secondary;primary;secondary;secondary;secondary;primary;secondary
+Class A;GNRHR;GnRH1;secondary;secondary;primary;;;secondary;primary;;secondary;secondary;primary;No coupling
+Class A;KISSR;kisspeptin;;;primary;;;;primary;;No coupling;No coupling;primary;No coupling
+Class A;MCHR1;MCH1;primary;primary;primary;;primary;primary;primary;;secondary;primary;primary;No coupling
+Class A;MCHR2;MCH2;secondary;primary;primary;secondary;;;primary;;secondary;primary;primary;secondary
+Class A;MSHR;MC1;primary;;primary;;primary;;;;secondary;No coupling;primary;No coupling
+Class A;ACTHR;MC2;primary;;;;primary;;;;;;;
+Class A;MC3R;MC3;primary;secondary;secondary;primary;primary;;;;secondary;secondary;secondary;primary
+Class A;MC4R;MC4;primary;secondary;primary;secondary;primary;;;;secondary;secondary;primary;secondary
+Class A;MC5R;MC5;primary;secondary;primary;secondary;primary;;;;secondary;secondary;primary;secondary
+Class A;MTLR;motilin;;secondary;primary;primary;;;primary;primary;No coupling;secondary;primary;secondary
+Class A;NMUR1;NMU1;;;primary;;;;primary;;No coupling;No coupling;primary;No coupling
+Class A;NMUR2;NMU2;;primary;primary;secondary;;;primary;;No coupling;primary;primary;secondary
+Class A;NPFF1;NPFF1;;primary;;;;primary;;;No coupling;primary;No coupling;No coupling
+Class A;NPFF2;NPFF2;;primary;;;;primary;;;No coupling;primary;No coupling;No coupling
+Class A;NPSR1;NPS;secondary;;primary;;secondary;;primary;;;;;
+Class A;NPBW1;NPBW1;;primary;;;;primary;;;No coupling;primary;No coupling;No coupling
+Class A;NPBW2;NPBW2;;primary;;;;primary;;;;;;
+Class A;NPY1R;Y1;;primary;;;;primary;;;;;;
+Class A;CXCR1;CXCR1;;primary;secondary;;;primary;secondary;;;;;
+Class A;NPY2R;Y2;;primary;secondary;;;primary;secondary;;;;;
+Class A;NPY4R;Y4;;primary;secondary;;;primary;secondary;;;;;
+Class A;NPY5R;Y5;;primary;;;;primary;;;;;;
+Class A;NPY6R;y6;;;;;;;;;;;;
+Class A;NTR1;NTS1;secondary;secondary;primary;;secondary;secondary;primary;;;;;
+Class A;NTR2;NTS2;;;primary;;;;primary;;;;;
+Class A;OPRD;δ;;primary;secondary;;;primary;;;No coupling;primary;secondary;No coupling
+Class A;OPRK;κ;;primary;;secondary;;primary;;secondary;No coupling;primary;No coupling;No coupling
+Class A;OPRM;μ;;primary;secondary;;;primary;secondary;;No coupling;primary;No coupling;No coupling
+Class A;OPRX;NOP;;primary;secondary;;;primary;;;No coupling;primary;secondary;No coupling
+Class A;OX1R;OX1;primary;primary;primary;primary;primary;primary;primary;;No coupling;secondary;primary;primary
+Class A;OX2R;OX2;primary;primary;primary;secondary;primary;primary;primary;;No coupling;secondary;primary;secondary
+Class A;QRFPR;QRFP;;primary;primary;;;primary;primary;;;;;
+Class A;PRLHR;PrRP;;secondary;primary;secondary;;;;;No coupling;secondary;primary;secondary
+Class A;PAR1;PAR1;;primary;primary;primary;;;;;No coupling;primary;primary;primary
+Class A;PAR2;PAR2;secondary;primary;secondary;primary;;;;;secondary;primary;secondary;primary
+Class A;PAR3;PAR3;secondary;secondary;secondary;primary;;;;;secondary;secondary;secondary;primary
+Class A;PAR4;PAR4;secondary;primary;secondary;primary;;;;;secondary;primary;secondary;primary
+Class A;RXFP1;RXFP1;primary;primary;;;primary;primary;;;;;;
+Class A;RXFP2;RXFP2;primary;primary;;;primary;primary;;;;;;
+Class A;RL3R1;RXFP3;;primary;;;;primary;;;;;;
+Class A;RL3R2;RXFP4;;primary;;;;primary;;;;;;
+Class A;SSR1;SST1;;primary;;secondary;;primary;;;No coupling;primary;No coupling;secondary
+Class A;SSR2;SST2;;primary;secondary;;;primary;;;No coupling;primary;secondary;No coupling
+Class A;SSR3;SST3;;primary;;;;primary;;;No coupling;primary;No coupling;No coupling
+Class A;SSR4;SST4;;primary;;secondary;;primary;;;No coupling;primary;No coupling;secondary
+Class A;SSR5;SST5;;primary;;;;primary;;;No coupling;primary;No coupling;No coupling
+Class A;NK1R;NK1;primary;secondary;primary;secondary;primary;;primary;;secondary;secondary;primary;secondary
+Class A;NK2R;NK2;primary;secondary;primary;;primary;;primary;;No coupling;secondary;primary;No coupling
+Class A;NK3R;NK3;secondary;secondary;primary;secondary;;;primary;;secondary;secondary;primary;secondary
+Class A;CXCR2;CXCR2;;primary;;;;primary;;;;;;
+Class A;TRFR;TRH1;;;primary;;;;primary;;;;;
+Class A;UR2R;UT;secondary;primary;primary;secondary;;;primary;;secondary;primary;secondary;secondary
+Class A;V1AR;V1A;secondary;;primary;;;;primary;;secondary;No coupling;primary;No coupling
+Class A;V1BR;V1B;secondary;secondary;primary;;;;primary;;secondary;secondary;primary;No coupling
+Class A;V2R;V2;primary;;;;primary;;;;primary;No coupling;No coupling;No coupling
+Class A;OXYR;OT;secondary;secondary;primary;;;secondary;primary;;secondary;secondary;primary;No coupling
+Class A;CML1;chemerin;;primary;;;;primary;;;;;;
+Class A;CCR1;CCR1;;primary;;;;primary;;;;;;
+Class A;CCR2;CCR2;;primary;;;;primary;;;;;;
+Class A;CCR3;CCR3;;primary;;;;primary;;;;;;
+Class A;CCR4;CCR4;;primary;;;;primary;;;;;;
+Class A;CCR5;CCR5;;primary;;;;primary;;;;;;
+Class A;CCR6;CCR6;;primary;;;;primary;;;;;;
+Class A;CCR7;CCR7;;primary;;;;primary;;;;;;
+Class A;CCR8;CCR8;;primary;;;;primary;;;;;;
+Class A;CCR9;CCR9;;primary;;;;primary;;;;;;
+Class A;CCR10;CCR10;;primary;;;;primary;;;;;;
+Class A;CXCR3;CXCR3;;primary;;;;primary;;;;;;
+Class A;CXCR4;CXCR4;;primary;;;;primary;;;;;;
+Class A;CXCR5;CXCR5;;primary;;;;primary;;;;;;
+Class A;CXCR6;CXCR6;;primary;;;;primary;;;;;;
+Class A;CX3C1;CX3C;;primary;;;;primary;;;;;;
+Class A;XCR1;XCR1;;primary;;;;primary;;;;;;
+Class A;ACKR1;ACKR1;;;;;;;;;;;;
+Class A;ACKR2;ACKR2;;;;;;;;;;;;
+Class A;ACKR3;ACKR3;;;;;;;;;;;;
+Class A;ACKR4;ACKR4;;;;;;;;;;;;
+Class A;CCRL2;CCRL2;;;;;;;;;;;;
+Class A;FSHR;FSH;primary;primary;primary;;primary;primary;primary;;;;;
+Class A;LSHR;LH;primary;;secondary;;primary;;secondary;;;;;
+Class A;TSHR;TSH;primary;;secondary;;primary;;secondary;;;;;
+Class A;PKR1;PKR1;secondary;;primary;;secondary;;primary;;;;;
+Class A;PKR2;PKR2;secondary;secondary;primary;;secondary;secondary;primary;;;;;
+Class A;FFAR1;FFA1;secondary;secondary;primary;secondary;secondary;secondary;primary;;secondary;secondary;primary;secondary
+Class A;FFAR2;FFA2;secondary;secondary;primary;primary;;secondary;primary;;secondary;secondary;primary;primary
+Class A;FFAR3;FFA3;;primary;;secondary;;primary;;;No coupling;primary;No coupling;secondary
+Class A;FFAR4;FFA4;secondary;primary;primary;secondary;;;primary;;secondary;primary;secondary;secondary
+Class A;GPR42;GPR42;;;;;;;;;;;;
+Class A;LT4R1;BLT1;;primary;primary;;;primary;primary;;No coupling;primary;secondary;No coupling
+Class A;LT4R2;BLT2;;primary;secondary;;;primary;secondary;;No coupling;primary;No coupling;No coupling
+Class A;CLTR1;CysLT1;;secondary;primary;;;secondary;primary;;No coupling;secondary;primary;No coupling
+Class A;CLTR2;CysLT2;;secondary;primary;;;secondary;primary;;No coupling;secondary;primary;No coupling
+Class A;OXER1;OXE;;primary;;;;primary;;;;;;
+Class A;LPAR1;LPA1;;primary;primary;primary;;primary;primary;primary;No coupling;secondary;primary;primary
+Class A;LPAR2;LPA2;secondary;primary;primary;primary;;primary;primary;primary;secondary;secondary;primary;primary
+Class A;LPAR3;LPA3;secondary;primary;primary;secondary;;primary;primary;;secondary;primary;secondary;secondary
+Class A;LPAR4;LPA4;primary;primary;primary;primary;primary;primary;primary;primary;primary;secondary;secondary;secondary
+Class A;LPAR5;LPA5;;primary;primary;primary;;;primary;primary;No coupling;primary;No coupling;secondary
+Class A;LPAR6;LPA6;primary;primary;secondary;primary;primary;primary;;primary;No coupling;secondary;secondary;primary
+Class A;S1PR1;S1P1;;primary;;;;primary;;;No coupling;primary;No coupling;No coupling
+Class A;S1PR2;S1P2;primary;secondary;primary;primary;primary;;primary;primary;No coupling;secondary;secondary;primary
+Class A;S1PR3;S1P3;secondary;primary;primary;primary;;primary;primary;primary;secondary;primary;primary;primary
+Class A;S1PR4;S1P4;;primary;;primary;;primary;;primary;;;;
+Class A;S1PR5;S1P5;;primary;;primary;;primary;;primary;No coupling;primary;No coupling;No coupling
+Class A;CNR1;CB1;secondary;primary;secondary;primary;secondary;primary;;;No coupling;primary;secondary;primary
+Class A;CNR2;CB2;secondary;primary;;;secondary;primary;;;No coupling;primary;No coupling;No coupling
+Class A;GPR18;GPR18;;primary;primary;;;primary;primary;;;;;
+Class A;GPR55;GPR55;;;primary;primary;;;primary;primary;No coupling;No coupling;No coupling;primary
+Class A;GP119;GPR119;primary;primary;primary;;primary;;;;primary;primary;primary;No coupling
+Class A;PTAFR;PAF;primary;primary;primary;secondary;;primary;primary;;primary;primary;primary;secondary
+Class A;PD2R;DP1;primary;;;;primary;;;;primary;No coupling;No coupling;No coupling
+Class A;PD2R2;DP2;;primary;;;;primary;;;;;;
+Class A;PE2R1;EP1;secondary;secondary;primary;secondary;;secondary;primary;;secondary;No coupling;primary;secondary
+Class A;PE2R2;EP2;primary;;;;primary;;;;primary;No coupling;No coupling;No coupling
+Class A;PE2R3;EP3;;primary;secondary;primary;;primary;secondary;;No coupling;secondary;No coupling;primary
+Class A;P2Y14;P2Y14;;primary;secondary;;;primary;;;No coupling;primary;secondary;No coupling
+Class A;PE2R4;EP4;primary;secondary;;;primary;secondary;;;primary;secondary;No coupling;No coupling
+Class A;PF2R;FP;primary;;primary;;secondary;;primary;;primary;No coupling;primary;No coupling
+Class A;PI2R;IP;primary;secondary;secondary;;primary;secondary;secondary;;primary;No coupling;secondary;No coupling
+Class A;TA2R;TP;;secondary;primary;secondary;;;primary;;No coupling;secondary;primary;secondary
+Class A;MTR1A;MT1;;primary;secondary;;;primary;secondary;;No coupling;primary;No coupling;No coupling
+Class A;MTR1B;MT2;;primary;;;;primary;;;No coupling;primary;No coupling;No coupling
+Class A;AA1R;A1;secondary;primary;secondary;;secondary;primary;secondary;;No coupling;primary;No coupling;No coupling
+Class A;AA2AR;A2A;primary;primary;primary;;primary;;secondary;;primary;primary;primary;No coupling
+Class A;AA2BR;A2B;primary;primary;secondary;;primary;;secondary;;secondary;primary;secondary;No coupling
+Class A;AA3R;A3;;primary;;;;primary;;;No coupling;primary;No coupling;No coupling
+Class A;P2RY1;P2Y1;primary;primary;primary;secondary;;secondary;primary;;primary;primary;secondary;secondary
+Class A;P2RY2;P2Y2;secondary;secondary;primary;primary;;secondary;primary;secondary;secondary;No coupling;primary;primary
+Class A;P2RY4;P2Y4;;primary;primary;secondary;;;primary;;No coupling;primary;secondary;secondary
+Class A;P2RY6;P2Y6;primary;secondary;primary;primary;;;primary;secondary;primary;secondary;secondary;primary
+Class A;P2Y11;P2Y11;secondary;primary;primary;primary;secondary;;primary;;secondary;primary;secondary;primary
+Class A;P2Y12;P2Y12;;primary;;;;;;;No coupling;primary;No coupling;No coupling
+Class A;P2Y13;P2Y13;;primary;primary;secondary;;primary;;;No coupling;secondary;primary;secondary
+Class A;GPBAR;GPBA;primary;;;;primary;;;;;;;
+Class A;GPER1;GPER;secondary;primary;;;secondary;primary;;;;;;
+Class A;HCAR1;HCA1;;primary;;;;primary;;;;;;
+Class A;HCAR2;HCA2;;primary;;;;primary;;;;;;
+Class A;HCAR3;HCA3;;primary;;;;primary;;;;;;
+Class A;OXGR1;oxoglutarate;secondary;secondary;primary;secondary;;;primary;;secondary;secondary;primary;secondary
+Class A;SUCR1;succinate;;primary;secondary;;;primary;secondary;;;;;
+Class A;OPSD;Rhodopsin;;;;;;;;;;;;
+Class A;OPN4;Melanopsin;;primary;primary;;;primary;primary;;;;;
+Class A;OPN3;Opsin-3;;;;;;;;;;;;
+Class A;OPN5;Opsin-5;;primary;;;;primary;;;;;;
+Class A;OPSB;Short-wave-sens;;;;;;;;;;;;
+Class A;OPSG;Medium-wave-sen;;;;;;;;;;;;
+Class A;OPSR;Long-wave-sensi;;;;;;;;;;;;
+Class A;GPR1;GPR1;;;;;;;;;;;;
+Class A;GPR3;GPR3;primary;;;;primary;;;;;;;
+Class A;GPR4;GPR4;primary;primary;primary;primary;primary;primary;primary;primary;;;;
+Class A;GPR6;GPR6;primary;primary;;;primary;primary;;;;;;
+Class A;GPR12;GPR12;primary;primary;;;primary;primary;;;;;;
+Class A;GPR15;GPR15;;;;;;;;;;;;
+Class A;GPR17;GPR17;;primary;secondary;;;primary;secondary;;No coupling;primary;secondary;No coupling
+Class A;GPR19;GPR19;;;;;;;;;;;;
+Class A;GPR20;GPR20;;primary;;;;primary;;;;;;
+Class A;GPR21;GPR21;;;;;;;;;;;;
+Class A;GPR22;GPR22;;primary;;;;primary;;;;;;
+Class A;GPR25;GPR25;;;;;;;;;;;;
+Class A;GPR26;GPR26;primary;;;;primary;;;;;;;
+Class A;GPR27;GPR27;;;primary;;;;primary;;;;;
+Class A;GPR31;GPR31;;primary;;;;primary;;;;;;
+Class A;GPR32;GPR32;;;;;;;;;;;;
+Class A;GPR33;GPR33;;primary;;;;primary;;;;;;
+Class A;GPR34;GPR34;;primary;;;;primary;;;No coupling;primary;No coupling;No coupling
+Class A;GPR35;GPR35;;primary;;secondary;;;;;No coupling;primary;No coupling;secondary
+Class A;GPR37;GPR37;;primary;;;;primary;;;;;;
+Class A;ETBR2;GPR37L1;;primary;;;;primary;;;;;;
+Class A;GPR39;GPR39;secondary;;primary;secondary;secondary;;primary;secondary;;;;
+Class A;GPR45;GPR45;;;;;;;;;;;;
+Class A;MTR1L;GPR50;;;;;;;;;;;;
+Class A;GPR52;GPR52;;;;;;;;;;;;
+Class A;GPR61;GPR61;;;;;;;;;;;;
+Class A;GPR62;GPR62;;;;;;;;;;;;
+Class A;GPR63;GPR63;;;;;;;;;;;;
+Class A;PSYR;GPR65;primary;;;;primary;;;;;;;
+Class A;OGR1;GPR68;;primary;primary;;;primary;primary;;;;;
+Class A;GPR75;GPR75;;;primary;;;;primary;;;;;
+Class A;GPR78;GPR78;primary;;;;primary;;;;;;;
+Class A;GPR82;GPR82;;;;;;;;;;;;
+Class A;GPR83;GPR83;;;;;;;;;;;;
+Class A;GPR84;GPR84;;primary;;;;primary;;;No coupling;primary;No coupling;No coupling
+Class A;GPR85;GPR85;;;;;;;;;;;;
+Class A;GPR87;GPR87;;;;;;;;;;;;
+Class A;GPR88;GPR88;;;;;;;;;;;;
+Class A;GP101;GPR101;primary;;;;primary;;;;;;;
+Class A;GP132;GPR132;primary;secondary;primary;secondary;;;;;primary;secondary;primary;secondary
+Class A;GP135;GPR135;;;;;;;;;;;;
+Class A;GP139;GPR139;;;primary;;;;primary;;;;;
+Class A;GP141;GPR141;;;;;;;;;;;;
+Class A;GP142;GPR142;;;;;;;;;;;;
+Class A;GP146;GPR146;;;;;;;;;;;;
+Class A;GP148;GPR148;;;;;;;;;;;;
+Class A;GP149;GPR149;;;;;;;;;;;;
+Class A;GP150;GPR150;;;;;;;;;;;;
+Class A;GP151;GPR151;;;;;;;;;;;;
+Class A;GP152;GPR152;;;;;;;;;;;;
+Class A;GP153;GPR153;;;;;;;;;;;;
+Class A;GP160;GPR160;;;;;;;;;;;;
+Class A;GP161;GPR161;;;;;;;;;;;;
+Class A;GP162;GPR162;;;;;;;;;;;;
+Class A;GP171;GPR171;;;;;;;;;;;;
+Class A;GP173;GPR173;;;;;;;;;;;;
+Class A;GP174;GPR174;primary;;;secondary;;;;;primary;No coupling;No coupling;secondary
+Class A;GP176;GPR176;;;;;;;;;;;;
+Class A;GP182;GPR182;;;;;;;;;;;;
+Class A;GP183;GPR183;;primary;;secondary;;primary;;;No coupling;primary;No coupling;secondary
+Class A;LGR4;LGR4;;;;;;;;;;;;
+Class A;LGR5;LGR5;;;;;;;;;;;;
+Class A;TAAR8;TAAR8;;;;;;;;;;;;
+Class A;LGR6;LGR6;;;;;;;;;;;;
+Class A;MAS;MAS1;;primary;primary;;;primary;primary;;;;;
+Class A;MAS1L;MAS1L;;;;;;;;;;;;
+Class A;MRGRD;MRGPRD;;primary;primary;;;primary;primary;;;;;
+Class A;MRGRE;MRGPRE;;;;;;;;;;;;
+Class A;MRGRF;MRGPRF;;;;;;;;;;;;
+Class A;MRGRG;MRGPRG;;;;;;;;;;;;
+Class A;MRGX1;MRGPRX1;primary;secondary;primary;primary;;;primary;;primary;secondary;secondary;primary
+Class A;MRGX2;MRGPRX2;secondary;primary;primary;secondary;;primary;primary;;secondary;primary;primary;secondary
+Class A;MRGX3;MRGPRX3;;;primary;;;;primary;;;;;
+Class A;MRGX4;MRGPRX4;;;primary;;;;primary;;;;;
+Class A;P2RY8;P2RY8;;;;;;;;;;;;
+Class A;P2Y10;P2RY10;;secondary;secondary;primary;;;;;No coupling;secondary;secondary;primary
+Class A;TAAR2;TAAR2;;;;;;;;;;;;
+Class A;TAAR3;TAAR3;;;;;;;;;;;;
+Class A;TAAR5;TAAR5;;;;;;;;;;;;
+Class A;TAAR6;TAAR6;;;;;;;;;;;;
+Class A;TAAR9;TAAR9;;;;;;;;;;;;
+Class B1;CALCR;CT;primary;;secondary;;primary;;secondary;;;;;
+Class B1;CALRL;calcitonin-like;;;;;;;;;;;;
+Class B1;CRFR1;CRF1;primary;;secondary;;primary;;secondary;;;;;
+Class B1;CRFR2;CRF2;primary;;secondary;;primary;;secondary;;;;;
+Class B1;GHRHR;GHRH;primary;;;;primary;;;;;;;
+Class B1;GIPR;GIP;primary;;;;primary;;;;primary;No coupling;No coupling;No coupling
+Class B1;GLP1R;GLP-1;primary;;;;primary;;;;;;;
+Class B1;GLP2R;GLP-2;;;;;;;;;;;;
+Class B1;GLR;glucagon;primary;;;;primary;;;;;;;
+Class B1;SCTR;secretin;;;;;;;;;;;;
+Class B1;PTH1R;PTH1;primary;;secondary;;primary;;secondary;;primary;No coupling;secondary;No coupling
+Class B1;PTH2R;PTH2;primary;secondary;secondary;secondary;;;;;primary;secondary;secondary;secondary
+Class B1;PACR;PAC1;primary;;primary;;primary;;primary;;primary;No coupling;primary;No coupling
+Class B1;VIPR1;VPAC1;primary;secondary;secondary;;primary;secondary;secondary;;;;;
+Class B1;VIPR2;VPAC2;primary;;;;primary;;;;;;;
+Class B2;AGRL1;ADGRL1;;;primary;;;;primary;;;;;
+Class B2;AGRL2;ADGRL2;;;;;;;;;;;;
+Class B2;AGRL3;ADGRL3;;;;;;;;;;;;
+Class B2;AGRL4;ADGRL4;;;;;;;;;;;;
+Class B2;AGRE1;ADGRE1;;;;;;;;;;;;
+Taste 2;TA2R9;TAS2R9;;;;;;;;;;;;
+Class B2;AGRE2;ADGRE2;;;primary;;;;primary;;;;;
+Class B2;AGRE3;ADGRE3;;;;;;;;;;;;
+Class B2;AGRE4;ADGRE4P;;;;;;;;;;;;
+Class B2;CD97;ADGRE5;;;;primary;;;;primary;;;;
+Class B2;AGRA1;ADGRA1;;;;;;;;;;;;
+Class B2;AGRA2;ADGRA2;;;;;;;;;;;;
+Class B2;AGRA3;ADGRA3;;;;;;;;;;;;
+Class B2;CELR1;CELSR1;;;;;;;;;;;;
+Class B2;CELR2;CELSR2;;;;;;;;;;;;
+Class B2;CELR3;CELSR3;;;;;;;;;;;;
+Class B2;AGRD1;ADGRD1;primary;;;;primary;;;;;;;
+Class B2;AGRD2;ADGRD2;;;;;;;;;;;;
+Class B2;AGRF1;ADGRF1;;;;;;;;;;;;
+Class B2;AGRF2;ADGRF2;;;;;;;;;;;;
+Class B2;AGRF3;ADGRF3;;;;;;;;;;;;
+Class B2;AGRF4;ADGRF4;;;;;;;;;;;;
+Class B2;AGRF5;ADGRF5;;;;;;;;;;;;
+Class B2;BAI1;ADGRB1;;;;;;;;;;;;
+Class B2;AGRB2;ADGRB2;;;;;;;;;;;;
+Class B2;AGRB3;ADGRB3;;;;;;;;;;;;
+Class B2;AGRG1;ADGRG1;;;primary;primary;;;primary;primary;;;;
+Class B2;AGRG2;ADGRG2;;;secondary;;;;secondary;;;;;
+Class B2;AGRG3;ADGRG3;;primary;;;;primary;;;;;;
+Class B2;AGRG4;ADGRG4;;;;;;;;;;;;
+Class B2;AGRG5;ADGRG5;;;;;;;;;;;;
+Class B2;AGRG6;ADGRG6;;;;;;;;;;;;
+Class B2;AGRG7;ADGRG7;;;;;;;;;;;;
+Class B2;GPR98;ADGRV1;;;;;;;;;;;;
+Class C;CASR;CaS;;primary;primary;primary;;primary;primary;primary;;;;
+Class C;GABR1;GABAB1;;;;;;;;;;;;
+Class C;GABR2;GABAB2;;;;;;;;;;;;
+Class C;GRM1;mGlu1;secondary;secondary;primary;;secondary;secondary;primary;;;;;
+Class C;GRM2;mGlu2;;primary;;;;primary;;;;;;
+Class C;GRM3;mGlu3;;primary;;;;primary;;;;;;
+Taste 2;T2R10;TAS2R10;;;;;;;;;;;;
+Class C;GRM4;mGlu4;;primary;;;;primary;;;;;;
+Class C;GRM5;mGlu5;secondary;secondary;primary;;secondary;secondary;primary;;;;;
+Class C;GRM6;mGlu6;;primary;;;;primary;;;;;;
+Class C;GRM7;mGlu7;;primary;;;;primary;;;;;;
+Class C;GRM8;mGlu8;;primary;;;;primary;;;;;;
+Class C;TS1R1;TAS1R1;;;;;;;;;;;;
+Class C;TS1R2;TAS1R2;;;;;;;;;;;;
+Class F;FZD3;FZD3;primary;;;;primary;;;;;;;
+Class C;TS1R3;TAS1R3;;;;;;;;;;;;
+Class C;GP156;GPR156;;;;;;;;;;;;
+Class C;GP158;GPR158;;;;;;;;;;;;
+Class C;GP179;GPR179;;;;;;;;;;;;
+Class C;RAI3;GPRC5A;;;;;;;;;;;;
+Class C;GPC5B;GPRC5B;;;;;;;;;;;;
+Class C;GPC5C;GPRC5C;;;;;;;;;;;;
+Class C;GPC5D;GPRC5D;;;;;;;;;;;;
+Class C;GPC6A;GPRC6;;;primary;;;;primary;;;;;
+Class F;FZD1;FZD1;;secondary;secondary;;;secondary;secondary;;;;;
+Class F;FZD2;FZD2;;primary;;;;primary;;;;;;
+Taste 2;TA2R8;TAS2R8;;;;;;;;;;;;
+Class F;FZD4;FZD4;;;;primary;;;;primary;;;;
+Class F;FZD5;FZD5;;;;;;;;;;;;
+Class F;FZD6;FZD6;;primary;primary;;;primary;primary;;;;;
+Class F;FZD7;FZD7;primary;primary;;;primary;primary;;;;;;
+Class F;FZD8;FZD8;;;;;;;;;;;;
+Class F;FZD9;FZD9;;primary;;;;primary;;;;;;
+Class F;FZD10;FZD10;;;;secondary;;;;secondary;;;;
+Class F;SMO;SMO;;primary;;primary;;primary;;primary;;;;
+Taste 2;TA2R1;TAS2R1;;;;;;;;;;;;
+Taste 2;TA2R3;TAS2R3;;;;;;;;;;;;
+Taste 2;TA2R4;TAS2R4;;;;;;;;;;;;
+Taste 2;TA2R5;TAS2R5;;;;;;;;;;;;
+Taste 2;TA2R7;TAS2R7;;;;;;;;;;;;
+Taste 2;T2R13;TAS2R13;;;;;;;;;;;;
+Taste 2;T2R14;TAS2R14;;;;;;;;;;;;
+Taste 2;T2R16;TAS2R16;;;;;;;;;;;;
+Taste 2;T2R19;TAS2R19;;;;;;;;;;;;
+Taste 2;T2R20;TAS2R20;;;;;;;;;;;;
+Taste 2;T2R30;TAS2R30;;;;;;;;;;;;
+Taste 2;T2R31;TAS2R31;;;;;;;;;;;;
+Taste 2;T2R38;TAS2R38;;;;;;;;;;;;
+Taste 2;T2R39;TAS2R39;;;;;;;;;;;;
+Taste 2;T2R40;TAS2R40;;;;;;;;;;;;
+Taste 2;T2R41;TAS2R41;;;;;;;;;;;;
+Taste 2;T2R42;TAS2R42;;;;;;;;;;;;
+Taste 2;T2R43;TAS2R43;;;;;;;;;;;;
+Taste 2;T2R45;TAS2R45;;;;;;;;;;;;
+Taste 2;T2R46;TAS2R46;;;;;;;;;;;;
+Taste 2;T2R50;TAS2R50;;;;;;;;;;;;
+Taste 2;T2R60;TAS2R60;;;;;;;;;;;;
+Other GPCRs;GP107;GPR107;;;;;;;;;;;;
+Other GPCRs;G137A;GPR137;;;;;;;;;;;;
+Other GPCRs;O51E1;OR51E1;;;;;;;;;;;;
+Other GPCRs;TPRA1;TPRA1;;;;;;;;;;;;
+Other GPCRs;GP143;GPR143;;;;;;;;;;;;
+Other GPCRs;GP157;GPR157;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;

@@ -1,0 +1,281 @@
+name,family,subfamily,score,aska_gs,aska_gio,aska_gq11,aska_g1213,gtop_gs,gtop_gio,gtop_gq11,gtop_g1213,merg_gs,merg_gio,merg_gq11,merg_g1213
+taar2_human,Orphan receptors,Class A orphans,62.3,0,0,0,0,0,0,0,0,0,0,0,0
+taar9_human,Orphan receptors,Class A orphans,66.7,0,0,0,0,0,0,0,0,0,0,0,0
+mrgre_human,Orphan receptors,Class A orphans,37.7,0,0,0,0,0,0,0,0,0,0,0,0
+lpar3_human,Lipid receptors,Lysophospholipid (LPA) receptors,56.5,2,1,2,2,0,1,1,0,2,1,1,2
+npff1_human,Peptide receptors,Neuropeptide FF/neuropeptide AF receptors,53.6,0,1,0,0,0,1,0,0,0,1,0,0
+gp141_human,Orphan receptors,Class A orphans,41.3,0,0,0,0,0,0,0,0,0,0,0,0
+ackr3_human,Protein receptors,Chemokine receptors,37.6,0,0,0,0,0,0,0,0,0,0,0,0
+oprm_human,Peptide receptors,Opioid receptors,70.3,0,1,0,0,0,1,2,0,0,1,2,0
+hrh3_human,Aminergic receptors,Histamine receptors,64.6,0,1,0,0,0,1,0,0,0,1,0,0
+par3_human,Peptide receptors,Proteinase-activated receptors,46.3,2,2,2,1,0,0,0,0,2,2,2,1
+ccr7_human,Protein receptors,Chemokine receptors,54.3,0,0,0,0,0,1,0,0,0,1,0,0
+5ht5a_human,Aminergic receptors,5-Hydroxytryptamine receptors,63,0,0,0,0,0,1,2,0,0,1,2,0
+gp182_human,Orphan receptors,Class A orphans,40.6,0,0,0,0,0,0,0,0,0,0,0,0
+acm3_human,Aminergic receptors,Acetylcholine receptors (muscarinic),62.4,0,2,1,0,0,0,1,0,0,2,1,0
+pd2r2_human,Lipid receptors,Prostanoid receptors,44.9,0,0,0,0,0,1,0,0,0,1,0,0
+ssr1_human,Peptide receptors,Somatostatin receptors,69.6,0,1,0,2,0,1,0,0,0,1,0,2
+bkrb1_human,Peptide receptors,Bradykinin receptors,59.4,2,1,1,2,0,1,1,0,2,1,1,2
+opsr_human,Sensory receptors,Opsins,76.8,0,0,0,0,0,0,0,0,0,0,0,0
+gpr1_human,Orphan receptors,Class A orphans,51.4,0,0,0,0,0,0,0,0,0,0,0,0
+ffar4_human,Lipid receptors,Free fatty acid receptors,39.1,2,1,2,2,0,0,1,0,2,1,1,2
+cltr2_human,Lipid receptors,Leukotriene receptors,53.7,0,2,1,0,0,2,1,0,0,2,1,0
+gp142_human,Orphan receptors,Class A orphans,62.3,0,0,0,0,0,0,0,0,0,0,0,0
+aa2ar_human,Nucleotide receptors,Adenosine receptors,67.4,1,1,1,0,1,0,2,0,1,1,1,0
+psyr_human,Orphan receptors,Class A orphans,60.1,0,0,0,0,1,0,0,0,1,0,0,0
+lgr5_human,Orphan receptors,Class A orphans,43.5,0,0,0,0,0,0,0,0,0,0,0,0
+rxfp1_human,Peptide receptors,Relaxin family peptide receptors,57.3,0,0,0,0,1,1,0,0,1,1,0,0
+ada1d_human,Aminergic receptors,Adrenoceptors,58,1,0,1,0,0,0,1,0,1,0,1,0
+fpr3_human,Peptide receptors,Formylpeptide receptors,50.7,0,0,0,0,0,1,0,0,0,1,0,0
+mrgrf_human,Orphan receptors,Class A orphans,53.7,0,0,0,0,0,0,0,0,0,0,0,0
+ccrl2_human,Protein receptors,Chemokine receptors,37.6,0,0,0,0,0,0,0,0,0,0,0,0
+gp152_human,Orphan receptors,Class A orphans,52.2,0,0,0,0,0,0,0,0,0,0,0,0
+gpr42_human,Lipid receptors,Free fatty acid receptors,47.1,0,0,0,0,0,0,0,0,0,0,0,0
+gpr19_human,Orphan receptors,Class A orphans,49.2,0,0,0,0,0,0,0,0,0,0,0,0
+ccr1_human,Protein receptors,Chemokine receptors,61.6,0,0,0,0,0,1,0,0,0,1,0,0
+gpr39_human,Orphan receptors,Class A orphans,56.5,0,0,0,0,2,0,1,2,2,0,1,2
+gpr37_human,Orphan receptors,Class A orphans,50.1,0,0,0,0,0,1,0,0,0,1,0,0
+gpr82_human,Orphan receptors,Class A orphans,45.7,0,0,0,0,0,0,0,0,0,0,0,0
+mrgx2_human,Orphan receptors,Class A orphans,47.1,2,1,1,2,0,1,1,0,2,1,1,2
+p2y12_human,Nucleotide receptors,P2Y receptors,44.9,0,1,0,0,0,0,0,0,0,1,0,0
+oxgr1_human,Alicarboxylic acid receptors,Oxoglutarate receptors,63,2,2,1,2,0,0,1,0,2,2,1,2
+s1pr4_human,Lipid receptors,Lysophospholipid (S1P) receptors,58,0,0,0,0,0,1,0,1,0,1,0,1
+mc4r_human,Peptide receptors,Melanocortin receptors,47.1,2,2,1,2,1,0,0,0,1,2,1,2
+gpr25_human,Orphan receptors,Class A orphans,57.3,0,0,0,0,0,0,0,0,0,0,0,0
+gp160_human,Orphan receptors,Class A orphans,33.3,0,0,0,0,0,0,0,0,0,0,0,0
+fpr1_human,Peptide receptors,Formylpeptide receptors,53.6,0,1,2,0,0,1,0,0,0,1,2,0
+c5ar1_human,Peptide receptors,Complement peptide receptors,49.9,0,0,0,0,0,1,2,0,0,1,2,0
+5ht1e_human,Aminergic receptors,5-Hydroxytryptamine receptors,74,0,1,0,0,0,1,0,0,0,1,0,0
+cxcr6_human,Protein receptors,Chemokine receptors,48.5,0,0,0,0,0,1,0,0,0,1,0,0
+rxfp2_human,Peptide receptors,Relaxin family peptide receptors,63,0,0,0,0,1,1,0,0,1,1,0,0
+gpr63_human,Orphan receptors,Class A orphans,43.5,0,0,0,0,0,0,0,0,0,0,0,0
+cxcr2_human,Protein receptors,Chemokine receptors,49.3,0,0,0,0,0,1,0,0,0,1,0,0
+gpr32_human,Orphan receptors,Class A orphans,55.1,0,0,0,0,0,0,0,0,0,0,0,0
+ccr9_human,Protein receptors,Chemokine receptors,51.4,0,0,0,0,0,1,0,0,0,1,0,0
+ackr4_human,Protein receptors,Chemokine receptors,34.7,0,0,0,0,0,0,0,0,0,0,0,0
+gp101_human,Orphan receptors,Class A orphans,58.7,0,0,0,0,1,0,0,0,1,0,0,0
+5ht2c_human,Aminergic receptors,5-Hydroxytryptamine receptors,66,0,1,2,2,0,2,1,0,0,1,1,2
+adrb2_human,Aminergic receptors,Adrenoceptors,70.3,1,0,1,0,1,2,0,0,1,2,1,0
+gpr87_human,Orphan receptors,Class A orphans,61.6,0,0,0,0,0,0,0,0,0,0,0,0
+pe2r3_human,Lipid receptors,Prostanoid receptors,47.2,0,2,0,1,0,1,2,0,0,1,2,1
+npy4r_human,Peptide receptors,Neuropeptide Y receptors,49.9,0,0,0,0,0,1,2,0,0,1,2,0
+ssr4_human,Peptide receptors,Somatostatin receptors,69.6,0,1,0,2,0,1,0,0,0,1,0,2
+rl3r2_human,Peptide receptors,Relaxin family peptide receptors,52.9,0,0,0,0,0,1,0,0,0,1,0,0
+ackr2_human,Protein receptors,Chemokine receptors,48.5,0,0,0,0,0,0,0,0,0,0,0,0
+mas_human,Orphan receptors,Class A orphans,48.6,0,0,0,0,0,1,1,0,0,1,1,0
+cckar_human,Peptide receptors,Cholecystokinin receptors,72.5,2,1,1,2,2,0,1,0,2,1,1,2
+galr2_human,Peptide receptors,Galanin receptors,68.2,0,2,1,2,0,2,1,2,0,2,1,2
+gp149_human,Orphan receptors,Class A orphans,23.2,0,0,0,0,0,0,0,0,0,0,0,0
+mshr_human,Peptide receptors,Melanocortin receptors,40.5,2,0,1,0,1,0,0,0,1,0,1,0
+p2y11_human,Nucleotide receptors,P2Y receptors,48.6,2,1,2,1,2,0,1,0,2,1,1,1
+gpr84_human,Orphan receptors,Class A orphans,59.4,0,1,0,0,0,1,0,0,0,1,0,0
+ur2r_human,Peptide receptors,Urotensin receptors,60.8,2,1,2,2,0,0,1,0,2,1,1,2
+ackr1_human,Protein receptors,Chemokine receptors,10.9,0,0,0,0,0,0,0,0,0,0,0,0
+gpr55_human,Lipid receptors,"GPR18, GPR55 and GPR119",52.2,0,0,0,1,0,0,1,1,0,0,1,1
+gpr75_human,Orphan receptors,Class A orphans,47.1,0,0,0,0,0,0,1,0,0,0,1,0
+drd2_human,Aminergic receptors,Dopamine receptors,71.8,0,1,0,0,0,1,0,0,0,1,0,0
+gpr6_human,Orphan receptors,Class A orphans,58.7,0,0,0,0,1,1,0,0,1,1,0,0
+mas1l_human,Orphan receptors,Class A orphans,50,0,0,0,0,0,0,0,0,0,0,0,0
+5ht1f_human,Aminergic receptors,5-Hydroxytryptamine receptors,71.8,0,1,0,0,0,1,0,0,0,1,0,0
+sucr1_human,Alicarboxylic acid receptors,Succinate receptors,56.5,0,0,0,0,0,1,2,0,0,1,2,0
+tshr_human,Protein receptors,Glycoprotein hormone receptors,58,0,0,0,0,1,0,2,0,1,0,2,0
+taar1_human,Aminergic receptors,Trace amine receptors,63.1,0,0,0,0,1,0,2,0,1,0,2,0
+taar6_human,Orphan receptors,Class A orphans,66,0,0,0,0,0,0,0,0,0,0,0,0
+opn3_human,Sensory receptors,Opsins,44.9,0,0,0,0,0,0,0,0,0,0,0,0
+par4_human,Peptide receptors,Proteinase-activated receptors,50.7,2,1,2,1,0,0,0,0,2,1,2,1
+nk3r_human,Peptide receptors,Tachykinin receptors,58.7,2,2,1,2,0,0,1,0,2,2,1,2
+ccr10_human,Protein receptors,Chemokine receptors,39.8,0,0,0,0,0,1,0,0,0,1,0,0
+p2ry8_human,Orphan receptors,Class A orphans,52.9,0,0,0,0,0,0,0,0,0,0,0,0
+c5ar2_human,Peptide receptors,Complement peptide receptors,34,0,0,0,0,0,0,0,0,0,0,0,0
+brs3_human,Peptide receptors,Bombesin receptors,63.7,0,0,0,0,0,0,1,0,0,0,1,0
+par1_human,Peptide receptors,Proteinase-activated receptors,50,0,1,1,1,0,0,0,0,0,1,1,1
+pkr1_human,Protein receptors,Prokineticin receptors,54.3,0,0,0,0,2,0,1,0,2,0,1,0
+gp119_human,Lipid receptors,"GPR18, GPR55 and GPR119",62.4,1,1,1,0,1,0,0,0,1,1,1,0
+gp171_human,Orphan receptors,Class A orphans,46.3,0,0,0,0,0,0,0,0,0,0,0,0
+npff2_human,Peptide receptors,Neuropeptide FF/neuropeptide AF receptors,54.4,0,1,0,0,0,1,0,0,0,1,0,0
+pkr2_human,Protein receptors,Prokineticin receptors,53.5,0,0,0,0,2,2,1,0,2,2,1,0
+gpr83_human,Orphan receptors,Class A orphans,50.7,0,0,0,0,0,0,0,0,0,0,0,0
+ssr5_human,Peptide receptors,Somatostatin receptors,64.5,0,1,0,0,0,1,0,0,0,1,0,0
+oxer1_human,Lipid receptors,Leukotriene receptors,50,0,0,0,0,0,1,0,0,0,1,0,0
+gpr12_human,Orphan receptors,Class A orphans,58.7,0,0,0,0,1,1,0,0,1,1,0,0
+gp161_human,Orphan receptors,Class A orphans,65.2,0,0,0,0,0,0,0,0,0,0,0,0
+opsb_human,Sensory receptors,Opsins,78.3,0,0,0,0,0,0,0,0,0,0,0,0
+npy2r_human,Peptide receptors,Neuropeptide Y receptors,56.5,0,0,0,0,0,1,2,0,0,1,2,0
+taar5_human,Orphan receptors,Class A orphans,56.5,0,0,0,0,0,0,0,0,0,0,0,0
+lpar6_human,Lipid receptors,Lysophospholipid (LPA) receptors,58,0,2,2,1,1,1,0,1,1,1,2,1
+qrfpr_human,Peptide receptors,Peptide P518 receptors,67.4,0,0,0,0,0,1,1,0,0,1,1,0
+v2r_human,Peptide receptors,Vasopressin and oxytocin receptors,60.8,1,0,0,0,1,0,0,0,1,0,0,0
+cx3c1_human,Protein receptors,Chemokine receptors,59.5,0,0,0,0,0,1,0,0,0,1,0,0
+hcar2_human,Alicarboxylic acid receptors,Hydroxycarboxylic acid receptors,55.1,0,0,0,0,0,1,0,0,0,1,0,0
+ssr3_human,Peptide receptors,Somatostatin receptors,63,0,1,0,0,0,1,0,0,0,1,0,0
+pf2r_human,Lipid receptors,Prostanoid receptors,50,1,0,1,0,2,0,1,0,1,0,1,0
+gp173_human,Orphan receptors,Class A orphans,53.7,0,0,0,0,0,0,0,0,0,0,0,0
+gpr78_human,Orphan receptors,Class A orphans,61.7,0,0,0,0,1,0,0,0,1,0,0,0
+gp176_human,Orphan receptors,Class A orphans,58,0,0,0,0,0,0,0,0,0,0,0,0
+nmur2_human,Peptide receptors,Neuromedin U receptors,65.2,0,1,1,2,0,0,1,0,0,1,1,2
+gper1_human,Steroid receptors,Estrogen (G protein-coupled) receptors,57.3,0,0,0,0,2,1,0,0,2,1,0,0
+taar3_human,Orphan receptors,Class A orphans,66,0,0,0,0,0,0,0,0,0,0,0,0
+ogr1_human,Orphan receptors,Class A orphans,63.1,0,0,0,0,0,1,1,0,0,1,1,0
+npsr1_human,Peptide receptors,Neuropeptide S receptors,60.9,0,0,0,0,2,0,1,0,2,0,1,0
+gpr27_human,Orphan receptors,Class A orphans,61.6,0,0,0,0,0,0,1,0,0,0,1,0
+pi2r_human,Lipid receptors,Prostanoid receptors,63.1,1,0,2,0,1,2,2,0,1,2,2,0
+p2y13_human,Nucleotide receptors,P2Y receptors,48.5,0,2,1,2,0,1,0,0,0,1,1,2
+cltr1_human,Lipid receptors,Leukotriene receptors,53.7,0,2,1,0,0,2,1,0,0,2,1,0
+nmbr_human,Peptide receptors,Bombesin receptors,67.4,2,2,1,2,0,0,1,0,2,2,1,2
+ffar2_human,Lipid receptors,Free fatty acid receptors,37.7,2,2,1,1,0,2,1,0,2,2,1,1
+hrh1_human,Aminergic receptors,Histamine receptors,73.2,2,1,2,0,0,0,1,0,2,1,1,0
+lshr_human,Protein receptors,Glycoprotein hormone receptors,58.7,0,0,0,0,1,0,2,0,1,0,2,0
+ccr4_human,Protein receptors,Chemokine receptors,60.2,0,0,0,0,0,1,0,0,0,1,0,0
+oprx_human,Peptide receptors,Opioid receptors,70.3,0,1,2,0,0,1,0,0,0,1,2,0
+p2ry4_human,Nucleotide receptors,P2Y receptors,44.2,0,1,2,2,0,0,1,0,0,1,1,2
+acm1_human,Aminergic receptors,Acetylcholine receptors (muscarinic),62.4,0,2,1,0,0,0,1,0,0,2,1,0
+gasr_human,Peptide receptors,Cholecystokinin receptors,66.7,2,2,1,2,0,0,1,0,2,2,1,2
+acm4_human,Aminergic receptors,Acetylcholine receptors (muscarinic),68.1,0,1,0,0,0,1,0,0,0,1,0,0
+mtr1a_human,Melatonin receptors,Melatonin,47.1,0,1,0,0,0,1,2,0,0,1,2,0
+pe2r4_human,Lipid receptors,Prostanoid receptors,62.3,1,2,0,0,1,2,0,0,1,2,0,0
+s1pr5_human,Lipid receptors,Lysophospholipid (S1P) receptors,49.2,0,1,0,0,0,1,0,1,0,1,0,1
+drd3_human,Aminergic receptors,Dopamine receptors,72.5,0,1,0,0,0,1,0,0,0,1,0,0
+acthr_human,Peptide receptors,Melanocortin receptors,42,0,0,0,0,1,0,0,0,1,0,0,0
+taar8_human,Orphan receptors,Class A orphans,67.4,0,0,0,0,0,0,0,0,0,0,0,0
+ta2r_human,Lipid receptors,Prostanoid receptors,45,0,2,1,2,0,0,1,0,0,2,1,2
+agtr2_human,Peptide receptors,Angiotensin receptors,55.8,0,0,0,0,0,1,0,0,0,1,0,0
+ccr8_human,Protein receptors,Chemokine receptors,58.7,0,0,0,0,0,1,0,0,0,1,0,0
+ssr2_human,Peptide receptors,Somatostatin receptors,73.9,0,1,2,0,0,1,0,0,0,1,2,0
+cxcr5_human,Protein receptors,Chemokine receptors,55,0,0,0,0,0,1,0,0,0,1,0,0
+ada2a_human,Aminergic receptors,Adrenoceptors,61.6,0,1,0,0,2,1,0,0,2,1,0,0
+v1br_human,Peptide receptors,Vasopressin and oxytocin receptors,68.1,2,2,1,0,0,0,1,0,2,2,1,0
+opsg_human,Sensory receptors,Opsins,76.8,0,0,0,0,0,0,0,0,0,0,0,0
+gp183_human,Orphan receptors,Class A orphans,63,0,1,0,2,0,1,0,0,0,1,0,2
+nk1r_human,Peptide receptors,Tachykinin receptors,62.3,2,2,1,2,1,0,1,0,1,2,1,2
+lpar2_human,Lipid receptors,Lysophospholipid (LPA) receptors,52.8,2,2,1,1,0,1,1,1,2,1,1,1
+gp162_human,Orphan receptors,Class A orphans,47.2,0,0,0,0,0,0,0,0,0,0,0,0
+ccr6_human,Protein receptors,Chemokine receptors,50.7,0,0,0,0,0,1,0,0,0,1,0,0
+gp151_human,Orphan receptors,Class A orphans,56.5,0,0,0,0,0,0,0,0,0,0,0,0
+gpr35_human,Orphan receptors,Class A orphans,68.2,0,1,0,2,0,0,0,0,0,1,0,2
+ada1a_human,Aminergic receptors,Adrenoceptors,61.6,1,0,1,2,0,0,1,2,1,0,1,2
+pd2r_human,Lipid receptors,Prostanoid receptors,48.5,1,0,0,0,1,0,0,0,1,0,0,0
+par2_human,Peptide receptors,Proteinase-activated receptors,64.5,2,1,2,1,0,0,0,0,2,1,2,1
+v1ar_human,Peptide receptors,Vasopressin and oxytocin receptors,68.1,2,0,1,0,0,0,1,0,2,0,1,0
+gp135_human,Orphan receptors,Class A orphans,42.7,0,0,0,0,0,0,0,0,0,0,0,0
+5ht2a_human,Aminergic receptors,5-Hydroxytryptamine receptors,70.3,0,2,1,0,0,2,1,0,0,2,1,0
+hrh2_human,Aminergic receptors,Histamine receptors,63.7,1,2,2,2,2,0,1,0,1,2,1,2
+xcr1_human,Protein receptors,Chemokine receptors,52.2,0,0,0,0,0,1,0,0,0,1,0,0
+mchr2_human,Peptide receptors,Melanin-concentrating hormone,67.3,2,1,1,2,0,0,1,0,2,1,1,2
+opn4_human,Sensory receptors,Opsins,60.9,0,0,0,0,0,1,1,0,0,1,1,0
+npy5r_human,Peptide receptors,Neuropeptide Y receptors,49.9,0,0,0,0,0,1,0,0,0,1,0,0
+p2ry2_human,Nucleotide receptors,P2Y receptors,50.7,2,0,1,1,0,2,1,2,2,2,1,1
+drd4_human,Aminergic receptors,Dopamine receptors,66.7,0,1,0,0,0,1,0,0,0,1,0,0
+npbw1_human,Peptide receptors,Neuropeptide W/neuropeptide B receptors,52.1,0,1,0,0,0,1,0,0,0,1,0,0
+p2ry1_human,Nucleotide receptors,P2Y receptors,50,1,1,2,2,0,2,1,0,1,1,1,2
+gpr21_human,Orphan receptors,Class A orphans,55.7,0,0,0,0,0,0,0,0,0,0,0,0
+s1pr1_human,Lipid receptors,Lysophospholipid (S1P) receptors,53.6,0,1,0,0,0,1,0,0,0,1,0,0
+ccr5_human,Protein receptors,Chemokine receptors,64.6,0,0,0,0,0,1,0,0,0,1,0,0
+gp148_human,Orphan receptors,Class A orphans,48.6,0,0,0,0,0,0,0,0,0,0,0,0
+gpr33_human,Orphan receptors,Class A orphans,52.9,0,0,0,0,0,1,0,0,0,1,0,0
+mc3r_human,Peptide receptors,Melanocortin receptors,44.2,2,2,2,1,1,0,0,0,1,2,2,1
+s1pr3_human,Lipid receptors,Lysophospholipid (S1P) receptors,58.7,2,1,1,1,0,1,1,1,2,1,1,1
+ox2r_human,Peptide receptors,Orexin receptors,65.9,0,2,1,2,1,1,1,0,1,1,1,2
+gpr4_human,Orphan receptors,Class A orphans,56.5,0,0,0,0,1,1,1,1,1,1,1,1
+hcar1_human,Alicarboxylic acid receptors,Hydroxycarboxylic acid receptors,53.6,0,0,0,0,0,1,0,0,0,1,0,0
+mrgrg_human,Orphan receptors,Class A orphans,43.5,0,0,0,0,0,0,0,0,0,0,0,0
+kissr_human,Peptide receptors,Kisspeptin receptors,56.5,0,0,1,0,0,0,1,0,0,0,1,0
+lgr4_human,Orphan receptors,Class A orphans,52.2,0,0,0,0,0,0,0,0,0,0,0,0
+mrgrd_human,Orphan receptors,Class A orphans,51.5,0,0,0,0,0,1,1,0,0,1,1,0
+nmur1_human,Peptide receptors,Neuromedin U receptors,65.9,0,0,1,0,0,0,1,0,0,0,1,0
+5ht4r_human,Aminergic receptors,5-Hydroxytryptamine receptors,73.2,2,1,2,0,1,0,0,2,1,1,2,2
+lt4r1_human,Lipid receptors,Leukotriene receptors,52.8,0,1,2,0,0,1,1,0,0,1,1,0
+gpr52_human,Orphan receptors,Class A orphans,57.9,0,0,0,0,0,0,0,0,0,0,0,0
+apj_human,Peptide receptors,Apelin receptors,71,0,1,2,0,0,1,0,0,0,1,2,0
+mtlr_human,Peptide receptors,Motilin receptors,58,0,2,1,2,0,0,1,1,0,2,1,1
+trfr_human,Peptide receptors,Thyrotropin-releasing hormone receptors,65.2,0,0,0,0,0,0,1,0,0,0,1,0
+adrb3_human,Aminergic receptors,Adrenoceptors,61.6,1,0,0,0,1,2,0,0,1,2,0,0
+p2y10_human,Orphan receptors,Class A orphans,38.4,0,2,2,1,0,0,0,0,0,2,2,1
+galr1_human,Peptide receptors,Galanin receptors,50.7,0,1,0,0,0,1,0,0,0,1,0,0
+gpbar_human,Steroid receptors,Bile acid receptors,36.9,0,0,0,0,1,0,0,0,1,0,0,0
+gpr17_human,Orphan receptors,Class A orphans,64.6,0,1,2,0,0,1,2,0,0,1,2,0
+ffar1_human,Lipid receptors,Free fatty acid receptors,39.9,2,2,1,2,2,2,1,0,2,2,1,2
+rl3r1_human,Peptide receptors,Relaxin family peptide receptors,47.1,0,0,0,0,0,1,0,0,0,1,0,0
+gpr88_human,Orphan receptors,Class A orphans,44.9,0,0,0,0,0,0,0,0,0,0,0,0
+lpar5_human,Lipid receptors,Lysophospholipid (LPA) receptors,54.4,0,1,0,2,0,0,1,1,0,1,1,1
+oxyr_human,Peptide receptors,Vasopressin and oxytocin receptors,52.1,2,2,1,0,0,2,1,0,2,2,1,0
+fpr2_human,Peptide receptors,Formylpeptide receptors,52.1,0,2,1,0,0,1,2,0,0,1,1,0
+gpr18_human,Lipid receptors,"GPR18, GPR55 and GPR119",52.9,0,0,0,0,0,1,1,0,0,1,1,0
+gpr45_human,Orphan receptors,Class A orphans,44.9,0,0,0,0,0,0,0,0,0,0,0,0
+agtr1_human,Peptide receptors,Angiotensin receptors,63.8,0,1,1,0,0,1,1,0,0,1,1,0
+pe2r1_human,Lipid receptors,Prostanoid receptors,47.8,2,0,1,2,0,2,1,0,2,2,1,2
+ada1b_human,Aminergic receptors,Adrenoceptors,58.7,1,0,2,0,0,0,1,0,1,0,1,0
+mchr1_human,Peptide receptors,Melanin-concentrating hormone,60.1,2,1,1,0,1,1,1,0,1,1,1,0
+gpr3_human,Orphan receptors,Class A orphans,61.6,0,0,0,0,1,0,0,0,1,0,0,0
+gp132_human,Orphan receptors,Class A orphans,44.9,1,2,1,2,0,0,0,0,1,2,1,2
+oprd_human,Peptide receptors,Opioid receptors,68.8,0,1,2,0,0,1,0,0,0,1,2,0
+drd1_human,Aminergic receptors,Dopamine receptors,63.8,1,2,1,0,1,0,0,0,1,2,1,0
+mc5r_human,Peptide receptors,Melanocortin receptors,41.3,2,2,1,2,1,0,0,0,1,2,1,2
+gpr62_human,Orphan receptors,Class A orphans,42,0,0,0,0,0,0,0,0,0,0,0,0
+gpr34_human,Orphan receptors,Class A orphans,38.4,0,1,0,0,0,1,0,0,0,1,0,0
+5ht7r_human,Aminergic receptors,5-Hydroxytryptamine receptors,71.8,1,2,1,1,1,0,0,0,1,2,1,1
+mrgx3_human,Orphan receptors,Class A orphans,45.6,0,0,0,0,0,0,1,0,0,0,1,0
+opn5_human,Sensory receptors,Opsins,58.6,0,0,0,0,0,1,0,0,0,1,0,0
+etbr2_human,Orphan receptors,Class A orphans,50.1,0,0,0,0,0,1,0,0,0,1,0,0
+mtr1l_human,Orphan receptors,Class A orphans,55.8,0,0,0,0,0,0,0,0,0,0,0,0
+nk2r_human,Peptide receptors,Tachykinin receptors,57.2,0,2,1,0,1,0,1,0,1,2,1,0
+cxcr3_human,Protein receptors,Chemokine receptors,47.8,0,0,0,0,0,1,0,0,0,1,0,0
+lgr6_human,Orphan receptors,Class A orphans,38.4,0,0,0,0,0,0,0,0,0,0,0,0
+fshr_human,Protein receptors,Glycoprotein hormone receptors,53.6,0,0,0,0,1,1,1,0,1,1,1,0
+gpr61_human,Orphan receptors,Class A orphans,66.6,0,0,0,0,0,0,0,0,0,0,0,0
+gpr31_human,Orphan receptors,Class A orphans,62.3,0,0,0,0,0,1,0,0,0,1,0,0
+mrgx4_human,Orphan receptors,Class A orphans,46.4,0,0,0,0,0,0,1,0,0,0,1,0
+ptafr_human,Lipid receptors,Platelet-activating factor receptors,54.3,1,1,1,2,0,1,1,0,1,1,1,2
+gpr22_human,Orphan receptors,Class A orphans,60.1,0,0,0,0,0,1,0,0,0,1,0,0
+drd5_human,Aminergic receptors,Dopamine receptors,65.3,1,2,2,2,1,0,0,0,1,2,2,2
+prlhr_human,Peptide receptors,Prolactin-releasing peptide receptors,64.5,0,2,1,2,0,0,0,0,0,2,1,2
+bkrb2_human,Peptide receptors,Bradykinin receptors,60.9,0,1,1,2,1,1,1,0,1,1,1,2
+gp153_human,Orphan receptors,Class A orphans,52.9,0,0,0,0,0,0,0,0,0,0,0,0
+ednra_human,Peptide receptors,Endothelin receptors,57.9,2,1,1,1,0,0,1,0,2,1,1,1
+p2y14_human,Nucleotide receptors,P2Y receptors,47.1,0,1,2,0,0,1,0,0,0,1,2,0
+adrb1_human,Aminergic receptors,Adrenoceptors,65.9,2,0,1,0,1,2,0,0,1,2,1,0
+ox1r_human,Peptide receptors,Orexin receptors,65.9,0,2,1,1,1,1,1,0,1,1,1,1
+cxcr4_human,Protein receptors,Chemokine receptors,49.2,0,0,0,0,0,1,0,0,0,1,0,0
+hrh4_human,Aminergic receptors,Histamine receptors,66,0,1,0,0,0,1,0,0,0,1,0,0
+gp146_human,Orphan receptors,Class A orphans,38.4,0,0,0,0,0,0,0,0,0,0,0,0
+ntr2_human,Peptide receptors,Neurotensin receptors,60.1,0,0,0,0,0,0,1,0,0,0,1,0
+hcar3_human,Alicarboxylic acid receptors,Hydroxycarboxylic acid receptors,53.6,0,0,0,0,0,1,0,0,0,1,0,0
+ghsr_human,Peptide receptors,Ghrelin receptors,60.1,2,2,1,2,0,2,1,2,2,2,1,2
+oprk_human,Peptide receptors,Opioid receptors,68.8,0,1,0,0,0,1,0,2,0,1,0,2
+5ht2b_human,Aminergic receptors,5-Hydroxytryptamine receptors,68.1,0,2,1,0,0,0,1,0,0,2,1,0
+ada2b_human,Aminergic receptors,Adrenoceptors,64.5,0,1,0,2,2,1,0,0,2,1,0,2
+ffar3_human,Lipid receptors,Free fatty acid receptors,47.1,0,1,0,2,0,1,0,0,0,1,0,2
+galr3_human,Peptide receptors,Galanin receptors,68.2,0,1,2,0,0,1,0,0,0,1,2,0
+gpr26_human,Orphan receptors,Class A orphans,66,0,0,0,0,1,0,0,0,1,0,0,0
+cnr2_human,Lipid receptors,Cannabinoid receptors,65.2,0,1,0,0,2,1,0,0,2,1,0,0
+ednrb_human,Peptide receptors,Endothelin receptors,58,2,1,2,1,1,1,1,0,1,1,1,1
+gpr20_human,Orphan receptors,Class A orphans,61.6,0,0,0,0,0,1,0,0,0,1,0,0
+npy6r_human,Peptide receptors,Neuropeptide Y receptors,46.4,0,0,0,0,0,0,0,0,0,0,0,0
+npy1r_human,Peptide receptors,Neuropeptide Y receptors,56.5,0,0,0,0,0,1,0,0,0,1,0,0
+aa2br_human,Nucleotide receptors,Adenosine receptors,75.4,2,1,2,0,1,0,2,0,1,1,2,0
+c3ar_human,Peptide receptors,Complement peptide receptors,52.1,0,0,0,0,0,0,0,0,0,0,0,0
+lpar4_human,Lipid receptors,Lysophospholipid (LPA) receptors,61,1,2,2,2,1,1,1,1,1,1,1,1
+gnrhr_human,Peptide receptors,Gonadotrophin-releasing hormone receptors,55.1,2,2,1,0,0,2,1,0,2,2,1,0
+cml1_human,Protein receptors,Chemerin receptor,55.1,0,0,0,0,0,1,0,0,0,1,0,0
+ada2c_human,Aminergic receptors,Adrenoceptors,56.5,0,1,0,0,2,1,0,0,2,1,0,0
+gp139_human,Orphan receptors,Class A orphans,65.2,0,0,0,0,0,0,1,0,0,0,1,0
+pe2r2_human,Lipid receptors,Prostanoid receptors,51.4,1,0,0,0,1,0,0,0,1,0,0,0
+aa3r_human,Nucleotide receptors,Adenosine receptors,53.7,0,1,0,0,0,1,0,0,0,1,0,0
+5ht6r_human,Aminergic receptors,5-Hydroxytryptamine receptors,72.5,1,2,2,2,1,0,2,0,1,2,2,2
+ccr3_human,Protein receptors,Chemokine receptors,58.7,0,0,0,0,0,1,0,0,0,1,0,0
+5ht1a_human,Aminergic receptors,5-Hydroxytryptamine receptors,67.4,0,1,1,0,0,1,0,0,0,1,1,0
+lt4r2_human,Lipid receptors,Leukotriene receptors,50.8,0,1,0,0,0,1,2,0,0,1,2,0
+p2ry6_human,Nucleotide receptors,P2Y receptors,47.8,1,2,2,1,0,0,1,2,1,2,1,1
+mtr1b_human,Melatonin receptors,Melatonin,44.1,0,1,0,0,0,1,0,0,0,1,0,0
+acm5_human,Aminergic receptors,Acetylcholine receptors (muscarinic),60.2,0,2,1,0,0,0,1,0,0,2,1,0
+lpar1_human,Lipid receptors,Lysophospholipid (LPA) receptors,55.1,0,2,1,1,0,1,1,1,0,1,1,1
+ccr2_human,Protein receptors,Chemokine receptors,64.6,0,0,0,0,0,1,0,0,0,1,0,0
+cxcr1_human,Protein receptors,Chemokine receptors,49.3,0,0,0,0,0,1,2,0,0,1,2,0
+5ht1d_human,Aminergic receptors,5-Hydroxytryptamine receptors,69.6,0,1,2,0,0,1,0,0,0,1,2,0
+gpr85_human,Orphan receptors,Class A orphans,54.4,0,0,0,0,0,0,0,0,0,0,0,0
+gp150_human,Orphan receptors,Class A orphans,33.3,0,0,0,0,0,0,0,0,0,0,0,0
+gpr15_human,Orphan receptors,Class A orphans,70.3,0,0,0,0,0,0,0,0,0,0,0,0
+gp174_human,Orphan receptors,Class A orphans,52.9,1,0,0,2,0,0,0,0,1,0,0,2
+grpr_human,Peptide receptors,Bombesin receptors,63,2,2,1,2,0,0,1,0,2,2,1,2
+s1pr2_human,Lipid receptors,Lysophospholipid (S1P) receptors,44.9,0,2,2,1,1,0,1,1,1,2,1,1
+mrgx1_human,Orphan receptors,Class A orphans,46.4,1,2,2,1,0,0,1,0,1,2,1,1
+npbw2_human,Peptide receptors,Neuropeptide W/neuropeptide B receptors,53.6,0,0,0,0,0,1,0,0,0,1,0,0

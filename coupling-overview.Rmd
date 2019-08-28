@@ -1,0 +1,125 @@
+---
+title: "GPCR Coupling Overview"
+output: 'html_document'
+---
+
+```{r, include=FALSE}
+library(tidyverse)
+library(janitor)
+```
+
+
+```{r}
+df <- read_delim('../data/GPCRdb_coupling_browser.csv', delim=';') %>% 
+    clean_names(case = 'snake') %>%
+    remove_empty(c("rows", "cols"))
+
+df_fam <- read_csv('../data/signprot_data/receptor_families.csv')
+
+which_dataset <- c('merg', 'asuka', 'gtop')    
+merg <- df %>% 
+    select(
+        uniprot,
+        starts_with(which_dataset[1])) %>% 
+    mutate(dataset = which_dataset[1]) %>% 
+    rename(
+        'gs'=paste0(which_dataset[1], '_gs'),
+        'gi_go'=paste0(which_dataset[1], '_gi_go'),
+        'gq_g11'=paste0(which_dataset[1], '_gq_g11'),
+        'g12_g13'=paste0(which_dataset[1], '_g12_g13'))
+aska <- df %>% 
+    select(
+        uniprot,
+        starts_with(which_dataset[2])) %>% 
+    mutate(dataset = which_dataset[2]) %>% 
+    rename(
+        'gs'=paste0(which_dataset[2], '_gs'),
+        'gi_go'=paste0(which_dataset[2], '_gi_go'),
+        'gq_g11'=paste0(which_dataset[2], '_gq_g11'),
+        'g12_g13'=paste0(which_dataset[2], '_g12_g13'))
+gtop <- df %>% 
+    select(
+        uniprot,
+        starts_with(which_dataset[3])) %>% 
+    mutate(dataset = which_dataset[3]) %>% 
+    rename(
+        'gs'=paste0(which_dataset[3], '_gs'),
+        'gi_go'=paste0(which_dataset[3], '_gi_go'),
+        'gq_g11'=paste0(which_dataset[3], '_gq_g11'),
+        'g12_g13'=paste0(which_dataset[3], '_g12_g13'))
+# merg <- semi_join(aska, gtop, by='uniprot') %>% 
+    # mutate(dataset=recode(dataset, 'asuka'='merg'))
+
+df <- merg %>% 
+    bind_rows(aska) %>% 
+    bind_rows(gtop)
+```
+
+
+```{r}
+p <- df %>% 
+    gather(gprot, coupling, -dataset, -uniprot) %>% 
+    filter(!is.na(coupling)) %>% 
+    filter(dataset=='merg') %>% 
+    left_join(df_fam, by = 'uniprot') %>% 
+    mutate(
+        coupling=recode(
+            coupling,
+            'No coupling'='No Coupling',
+            'primary'='Primary',
+            'secondary'='Secondary'),
+        gprot=recode(
+            gprot,
+            "gs"="Gs",
+            "gi_go"="Gi/Go",
+            "gq_g11"="Gq/G11",
+            "g12_g13"="G12/G13"),
+        class=str_split(class, ' ', 2, TRUE)[,2],
+        family=str_replace(family, ' receptors', ''),
+        sub_family=str_replace(sub_family, ' receptors', '')) %>% 
+    replace_na(list(coupling='No Data')) %>%
+    group_by(class,family,sub_family,coupling,dataset,gprot) %>% 
+    summarise(Count = n()) %>% 
+    ggplot(aes(
+        x=reorder(gprot, desc(gprot)),
+        y=reorder(sub_family, desc(sub_family)),
+        fill=Count,
+        label=Count,
+        )) +
+    geom_tile() +
+    scale_fill_gradient(low = "grey80", high = "grey20") +
+    geom_text(
+        aes(color = ifelse(Count>9, TRUE, FALSE)),
+        size=3,
+        vjust=0.45) +
+    scale_color_manual(
+        values = c('TRUE' = 'white', 'FALSE' = 'black'),
+        guide = "none") +
+    labs(
+        y = "IUPHAR Family ", 
+        x = "G Protein Coupling") +
+    facet_grid(
+        class + family ~ coupling,
+        scales = 'free',
+        space = 'free_y') +
+    # facet_wrap(~coupling) +
+    theme_minimal() +
+    theme(
+        text=element_text(size=12),
+        axis.text.x = element_text(angle = 45, hjust = 1),
+        strip.text.y = element_text(angle = 0, hjust = 0),
+        legend.position = 'bottom',
+        panel.grid.major.y = element_blank(),
+        panel.grid.major.x = element_blank(),
+        panel.grid.minor.y = element_blank(),
+        panel.grid.minor.x = element_blank()
+    )
+
+ggsave(
+    plot = p,
+    height = 14,
+    dpi = 300,
+    filename = "../images/introduction/gprotein-coupling-pre.pdf")
+
+p
+```

@@ -1,0 +1,278 @@
+name,family,subfamily,score,aska_gs,aska_gio,aska_gq11,aska_g1213,gtop_gs,gtop_gio,gtop_gq11,gtop_g1213,merg_gs,merg_gio,merg_gq11,merg_g1213
+ACKR1,Protein receptors,Chemokine receptors,4,,,,,,,,,,,,
+5HT5A,Aminergic receptors,5-Hydroxytryptamine receptors,56,,,,,,primary,secondary,,,primary,secondary,
+LT4R1,Lipid receptors,Leukotriene receptors,50,no coupling,primary,secondary,no coupling,,primary,primary,,no coupling,primary,primary,no coupling
+GPR17,Orphan receptors,Class A orphans,66,no coupling,primary,secondary,no coupling,,primary,secondary,,no coupling,primary,secondary,no coupling
+GPR20,Orphan receptors,Class A orphans,65,,,,,,primary,,,,primary,,
+CNR2,Lipid receptors,Cannabinoid receptors,70,no coupling,primary,no coupling,no coupling,secondary,primary,,,secondary,primary,no coupling,no coupling
+HRH2,Aminergic receptors,Histamine receptors,70,primary,secondary,secondary,secondary,secondary,,primary,,primary,secondary,primary,secondary
+PE2R3,Lipid receptors,Prostanoid receptors,49,no coupling,secondary,no coupling,primary,,primary,secondary,,no coupling,primary,secondary,primary
+GP149,Orphan receptors,Class A orphans,9,,,,,,,,,,,,
+DRD2,Aminergic receptors,Dopamine receptors,70,no coupling,primary,no coupling,no coupling,,primary,,,no coupling,primary,no coupling,no coupling
+NPBW1,Peptide receptors,Neuropeptide W/neuropeptide B receptors,52,no coupling,primary,no coupling,no coupling,,primary,,,no coupling,primary,no coupling,no coupling
+RXFP1,Peptide receptors,Relaxin family peptide receptors,47,,,,,primary,primary,,,primary,primary,,
+GPR82,Orphan receptors,Class A orphans,46,,,,,,,,,,,,
+SSR4,Peptide receptors,Somatostatin receptors,71,no coupling,primary,no coupling,secondary,,primary,,,no coupling,primary,no coupling,secondary
+MRGX2,Orphan receptors,Class A orphans,50,secondary,primary,primary,secondary,,primary,primary,,secondary,primary,primary,secondary
+OXGR1,Alicarboxylic acid receptors,Oxoglutarate receptors,65,secondary,secondary,primary,secondary,,,primary,,secondary,secondary,primary,secondary
+MRGX4,Orphan receptors,Class A orphans,50,,,,,,,primary,,,,primary,
+NPBW2,Peptide receptors,Neuropeptide W/neuropeptide B receptors,52,,,,,,primary,,,,primary,,
+HCAR2,Alicarboxylic acid receptors,Hydroxycarboxylic acid receptors,65,,,,,,primary,,,,primary,,
+GASR,Peptide receptors,Cholecystokinin receptors,69,secondary,secondary,primary,secondary,,,primary,,secondary,secondary,primary,secondary
+CXCR1,Protein receptors,Chemokine receptors,55,,,,,,primary,secondary,,,primary,secondary,
+CCR10,Protein receptors,Chemokine receptors,47,,,,,,primary,,,,primary,,
+PAR3,Peptide receptors,Proteinase-activated receptors,45,secondary,secondary,secondary,primary,,,,,secondary,secondary,secondary,primary
+PRLHR,Peptide receptors,Prolactin-releasing peptide receptors,57,no coupling,secondary,primary,secondary,,,,,no coupling,secondary,primary,secondary
+ADA2A,Aminergic receptors,Adrenoceptors,60,no coupling,primary,no coupling,no coupling,secondary,primary,,,secondary,primary,no coupling,no coupling
+NMBR,Peptide receptors,Bombesin receptors,61,secondary,secondary,primary,secondary,,,primary,,secondary,secondary,primary,secondary
+GPR27,Orphan receptors,Class A orphans,54,,,,,,,primary,,,,primary,
+OX1R,Peptide receptors,Orexin receptors,64,no coupling,secondary,primary,primary,primary,primary,primary,,primary,primary,primary,primary
+C5AR2,Peptide receptors,Complement peptide receptors,24,,,,,,,,,,,,
+GPR35,Orphan receptors,Class A orphans,61,no coupling,primary,no coupling,secondary,,,,,no coupling,primary,no coupling,secondary
+SUCR1,Alicarboxylic acid receptors,Succinate receptors,46,,,,,,primary,secondary,,,primary,secondary,
+S1PR1,Lipid receptors,Lysophospholipid (S1P) receptors,46,no coupling,primary,no coupling,no coupling,,primary,,,no coupling,primary,no coupling,no coupling
+GPR1,Orphan receptors,Class A orphans,49,,,,,,,,,,,,
+S1PR4,Lipid receptors,Lysophospholipid (S1P) receptors,52,,,,,,primary,,primary,,primary,,primary
+MCHR1,Peptide receptors,Melanin-concentrating hormone,57,secondary,primary,primary,no coupling,primary,primary,primary,,primary,primary,primary,no coupling
+GP182,Orphan receptors,Class A orphans,41,,,,,,,,,,,,
+GALR1,Peptide receptors,Galanin receptors,50,no coupling,primary,no coupling,no coupling,,primary,,,no coupling,primary,no coupling,no coupling
+ADA2C,Aminergic receptors,Adrenoceptors,57,no coupling,primary,no coupling,no coupling,secondary,primary,,,secondary,primary,no coupling,no coupling
+P2RY2,Nucleotide receptors,P2Y receptors,50,secondary,no coupling,primary,primary,,secondary,primary,secondary,secondary,secondary,primary,primary
+TAAR2,Orphan receptors,Class A orphans,64,,,,,,,,,,,,
+P2Y13,Nucleotide receptors,P2Y receptors,46,no coupling,secondary,primary,secondary,,primary,,,no coupling,primary,primary,secondary
+GPR37,Orphan receptors,Class A orphans,46,,,,,,primary,,,,primary,,
+5HT1D,Aminergic receptors,5-Hydroxytryptamine receptors,69,no coupling,primary,secondary,no coupling,,primary,,,no coupling,primary,secondary,no coupling
+CCR9,Protein receptors,Chemokine receptors,59,,,,,,primary,,,,primary,,
+DRD1,Aminergic receptors,Dopamine receptors,66,primary,secondary,primary,no coupling,primary,,,,primary,secondary,primary,no coupling
+GP141,Orphan receptors,Class A orphans,35,,,,,,,,,,,,
+RL3R1,Peptide receptors,Relaxin family peptide receptors,44,,,,,,primary,,,,primary,,
+EDNRA,Peptide receptors,Endothelin receptors,56,secondary,primary,primary,primary,,,primary,,secondary,primary,primary,primary
+EDNRB,Peptide receptors,Endothelin receptors,59,secondary,primary,secondary,primary,primary,primary,primary,,primary,primary,primary,primary
+GPR78,Orphan receptors,Class A orphans,61,,,,,primary,,,,primary,,,
+SSR3,Peptide receptors,Somatostatin receptors,63,no coupling,primary,no coupling,no coupling,,primary,,,no coupling,primary,no coupling,no coupling
+GP173,Orphan receptors,Class A orphans,43,,,,,,,,,,,,
+GP132,Orphan receptors,Class A orphans,48,primary,secondary,primary,secondary,,,,,primary,secondary,primary,secondary
+NPY6R,Peptide receptors,Neuropeptide Y receptors,46,,,,,,,,,,,,
+OX2R,Peptide receptors,Orexin receptors,64,no coupling,secondary,primary,secondary,primary,primary,primary,,primary,primary,primary,secondary
+S1PR5,Lipid receptors,Lysophospholipid (S1P) receptors,48,no coupling,primary,no coupling,no coupling,,primary,,primary,no coupling,primary,no coupling,primary
+TSHR,Protein receptors,Glycoprotein hormone receptors,60,,,,,primary,,secondary,,primary,,secondary,
+FFAR3,Lipid receptors,Free fatty acid receptors,60,no coupling,primary,no coupling,secondary,,primary,,,no coupling,primary,no coupling,secondary
+PKR2,Protein receptors,Prokineticin receptors,51,,,,,secondary,secondary,primary,,secondary,secondary,primary,
+GP152,Orphan receptors,Class A orphans,36,,,,,,,,,,,,
+GPR12,Orphan receptors,Class A orphans,62,,,,,primary,primary,,,primary,primary,,
+5HT4R,Aminergic receptors,5-Hydroxytryptamine receptors,77,secondary,primary,secondary,no coupling,primary,,,secondary,primary,primary,secondary,secondary
+OGR1,Orphan receptors,Class A orphans,55,,,,,,primary,primary,,,primary,primary,
+OPSR,Sensory receptors,Opsins,69,,,,,,,,,,,,
+GP148,Orphan receptors,Class A orphans,43,,,,,,,,,,,,
+CLTR1,Lipid receptors,Leukotriene receptors,60,no coupling,secondary,primary,no coupling,,secondary,primary,,no coupling,secondary,primary,no coupling
+SSR5,Peptide receptors,Somatostatin receptors,64,no coupling,primary,no coupling,no coupling,,primary,,,no coupling,primary,no coupling,no coupling
+GP150,Orphan receptors,Class A orphans,31,,,,,,,,,,,,
+OXYR,Peptide receptors,Vasopressin and oxytocin receptors,48,secondary,secondary,primary,no coupling,,secondary,primary,,secondary,secondary,primary,no coupling
+GHSR,Peptide receptors,Ghrelin receptors,56,secondary,secondary,primary,secondary,,secondary,primary,secondary,secondary,secondary,primary,secondary
+GPR34,Orphan receptors,Class A orphans,41,no coupling,primary,no coupling,no coupling,,primary,,,no coupling,primary,no coupling,no coupling
+AGTR2,Peptide receptors,Angiotensin receptors,49,,,,,,primary,,,,primary,,
+PKR1,Protein receptors,Prokineticin receptors,51,,,,,secondary,,primary,,secondary,,primary,
+GP171,Orphan receptors,Class A orphans,51,,,,,,,,,,,,
+S1PR2,Lipid receptors,Lysophospholipid (S1P) receptors,51,no coupling,secondary,secondary,primary,primary,,primary,primary,primary,secondary,primary,primary
+LGR5,Orphan receptors,Class A orphans,50,,,,,,,,,,,,
+GPR6,Orphan receptors,Class A orphans,64,,,,,primary,primary,,,primary,primary,,
+NMUR2,Peptide receptors,Neuromedin U receptors,60,no coupling,primary,primary,secondary,,,primary,,no coupling,primary,primary,secondary
+MTLR,Peptide receptors,Motilin receptors,56,no coupling,secondary,primary,secondary,,,primary,primary,no coupling,secondary,primary,primary
+LT4R2,Lipid receptors,Leukotriene receptors,49,no coupling,primary,no coupling,no coupling,,primary,secondary,,no coupling,primary,secondary,no coupling
+P2RY4,Nucleotide receptors,P2Y receptors,46,no coupling,primary,secondary,secondary,,,primary,,no coupling,primary,primary,secondary
+V1AR,Peptide receptors,Vasopressin and oxytocin receptors,61,secondary,no coupling,primary,no coupling,,,primary,,secondary,no coupling,primary,no coupling
+FFAR1,Lipid receptors,Free fatty acid receptors,31,secondary,secondary,primary,secondary,secondary,secondary,primary,,secondary,secondary,primary,secondary
+GPR75,Orphan receptors,Class A orphans,47,,,,,,,primary,,,,primary,
+C3AR,Peptide receptors,Complement peptide receptors,53,,,,,,,,,,,,
+NMUR1,Peptide receptors,Neuromedin U receptors,65,no coupling,no coupling,primary,no coupling,,,primary,,no coupling,no coupling,primary,no coupling
+CX3C1,Protein receptors,Chemokine receptors,65,,,,,,primary,,,,primary,,
+GP183,Orphan receptors,Class A orphans,67,no coupling,primary,no coupling,secondary,,primary,,,no coupling,primary,no coupling,secondary
+TAAR9,Orphan receptors,Class A orphans,71,,,,,,,,,,,,
+MRGRE,Orphan receptors,Class A orphans,25,,,,,,,,,,,,
+GPR83,Orphan receptors,Class A orphans,50,,,,,,,,,,,,
+HCAR1,Alicarboxylic acid receptors,Hydroxycarboxylic acid receptors,63,,,,,,primary,,,,primary,,
+XCR1,Protein receptors,Chemokine receptors,51,,,,,,primary,,,,primary,,
+GPR4,Orphan receptors,Class A orphans,53,,,,,primary,primary,primary,primary,primary,primary,primary,primary
+GP142,Orphan receptors,Class A orphans,65,,,,,,,,,,,,
+LPAR3,Lipid receptors,Lysophospholipid (LPA) receptors,54,secondary,primary,secondary,secondary,,primary,primary,,secondary,primary,primary,secondary
+P2Y12,Nucleotide receptors,P2Y receptors,40,no coupling,primary,no coupling,no coupling,,,,,no coupling,primary,no coupling,no coupling
+AA2BR,Nucleotide receptors,Adenosine receptors,79,secondary,primary,secondary,no coupling,primary,,secondary,,primary,primary,secondary,no coupling
+NK2R,Peptide receptors,Tachykinin receptors,51,no coupling,secondary,primary,no coupling,primary,,primary,,primary,secondary,primary,no coupling
+ACM4,Aminergic receptors,Acetylcholine receptors (muscarinic),69,no coupling,primary,no coupling,no coupling,,primary,,,no coupling,primary,no coupling,no coupling
+NK3R,Peptide receptors,Tachykinin receptors,56,secondary,secondary,primary,secondary,,,primary,,secondary,secondary,primary,secondary
+BRS3,Peptide receptors,Bombesin receptors,62,,,,,,,primary,,,,primary,
+PAR2,Peptide receptors,Proteinase-activated receptors,60,secondary,primary,secondary,primary,,,,,secondary,primary,secondary,primary
+GPR21,Orphan receptors,Class A orphans,57,,,,,,,,,,,,
+TAAR5,Orphan receptors,Class A orphans,65,,,,,,,,,,,,
+GPR45,Orphan receptors,Class A orphans,45,,,,,,,,,,,,
+CCR8,Protein receptors,Chemokine receptors,57,,,,,,primary,,,,primary,,
+5HT2C,Aminergic receptors,5-Hydroxytryptamine receptors,59,no coupling,primary,secondary,secondary,,secondary,primary,,no coupling,primary,primary,secondary
+LGR6,Orphan receptors,Class A orphans,36,,,,,,,,,,,,
+P2Y11,Nucleotide receptors,P2Y receptors,51,secondary,primary,secondary,primary,secondary,,primary,,secondary,primary,primary,primary
+GP162,Orphan receptors,Class A orphans,40,,,,,,,,,,,,
+GPR55,Lipid receptors,"GPR18, GPR55 and GPR119",46,no coupling,no coupling,no coupling,primary,,,primary,primary,no coupling,no coupling,primary,primary
+FPR1,Peptide receptors,Formylpeptide receptors,51,no coupling,primary,secondary,no coupling,,primary,,,no coupling,primary,secondary,no coupling
+GP160,Orphan receptors,Class A orphans,20,,,,,,,,,,,,
+GP174,Orphan receptors,Class A orphans,58,primary,no coupling,no coupling,secondary,,,,,primary,no coupling,no coupling,secondary
+FFAR2,Lipid receptors,Free fatty acid receptors,49,secondary,secondary,primary,primary,,secondary,primary,,secondary,secondary,primary,primary
+GP153,Orphan receptors,Class A orphans,43,,,,,,,,,,,,
+GP161,Orphan receptors,Class A orphans,68,,,,,,,,,,,,
+CXCR2,Protein receptors,Chemokine receptors,55,,,,,,primary,,,,primary,,
+5HT2B,Aminergic receptors,5-Hydroxytryptamine receptors,61,no coupling,secondary,primary,no coupling,,,primary,,no coupling,secondary,primary,no coupling
+PI2R,Lipid receptors,Prostanoid receptors,52,primary,no coupling,secondary,no coupling,primary,secondary,secondary,,primary,secondary,secondary,no coupling
+KISSR,Peptide receptors,Kisspeptin receptors,56,no coupling,no coupling,primary,no coupling,,,primary,,no coupling,no coupling,primary,no coupling
+QRFPR,Peptide receptors,Peptide P518 receptors,65,,,,,,primary,primary,,,primary,primary,
+BKRB2,Peptide receptors,Bradykinin receptors,52,no coupling,primary,primary,secondary,primary,primary,primary,,primary,primary,primary,secondary
+GPBAR,Steroid receptors,Bile acid receptors,35,,,,,primary,,,,primary,,,
+P2Y14,Nucleotide receptors,P2Y receptors,41,no coupling,primary,secondary,no coupling,,primary,,,no coupling,primary,secondary,no coupling
+P2RY6,Nucleotide receptors,P2Y receptors,43,primary,secondary,secondary,primary,,,primary,secondary,primary,secondary,primary,primary
+GPR31,Orphan receptors,Class A orphans,61,,,,,,primary,,,,primary,,
+PD2R,Lipid receptors,Prostanoid receptors,39,primary,no coupling,no coupling,no coupling,primary,,,,primary,no coupling,no coupling,no coupling
+ADA1D,Aminergic receptors,Adrenoceptors,66,primary,no coupling,primary,no coupling,,,primary,,primary,no coupling,primary,no coupling
+GP135,Orphan receptors,Class A orphans,46,,,,,,,,,,,,
+GALR3,Peptide receptors,Galanin receptors,68,no coupling,primary,secondary,no coupling,,primary,,,no coupling,primary,secondary,no coupling
+CLTR2,Lipid receptors,Leukotriene receptors,56,no coupling,secondary,primary,no coupling,,secondary,primary,,no coupling,secondary,primary,no coupling
+OPSG,Sensory receptors,Opsins,69,,,,,,,,,,,,
+P2RY1,Nucleotide receptors,P2Y receptors,52,primary,primary,secondary,secondary,,secondary,primary,,primary,primary,primary,secondary
+SSR1,Peptide receptors,Somatostatin receptors,70,no coupling,primary,no coupling,secondary,,primary,,,no coupling,primary,no coupling,secondary
+ETBR2,Orphan receptors,Class A orphans,39,,,,,,primary,,,,primary,,
+MCHR2,Peptide receptors,Melanin-concentrating hormone,62,secondary,primary,primary,secondary,,,primary,,secondary,primary,primary,secondary
+5HT1F,Aminergic receptors,5-Hydroxytryptamine receptors,76,no coupling,primary,no coupling,no coupling,,primary,,,no coupling,primary,no coupling,no coupling
+ADRB1,Aminergic receptors,Adrenoceptors,74,secondary,no coupling,primary,no coupling,primary,secondary,,,primary,secondary,primary,no coupling
+ACKR3,Protein receptors,Chemokine receptors,37,,,,,,,,,,,,
+ADA1B,Aminergic receptors,Adrenoceptors,68,primary,no coupling,secondary,no coupling,,,primary,,primary,no coupling,primary,no coupling
+DRD5,Aminergic receptors,Dopamine receptors,68,primary,secondary,secondary,secondary,primary,,,,primary,secondary,secondary,secondary
+MRGRG,Orphan receptors,Class A orphans,39,,,,,,,,,,,,
+5HT7R,Aminergic receptors,5-Hydroxytryptamine receptors,71,primary,secondary,primary,primary,primary,,,,primary,secondary,primary,primary
+GPR52,Orphan receptors,Class A orphans,57,,,,,,,,,,,,
+PE2R4,Lipid receptors,Prostanoid receptors,65,primary,secondary,no coupling,no coupling,primary,secondary,,,primary,secondary,no coupling,no coupling
+GP101,Orphan receptors,Class A orphans,58,,,,,primary,,,,primary,,,
+MTR1B,Melatonin receptors,Melatonin,50,no coupling,primary,no coupling,no coupling,,primary,,,no coupling,primary,no coupling,no coupling
+CCR2,Protein receptors,Chemokine receptors,66,,,,,,primary,,,,primary,,
+ACM5,Aminergic receptors,Acetylcholine receptors (muscarinic),66,no coupling,secondary,primary,no coupling,,,primary,,no coupling,secondary,primary,no coupling
+LSHR,Protein receptors,Glycoprotein hormone receptors,58,,,,,primary,,secondary,,primary,,secondary,
+SSR2,Peptide receptors,Somatostatin receptors,69,no coupling,primary,secondary,no coupling,,primary,,,no coupling,primary,secondary,no coupling
+GPR18,Lipid receptors,"GPR18, GPR55 and GPR119",53,,,,,,primary,primary,,,primary,primary,
+OPSB,Sensory receptors,Opsins,70,,,,,,,,,,,,
+CCKAR,Peptide receptors,Cholecystokinin receptors,72,secondary,primary,primary,secondary,secondary,,primary,,secondary,primary,primary,secondary
+GP119,Lipid receptors,"GPR18, GPR55 and GPR119",62,primary,primary,primary,no coupling,primary,,,,primary,primary,primary,no coupling
+MRGRF,Orphan receptors,Class A orphans,51,,,,,,,,,,,,
+CCR7,Protein receptors,Chemokine receptors,62,,,,,,primary,,,,primary,,
+LPAR6,Lipid receptors,Lysophospholipid (LPA) receptors,63,no coupling,secondary,secondary,primary,primary,primary,,primary,primary,primary,secondary,primary
+HCAR3,Alicarboxylic acid receptors,Hydroxycarboxylic acid receptors,65,,,,,,primary,,,,primary,,
+GPR62,Orphan receptors,Class A orphans,42,,,,,,,,,,,,
+NPFF1,Peptide receptors,Neuropeptide FF/neuropeptide AF receptors,58,no coupling,primary,no coupling,no coupling,,primary,,,no coupling,primary,no coupling,no coupling
+MRGRD,Orphan receptors,Class A orphans,47,,,,,,primary,primary,,,primary,primary,
+MC5R,Peptide receptors,Melanocortin receptors,40,secondary,secondary,primary,secondary,primary,,,,primary,secondary,primary,secondary
+CCR4,Protein receptors,Chemokine receptors,61,,,,,,primary,,,,primary,,
+HRH3,Aminergic receptors,Histamine receptors,66,no coupling,primary,no coupling,no coupling,,primary,,,no coupling,primary,no coupling,no coupling
+CXCR6,Protein receptors,Chemokine receptors,56,,,,,,primary,,,,primary,,
+GNRHR,Peptide receptors,Gonadotrophin-releasing hormone receptors,59,secondary,secondary,primary,no coupling,,secondary,primary,,secondary,secondary,primary,no coupling
+OPN4,Sensory receptors,Opsins,57,,,,,,primary,primary,,,primary,primary,
+5HT6R,Aminergic receptors,5-Hydroxytryptamine receptors,69,primary,secondary,secondary,secondary,primary,,secondary,,primary,secondary,secondary,secondary
+LPAR2,Lipid receptors,Lysophospholipid (LPA) receptors,44,secondary,secondary,primary,primary,,primary,primary,primary,secondary,primary,primary,primary
+CML1,Protein receptors,Chemerin receptor,51,,,,,,primary,,,,primary,,
+CCR6,Protein receptors,Chemokine receptors,57,,,,,,primary,,,,primary,,
+ACKR2,Protein receptors,Chemokine receptors,47,,,,,,,,,,,,
+NPSR1,Peptide receptors,Neuropeptide S receptors,62,,,,,secondary,,primary,,secondary,,primary,
+OPRD,Peptide receptors,Opioid receptors,72,no coupling,primary,secondary,no coupling,,primary,,,no coupling,primary,secondary,no coupling
+PE2R1,Lipid receptors,Prostanoid receptors,51,secondary,no coupling,primary,secondary,,secondary,primary,,secondary,secondary,primary,secondary
+ADA1A,Aminergic receptors,Adrenoceptors,72,primary,no coupling,primary,secondary,,,primary,secondary,primary,no coupling,primary,secondary
+ACKR4,Protein receptors,Chemokine receptors,40,,,,,,,,,,,,
+OPN3,Sensory receptors,Opsins,46,,,,,,,,,,,,
+TRFR,Peptide receptors,Thyrotropin-releasing hormone receptors,61,,,,,,,primary,,,,primary,
+APJ,Peptide receptors,Apelin receptors,66,no coupling,primary,secondary,no coupling,,primary,,,no coupling,primary,secondary,no coupling
+GPR84,Orphan receptors,Class A orphans,47,no coupling,primary,no coupling,no coupling,,primary,,,no coupling,primary,no coupling,no coupling
+OPRM,Peptide receptors,Opioid receptors,72,no coupling,primary,no coupling,no coupling,,primary,secondary,,no coupling,primary,secondary,no coupling
+AA3R,Nucleotide receptors,Adenosine receptors,55,no coupling,primary,no coupling,no coupling,,primary,,,no coupling,primary,no coupling,no coupling
+ADA2B,Aminergic receptors,Adrenoceptors,63,no coupling,primary,no coupling,secondary,secondary,primary,,,secondary,primary,no coupling,secondary
+OPN5,Sensory receptors,Opsins,50,,,,,,primary,,,,primary,,
+NPY5R,Peptide receptors,Neuropeptide Y receptors,49,,,,,,primary,,,,primary,,
+OPRX,Peptide receptors,Opioid receptors,71,no coupling,primary,secondary,no coupling,,primary,,,no coupling,primary,secondary,no coupling
+CXCR3,Protein receptors,Chemokine receptors,45,,,,,,primary,,,,primary,,
+RXFP2,Peptide receptors,Relaxin family peptide receptors,52,,,,,primary,primary,,,primary,primary,,
+ACTHR,Peptide receptors,Melanocortin receptors,51,,,,,primary,,,,primary,,,
+FSHR,Protein receptors,Glycoprotein hormone receptors,53,,,,,primary,primary,primary,,primary,primary,primary,
+PSYR,Orphan receptors,Class A orphans,62,,,,,primary,,,,primary,,,
+TAAR1,Aminergic receptors,Trace amine receptors,66,,,,,primary,,secondary,,primary,,secondary,
+GPR63,Orphan receptors,Class A orphans,45,,,,,,,,,,,,
+GPR61,Orphan receptors,Class A orphans,68,,,,,,,,,,,,
+C5AR1,Peptide receptors,Complement peptide receptors,44,,,,,,primary,secondary,,,primary,secondary,
+NPY2R,Peptide receptors,Neuropeptide Y receptors,49,,,,,,primary,secondary,,,primary,secondary,
+HRH4,Aminergic receptors,Histamine receptors,67,no coupling,primary,no coupling,no coupling,,primary,,,no coupling,primary,no coupling,no coupling
+NK1R,Peptide receptors,Tachykinin receptors,55,secondary,secondary,primary,secondary,primary,,primary,,primary,secondary,primary,secondary
+5HT1E,Aminergic receptors,5-Hydroxytryptamine receptors,74,no coupling,primary,no coupling,no coupling,,primary,,,no coupling,primary,no coupling,no coupling
+AGTR1,Peptide receptors,Angiotensin receptors,72,no coupling,primary,primary,no coupling,,primary,primary,,no coupling,primary,primary,no coupling
+GP146,Orphan receptors,Class A orphans,28,,,,,,,,,,,,
+CCR3,Protein receptors,Chemokine receptors,61,,,,,,primary,,,,primary,,
+GPR26,Orphan receptors,Class A orphans,67,,,,,primary,,,,primary,,,
+LGR4,Orphan receptors,Class A orphans,44,,,,,,,,,,,,
+LPAR1,Lipid receptors,Lysophospholipid (LPA) receptors,46,no coupling,secondary,primary,primary,,primary,primary,primary,no coupling,primary,primary,primary
+LPAR4,Lipid receptors,Lysophospholipid (LPA) receptors,64,primary,secondary,secondary,secondary,primary,primary,primary,primary,primary,primary,primary,primary
+OXER1,Lipid receptors,Leukotriene receptors,59,,,,,,primary,,,,primary,,
+DRD4,Aminergic receptors,Dopamine receptors,66,no coupling,primary,no coupling,no coupling,,primary,,,no coupling,primary,no coupling,no coupling
+GPR42,Lipid receptors,Free fatty acid receptors,60,,,,,,,,,,,,
+FFAR4,Lipid receptors,Free fatty acid receptors,36,secondary,primary,secondary,secondary,,,primary,,secondary,primary,primary,secondary
+GPR33,Orphan receptors,Class A orphans,39,,,,,,primary,,,,primary,,
+MTR1A,Melatonin receptors,Melatonin,51,no coupling,primary,no coupling,no coupling,,primary,secondary,,no coupling,primary,secondary,no coupling
+MAS1L,Orphan receptors,Class A orphans,44,,,,,,,,,,,,
+DRD3,Aminergic receptors,Dopamine receptors,66,no coupling,primary,no coupling,no coupling,,primary,,,no coupling,primary,no coupling,no coupling
+PTAFR,Lipid receptors,Platelet-activating factor receptors,50,primary,primary,primary,secondary,,primary,primary,,primary,primary,primary,secondary
+GPR39,Orphan receptors,Class A orphans,60,,,,,secondary,,primary,secondary,secondary,,primary,secondary
+GPR19,Orphan receptors,Class A orphans,51,,,,,,,,,,,,
+NTR2,Peptide receptors,Neurotensin receptors,64,,,,,,,primary,,,,primary,
+PD2R2,Lipid receptors,Prostanoid receptors,47,,,,,,primary,,,,primary,,
+GPR32,Orphan receptors,Class A orphans,53,,,,,,,,,,,,
+NPFF2,Peptide receptors,Neuropeptide FF/neuropeptide AF receptors,55,no coupling,primary,no coupling,no coupling,,primary,,,no coupling,primary,no coupling,no coupling
+TAAR6,Orphan receptors,Class A orphans,69,,,,,,,,,,,,
+V2R,Peptide receptors,Vasopressin and oxytocin receptors,60,primary,no coupling,no coupling,no coupling,primary,,,,primary,no coupling,no coupling,no coupling
+GPR25,Orphan receptors,Class A orphans,54,,,,,,,,,,,,
+GPR88,Orphan receptors,Class A orphans,42,,,,,,,,,,,,
+GRPR,Peptide receptors,Bombesin receptors,62,secondary,secondary,primary,secondary,,,primary,,secondary,secondary,primary,secondary
+MRGX1,Orphan receptors,Class A orphans,50,primary,secondary,secondary,primary,,,primary,,primary,secondary,primary,primary
+CCRL2,Protein receptors,Chemokine receptors,33,,,,,,,,,,,,
+HRH1,Aminergic receptors,Histamine receptors,69,secondary,primary,secondary,no coupling,,,primary,,secondary,primary,primary,no coupling
+TAAR8,Orphan receptors,Class A orphans,71,,,,,,,,,,,,
+MAS,Orphan receptors,Class A orphans,50,,,,,,primary,primary,,,primary,primary,
+CXCR4,Protein receptors,Chemokine receptors,51,,,,,,primary,,,,primary,,
+CCR1,Protein receptors,Chemokine receptors,61,,,,,,primary,,,,primary,,
+CXCR5,Protein receptors,Chemokine receptors,61,,,,,,primary,,,,primary,,
+PAR4,Peptide receptors,Proteinase-activated receptors,50,secondary,primary,secondary,primary,,,,,secondary,primary,secondary,primary
+GP139,Orphan receptors,Class A orphans,63,,,,,,,primary,,,,primary,
+GPR22,Orphan receptors,Class A orphans,55,,,,,,primary,,,,primary,,
+BKRB1,Peptide receptors,Bradykinin receptors,55,secondary,primary,primary,secondary,,primary,primary,,secondary,primary,primary,secondary
+S1PR3,Lipid receptors,Lysophospholipid (S1P) receptors,49,secondary,primary,primary,primary,,primary,primary,primary,secondary,primary,primary,primary
+NPY1R,Peptide receptors,Neuropeptide Y receptors,55,,,,,,primary,,,,primary,,
+GPR85,Orphan receptors,Class A orphans,51,,,,,,,,,,,,
+MRGX3,Orphan receptors,Class A orphans,48,,,,,,,primary,,,,primary,
+ACM3,Aminergic receptors,Acetylcholine receptors (muscarinic),67,no coupling,secondary,primary,no coupling,,,primary,,no coupling,secondary,primary,no coupling
+MC4R,Peptide receptors,Melanocortin receptors,55,secondary,secondary,primary,secondary,primary,,,,primary,secondary,primary,secondary
+OPRK,Peptide receptors,Opioid receptors,72,no coupling,primary,no coupling,no coupling,,primary,,secondary,no coupling,primary,no coupling,secondary
+CCR5,Protein receptors,Chemokine receptors,66,,,,,,primary,,,,primary,,
+P2Y10,Orphan receptors,Class A orphans,35,no coupling,secondary,secondary,primary,,,,,no coupling,secondary,secondary,primary
+GP176,Orphan receptors,Class A orphans,60,,,,,,,,,,,,
+MC3R,Peptide receptors,Melanocortin receptors,53,secondary,secondary,secondary,primary,primary,,,,primary,secondary,secondary,primary
+TAAR3,Orphan receptors,Class A orphans,65,,,,,,,,,,,,
+V1BR,Peptide receptors,Vasopressin and oxytocin receptors,62,secondary,secondary,primary,no coupling,,,primary,,secondary,secondary,primary,no coupling
+5HT1A,Aminergic receptors,5-Hydroxytryptamine receptors,70,no coupling,primary,primary,no coupling,,primary,,,no coupling,primary,primary,no coupling
+5HT2A,Aminergic receptors,5-Hydroxytryptamine receptors,61,no coupling,secondary,primary,no coupling,,secondary,primary,,no coupling,secondary,primary,no coupling
+P2RY8,Orphan receptors,Class A orphans,52,,,,,,,,,,,,
+GALR2,Peptide receptors,Galanin receptors,69,no coupling,secondary,primary,secondary,,secondary,primary,secondary,no coupling,secondary,primary,secondary
+GPR3,Orphan receptors,Class A orphans,66,,,,,primary,,,,primary,,,
+MTR1L,Orphan receptors,Class A orphans,55,,,,,,,,,,,,
+ADRB3,Aminergic receptors,Adrenoceptors,72,primary,no coupling,no coupling,no coupling,primary,secondary,,,primary,secondary,no coupling,no coupling
+GPR87,Orphan receptors,Class A orphans,54,,,,,,,,,,,,
+FPR3,Peptide receptors,Formylpeptide receptors,48,,,,,,primary,,,,primary,,
+PAR1,Peptide receptors,Proteinase-activated receptors,56,no coupling,primary,primary,primary,,,,,no coupling,primary,primary,primary
+GPER1,Steroid receptors,Estrogen (G protein-coupled) receptors,65,,,,,secondary,primary,,,secondary,primary,,
+NPY4R,Peptide receptors,Neuropeptide Y receptors,46,,,,,,primary,secondary,,,primary,secondary,
+UR2R,Peptide receptors,Urotensin receptors,51,secondary,primary,secondary,secondary,,,primary,,secondary,primary,primary,secondary
+GPR15,Orphan receptors,Class A orphans,62,,,,,,,,,,,,
+PE2R2,Lipid receptors,Prostanoid receptors,41,primary,no coupling,no coupling,no coupling,primary,,,,primary,no coupling,no coupling,no coupling
+LPAR5,Lipid receptors,Lysophospholipid (LPA) receptors,56,no coupling,primary,no coupling,secondary,,,primary,primary,no coupling,primary,primary,primary
+GP151,Orphan receptors,Class A orphans,44,,,,,,,,,,,,
+RL3R2,Peptide receptors,Relaxin family peptide receptors,52,,,,,,primary,,,,primary,,
+TA2R,Lipid receptors,Prostanoid receptors,37,no coupling,secondary,primary,secondary,,,primary,,no coupling,secondary,primary,secondary
+FPR2,Peptide receptors,Formylpeptide receptors,51,no coupling,secondary,primary,no coupling,,primary,secondary,,no coupling,primary,primary,no coupling
+MSHR,Peptide receptors,Melanocortin receptors,51,secondary,no coupling,primary,no coupling,primary,,,,primary,no coupling,primary,no coupling
+PF2R,Lipid receptors,Prostanoid receptors,51,primary,no coupling,primary,no coupling,secondary,,primary,,primary,no coupling,primary,no coupling

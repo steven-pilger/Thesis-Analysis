@@ -1,0 +1,399 @@
+class,family,sub_family,uniprot
+Class A (Rhodopsin),Aminergic receptors,5-Hydroxytryptamine receptors,5HT1A
+Class A (Rhodopsin),Aminergic receptors,5-Hydroxytryptamine receptors,5HT1B
+Class A (Rhodopsin),Aminergic receptors,5-Hydroxytryptamine receptors,5HT1D
+Class A (Rhodopsin),Aminergic receptors,5-Hydroxytryptamine receptors,5HT1E
+Class A (Rhodopsin),Aminergic receptors,5-Hydroxytryptamine receptors,5HT1F
+Class A (Rhodopsin),Aminergic receptors,5-Hydroxytryptamine receptors,5HT2A
+Class A (Rhodopsin),Aminergic receptors,5-Hydroxytryptamine receptors,5HT2B
+Class A (Rhodopsin),Aminergic receptors,5-Hydroxytryptamine receptors,5HT2C
+Class A (Rhodopsin),Aminergic receptors,5-Hydroxytryptamine receptors,5HT4R
+Class A (Rhodopsin),Aminergic receptors,5-Hydroxytryptamine receptors,5HT5A
+Class A (Rhodopsin),Aminergic receptors,5-Hydroxytryptamine receptors,5HT6R
+Class A (Rhodopsin),Aminergic receptors,5-Hydroxytryptamine receptors,5HT7R
+Class A (Rhodopsin),Aminergic receptors,Acetylcholine receptors (muscarinic),ACM1
+Class A (Rhodopsin),Aminergic receptors,Acetylcholine receptors (muscarinic),ACM2
+Class A (Rhodopsin),Aminergic receptors,Dopamine receptors,DRD2
+Class A (Rhodopsin),Aminergic receptors,Acetylcholine receptors (muscarinic),ACM3
+Class A (Rhodopsin),Aminergic receptors,Acetylcholine receptors (muscarinic),ACM4
+Class A (Rhodopsin),Aminergic receptors,Acetylcholine receptors (muscarinic),ACM5
+Class A (Rhodopsin),Aminergic receptors,Adrenoceptors,ADA1A
+Class A (Rhodopsin),Aminergic receptors,Adrenoceptors,ADA1B
+Class A (Rhodopsin),Aminergic receptors,Adrenoceptors,ADA1D
+Class A (Rhodopsin),Aminergic receptors,Adrenoceptors,ADA2A
+Class A (Rhodopsin),Aminergic receptors,Adrenoceptors,ADA2B
+Class A (Rhodopsin),Aminergic receptors,Adrenoceptors,ADA2C
+Class A (Rhodopsin),Aminergic receptors,Adrenoceptors,ADRB1
+Class A (Rhodopsin),Aminergic receptors,Adrenoceptors,ADRB2
+Class A (Rhodopsin),Aminergic receptors,Adrenoceptors,ADRB3
+Class A (Rhodopsin),Aminergic receptors,Dopamine receptors,DRD1
+Class A (Rhodopsin),Aminergic receptors,Dopamine receptors,DRD3
+Class A (Rhodopsin),Aminergic receptors,Dopamine receptors,DRD4
+Class A (Rhodopsin),Aminergic receptors,Dopamine receptors,DRD5
+Class A (Rhodopsin),Aminergic receptors,Histamine receptors,HRH1
+Class A (Rhodopsin),Aminergic receptors,Histamine receptors,HRH2
+Class A (Rhodopsin),Aminergic receptors,Histamine receptors,HRH3
+Class A (Rhodopsin),Aminergic receptors,Histamine receptors,HRH4
+Class A (Rhodopsin),Aminergic receptors,Trace amine receptors,TAAR1
+Class A (Rhodopsin),Peptide receptors,Angiotensin receptors,AGTR1
+Class A (Rhodopsin),Peptide receptors,Angiotensin receptors,AGTR2
+Class A (Rhodopsin),Peptide receptors,Apelin receptors,APJ
+Class A (Rhodopsin),Peptide receptors,Bombesin receptors,NMBR
+Class A (Rhodopsin),Peptide receptors,Bombesin receptors,GRPR
+Class A (Rhodopsin),Peptide receptors,Bombesin receptors,BRS3
+Class A (Rhodopsin),Peptide receptors,Bradykinin receptors,BKRB1
+Class A (Rhodopsin),Peptide receptors,Bradykinin receptors,BKRB2
+Class A (Rhodopsin),Peptide receptors,Cholecystokinin receptors,CCKAR
+Class A (Rhodopsin),Peptide receptors,Cholecystokinin receptors,GASR
+Class A (Rhodopsin),Peptide receptors,Complement peptide receptors,C3AR
+Class A (Rhodopsin),Peptide receptors,Complement peptide receptors,C5AR1
+Class A (Rhodopsin),Peptide receptors,Complement peptide receptors,C5AR2
+Class A (Rhodopsin),Peptide receptors,Endothelin receptors,EDNRA
+Class A (Rhodopsin),Peptide receptors,Endothelin receptors,EDNRB
+Class A (Rhodopsin),Peptide receptors,Formylpeptide receptors,FPR1
+Class A (Rhodopsin),Peptide receptors,Formylpeptide receptors,FPR2
+Class A (Rhodopsin),Peptide receptors,Formylpeptide receptors,FPR3
+Class A (Rhodopsin),Peptide receptors,Galanin receptors,GALR1
+Class A (Rhodopsin),Peptide receptors,Galanin receptors,GALR2
+Class A (Rhodopsin),Peptide receptors,Galanin receptors,GALR3
+Class A (Rhodopsin),Peptide receptors,Ghrelin receptors,GHSR
+Class A (Rhodopsin),Peptide receptors,Gonadotrophin-releasing hormone receptors,GNRHR
+Class A (Rhodopsin),Peptide receptors,Kisspeptin receptors,KISSR
+Class A (Rhodopsin),Peptide receptors,Melanin-concentrating hormone,MCHR1
+Class A (Rhodopsin),Peptide receptors,Melanin-concentrating hormone,MCHR2
+Class A (Rhodopsin),Peptide receptors,Melanocortin receptors,MSHR
+Class A (Rhodopsin),Peptide receptors,Melanocortin receptors,ACTHR
+Class A (Rhodopsin),Peptide receptors,Melanocortin receptors,MC3R
+Class A (Rhodopsin),Peptide receptors,Melanocortin receptors,MC4R
+Class A (Rhodopsin),Peptide receptors,Melanocortin receptors,MC5R
+Class A (Rhodopsin),Peptide receptors,Motilin receptors,MTLR
+Class A (Rhodopsin),Peptide receptors,Neuromedin U receptors,NMUR1
+Class A (Rhodopsin),Peptide receptors,Neuromedin U receptors,NMUR2
+Class A (Rhodopsin),Peptide receptors,Neuropeptide FF/neuropeptide AF receptors,NPFF1
+Class A (Rhodopsin),Peptide receptors,Neuropeptide FF/neuropeptide AF receptors,NPFF2
+Class A (Rhodopsin),Peptide receptors,Neuropeptide S receptors,NPSR1
+Class A (Rhodopsin),Peptide receptors,Neuropeptide W/neuropeptide B receptors,NPBW1
+Class A (Rhodopsin),Peptide receptors,Neuropeptide W/neuropeptide B receptors,NPBW2
+Class A (Rhodopsin),Peptide receptors,Neuropeptide Y receptors,NPY1R
+Class A (Rhodopsin),Protein receptors,Chemokine receptors,CXCR1
+Class A (Rhodopsin),Peptide receptors,Neuropeptide Y receptors,NPY2R
+Class A (Rhodopsin),Peptide receptors,Neuropeptide Y receptors,NPY4R
+Class A (Rhodopsin),Peptide receptors,Neuropeptide Y receptors,NPY5R
+Class A (Rhodopsin),Peptide receptors,Neuropeptide Y receptors,NPY6R
+Class A (Rhodopsin),Peptide receptors,Neurotensin receptors,NTR1
+Class A (Rhodopsin),Peptide receptors,Neurotensin receptors,NTR2
+Class A (Rhodopsin),Peptide receptors,Opioid receptors,OPRD
+Class A (Rhodopsin),Peptide receptors,Opioid receptors,OPRK
+Class A (Rhodopsin),Peptide receptors,Opioid receptors,OPRM
+Class A (Rhodopsin),Peptide receptors,Opioid receptors,OPRX
+Class A (Rhodopsin),Peptide receptors,Orexin receptors,OX1R
+Class A (Rhodopsin),Peptide receptors,Orexin receptors,OX2R
+Class A (Rhodopsin),Peptide receptors,Peptide P518 receptors,QRFPR
+Class A (Rhodopsin),Peptide receptors,Prolactin-releasing peptide receptors,PRLHR
+Class A (Rhodopsin),Peptide receptors,Proteinase-activated receptors,PAR1
+Class A (Rhodopsin),Peptide receptors,Proteinase-activated receptors,PAR2
+Class A (Rhodopsin),Peptide receptors,Proteinase-activated receptors,PAR3
+Class A (Rhodopsin),Peptide receptors,Proteinase-activated receptors,PAR4
+Class A (Rhodopsin),Peptide receptors,Relaxin family peptide receptors,RXFP1
+Class A (Rhodopsin),Peptide receptors,Relaxin family peptide receptors,RXFP2
+Class A (Rhodopsin),Peptide receptors,Relaxin family peptide receptors,RL3R1
+Class A (Rhodopsin),Peptide receptors,Relaxin family peptide receptors,RL3R2
+Class A (Rhodopsin),Peptide receptors,Somatostatin receptors,SSR1
+Class A (Rhodopsin),Peptide receptors,Somatostatin receptors,SSR2
+Class A (Rhodopsin),Peptide receptors,Somatostatin receptors,SSR3
+Class A (Rhodopsin),Peptide receptors,Somatostatin receptors,SSR4
+Class A (Rhodopsin),Peptide receptors,Somatostatin receptors,SSR5
+Class A (Rhodopsin),Peptide receptors,Tachykinin receptors,NK1R
+Class A (Rhodopsin),Peptide receptors,Tachykinin receptors,NK2R
+Class A (Rhodopsin),Peptide receptors,Tachykinin receptors,NK3R
+Class A (Rhodopsin),Protein receptors,Chemokine receptors,CXCR2
+Class A (Rhodopsin),Peptide receptors,Thyrotropin-releasing hormone receptors,TRFR
+Class A (Rhodopsin),Peptide receptors,Urotensin receptors,UR2R
+Class A (Rhodopsin),Peptide receptors,Vasopressin and oxytocin receptors,V1AR
+Class A (Rhodopsin),Peptide receptors,Vasopressin and oxytocin receptors,V1BR
+Class A (Rhodopsin),Peptide receptors,Vasopressin and oxytocin receptors,V2R
+Class A (Rhodopsin),Peptide receptors,Vasopressin and oxytocin receptors,OXYR
+Class A (Rhodopsin),Protein receptors,Chemerin receptor,CML1
+Class A (Rhodopsin),Protein receptors,Chemokine receptors,CCR1
+Class A (Rhodopsin),Protein receptors,Chemokine receptors,CCR2
+Class A (Rhodopsin),Protein receptors,Chemokine receptors,CCR3
+Class A (Rhodopsin),Protein receptors,Chemokine receptors,CCR4
+Class A (Rhodopsin),Protein receptors,Chemokine receptors,CCR5
+Class A (Rhodopsin),Protein receptors,Chemokine receptors,CCR6
+Class A (Rhodopsin),Protein receptors,Chemokine receptors,CCR7
+Class A (Rhodopsin),Protein receptors,Chemokine receptors,CCR8
+Class A (Rhodopsin),Protein receptors,Chemokine receptors,CCR9
+Class A (Rhodopsin),Protein receptors,Chemokine receptors,CCR10
+Class A (Rhodopsin),Protein receptors,Chemokine receptors,CXCR3
+Class A (Rhodopsin),Protein receptors,Chemokine receptors,CXCR4
+Class A (Rhodopsin),Protein receptors,Chemokine receptors,CXCR5
+Class A (Rhodopsin),Protein receptors,Chemokine receptors,CXCR6
+Class A (Rhodopsin),Protein receptors,Chemokine receptors,CX3C1
+Class A (Rhodopsin),Protein receptors,Chemokine receptors,XCR1
+Class A (Rhodopsin),Protein receptors,Chemokine receptors,ACKR1
+Class A (Rhodopsin),Protein receptors,Chemokine receptors,ACKR2
+Class A (Rhodopsin),Protein receptors,Chemokine receptors,ACKR3
+Class A (Rhodopsin),Protein receptors,Chemokine receptors,ACKR4
+Class A (Rhodopsin),Protein receptors,Chemokine receptors,CCRL2
+Class A (Rhodopsin),Protein receptors,Glycoprotein hormone receptors,FSHR
+Class A (Rhodopsin),Protein receptors,Glycoprotein hormone receptors,LSHR
+Class A (Rhodopsin),Protein receptors,Glycoprotein hormone receptors,TSHR
+Class A (Rhodopsin),Protein receptors,Prokineticin receptors,PKR1
+Class A (Rhodopsin),Protein receptors,Prokineticin receptors,PKR2
+Class A (Rhodopsin),Lipid receptors,Free fatty acid receptors,FFAR1
+Class A (Rhodopsin),Lipid receptors,Free fatty acid receptors,FFAR2
+Class A (Rhodopsin),Lipid receptors,Free fatty acid receptors,FFAR3
+Class A (Rhodopsin),Lipid receptors,Free fatty acid receptors,FFAR4
+Class A (Rhodopsin),Lipid receptors,Free fatty acid receptors,GPR42
+Class A (Rhodopsin),Lipid receptors,Leukotriene receptors,LT4R1
+Class A (Rhodopsin),Lipid receptors,Leukotriene receptors,LT4R2
+Class A (Rhodopsin),Lipid receptors,Leukotriene receptors,CLTR1
+Class A (Rhodopsin),Lipid receptors,Leukotriene receptors,CLTR2
+Class A (Rhodopsin),Lipid receptors,Leukotriene receptors,OXER1
+Class A (Rhodopsin),Lipid receptors,Lysophospholipid (LPA) receptors,LPAR1
+Class A (Rhodopsin),Lipid receptors,Lysophospholipid (LPA) receptors,LPAR2
+Class A (Rhodopsin),Lipid receptors,Lysophospholipid (LPA) receptors,LPAR3
+Class A (Rhodopsin),Lipid receptors,Lysophospholipid (LPA) receptors,LPAR4
+Class A (Rhodopsin),Lipid receptors,Lysophospholipid (LPA) receptors,LPAR5
+Class A (Rhodopsin),Lipid receptors,Lysophospholipid (LPA) receptors,LPAR6
+Class A (Rhodopsin),Lipid receptors,Lysophospholipid (S1P) receptors,S1PR1
+Class A (Rhodopsin),Lipid receptors,Lysophospholipid (S1P) receptors,S1PR2
+Class A (Rhodopsin),Lipid receptors,Lysophospholipid (S1P) receptors,S1PR3
+Class A (Rhodopsin),Lipid receptors,Lysophospholipid (S1P) receptors,S1PR4
+Class A (Rhodopsin),Lipid receptors,Lysophospholipid (S1P) receptors,S1PR5
+Class A (Rhodopsin),Lipid receptors,Cannabinoid receptors,CNR1
+Class A (Rhodopsin),Lipid receptors,Cannabinoid receptors,CNR2
+Class A (Rhodopsin),Lipid receptors,"GPR18, GPR55 and GPR119",GPR18
+Class A (Rhodopsin),Lipid receptors,"GPR18, GPR55 and GPR119",GPR55
+Class A (Rhodopsin),Lipid receptors,"GPR18, GPR55 and GPR119",GP119
+Class A (Rhodopsin),Lipid receptors,Platelet-activating factor receptors,PTAFR
+Class A (Rhodopsin),Lipid receptors,Prostanoid receptors,PD2R
+Class A (Rhodopsin),Lipid receptors,Prostanoid receptors,PD2R2
+Class A (Rhodopsin),Lipid receptors,Prostanoid receptors,PE2R1
+Class A (Rhodopsin),Lipid receptors,Prostanoid receptors,PE2R2
+Class A (Rhodopsin),Lipid receptors,Prostanoid receptors,PE2R3
+Class A (Rhodopsin),Nucleotide receptors,P2Y receptors,P2Y14
+Class A (Rhodopsin),Lipid receptors,Prostanoid receptors,PE2R4
+Class A (Rhodopsin),Lipid receptors,Prostanoid receptors,PF2R
+Class A (Rhodopsin),Lipid receptors,Prostanoid receptors,PI2R
+Class A (Rhodopsin),Lipid receptors,Prostanoid receptors,TA2R
+Class A (Rhodopsin),Melatonin receptors,Melatonin,MTR1A
+Class A (Rhodopsin),Melatonin receptors,Melatonin,MTR1B
+Class A (Rhodopsin),Nucleotide receptors,Adenosine receptors,AA1R
+Class A (Rhodopsin),Nucleotide receptors,Adenosine receptors,AA2AR
+Class A (Rhodopsin),Nucleotide receptors,Adenosine receptors,AA2BR
+Class A (Rhodopsin),Nucleotide receptors,Adenosine receptors,AA3R
+Class A (Rhodopsin),Nucleotide receptors,P2Y receptors,P2RY1
+Class A (Rhodopsin),Nucleotide receptors,P2Y receptors,P2RY2
+Class A (Rhodopsin),Nucleotide receptors,P2Y receptors,P2RY4
+Class A (Rhodopsin),Nucleotide receptors,P2Y receptors,P2RY6
+Class A (Rhodopsin),Nucleotide receptors,P2Y receptors,P2Y11
+Class A (Rhodopsin),Nucleotide receptors,P2Y receptors,P2Y12
+Class A (Rhodopsin),Nucleotide receptors,P2Y receptors,P2Y13
+Class A (Rhodopsin),Steroid receptors,Bile acid receptors,GPBAR
+Class A (Rhodopsin),Steroid receptors,Estrogen (G protein-coupled) receptors,GPER1
+Class A (Rhodopsin),Alicarboxylic acid receptors,Hydroxycarboxylic acid receptors,HCAR1
+Class A (Rhodopsin),Alicarboxylic acid receptors,Hydroxycarboxylic acid receptors,HCAR2
+Class A (Rhodopsin),Alicarboxylic acid receptors,Hydroxycarboxylic acid receptors,HCAR3
+Class A (Rhodopsin),Alicarboxylic acid receptors,Oxoglutarate receptors,OXGR1
+Class A (Rhodopsin),Alicarboxylic acid receptors,Succinate receptors,SUCR1
+Class A (Rhodopsin),Sensory receptors,Opsins,OPSD
+Class A (Rhodopsin),Sensory receptors,Opsins,OPN4
+Class A (Rhodopsin),Sensory receptors,Opsins,OPN3
+Class A (Rhodopsin),Sensory receptors,Opsins,OPN5
+Class A (Rhodopsin),Sensory receptors,Opsins,OPSB
+Class A (Rhodopsin),Sensory receptors,Opsins,OPSG
+Class A (Rhodopsin),Sensory receptors,Opsins,OPSR
+Class A (Rhodopsin),Orphan receptors,Class A orphans,GPR1
+Class A (Rhodopsin),Orphan receptors,Class A orphans,GPR3
+Class A (Rhodopsin),Orphan receptors,Class A orphans,GPR4
+Class A (Rhodopsin),Orphan receptors,Class A orphans,GPR6
+Class A (Rhodopsin),Orphan receptors,Class A orphans,GPR12
+Class A (Rhodopsin),Orphan receptors,Class A orphans,GPR15
+Class A (Rhodopsin),Orphan receptors,Class A orphans,GPR17
+Class A (Rhodopsin),Orphan receptors,Class A orphans,GPR19
+Class A (Rhodopsin),Orphan receptors,Class A orphans,GPR20
+Class A (Rhodopsin),Orphan receptors,Class A orphans,GPR21
+Class A (Rhodopsin),Orphan receptors,Class A orphans,GPR22
+Class A (Rhodopsin),Orphan receptors,Class A orphans,GPR25
+Class A (Rhodopsin),Orphan receptors,Class A orphans,GPR26
+Class A (Rhodopsin),Orphan receptors,Class A orphans,GPR27
+Class A (Rhodopsin),Orphan receptors,Class A orphans,GPR31
+Class A (Rhodopsin),Orphan receptors,Class A orphans,GPR32
+Class A (Rhodopsin),Orphan receptors,Class A orphans,GPR33
+Class A (Rhodopsin),Orphan receptors,Class A orphans,GPR34
+Class A (Rhodopsin),Orphan receptors,Class A orphans,GPR35
+Class A (Rhodopsin),Orphan receptors,Class A orphans,GPR37
+Class A (Rhodopsin),Orphan receptors,Class A orphans,ETBR2
+Class A (Rhodopsin),Orphan receptors,Class A orphans,GPR39
+Class A (Rhodopsin),Orphan receptors,Class A orphans,GPR45
+Class A (Rhodopsin),Orphan receptors,Class A orphans,MTR1L
+Class A (Rhodopsin),Orphan receptors,Class A orphans,GPR52
+Class A (Rhodopsin),Orphan receptors,Class A orphans,GPR61
+Class A (Rhodopsin),Orphan receptors,Class A orphans,GPR62
+Class A (Rhodopsin),Orphan receptors,Class A orphans,GPR63
+Class A (Rhodopsin),Orphan receptors,Class A orphans,PSYR
+Class A (Rhodopsin),Orphan receptors,Class A orphans,OGR1
+Class A (Rhodopsin),Orphan receptors,Class A orphans,GPR75
+Class A (Rhodopsin),Orphan receptors,Class A orphans,GPR78
+Class A (Rhodopsin),Orphan receptors,Class A orphans,GPR82
+Class A (Rhodopsin),Orphan receptors,Class A orphans,GPR83
+Class A (Rhodopsin),Orphan receptors,Class A orphans,GPR84
+Class A (Rhodopsin),Orphan receptors,Class A orphans,GPR85
+Class A (Rhodopsin),Orphan receptors,Class A orphans,GPR87
+Class A (Rhodopsin),Orphan receptors,Class A orphans,GPR88
+Class A (Rhodopsin),Orphan receptors,Class A orphans,GP101
+Class A (Rhodopsin),Orphan receptors,Class A orphans,GP132
+Class A (Rhodopsin),Orphan receptors,Class A orphans,GP135
+Class A (Rhodopsin),Orphan receptors,Class A orphans,GP139
+Class A (Rhodopsin),Orphan receptors,Class A orphans,GP141
+Class A (Rhodopsin),Orphan receptors,Class A orphans,GP142
+Class A (Rhodopsin),Orphan receptors,Class A orphans,GP146
+Class A (Rhodopsin),Orphan receptors,Class A orphans,GP148
+Class A (Rhodopsin),Orphan receptors,Class A orphans,GP149
+Class A (Rhodopsin),Orphan receptors,Class A orphans,GP150
+Class A (Rhodopsin),Orphan receptors,Class A orphans,GP151
+Class A (Rhodopsin),Orphan receptors,Class A orphans,GP152
+Class A (Rhodopsin),Orphan receptors,Class A orphans,GP153
+Class A (Rhodopsin),Orphan receptors,Class A orphans,GP160
+Class A (Rhodopsin),Orphan receptors,Class A orphans,GP161
+Class A (Rhodopsin),Orphan receptors,Class A orphans,GP162
+Class A (Rhodopsin),Orphan receptors,Class A orphans,GP171
+Class A (Rhodopsin),Orphan receptors,Class A orphans,GP173
+Class A (Rhodopsin),Orphan receptors,Class A orphans,GP174
+Class A (Rhodopsin),Orphan receptors,Class A orphans,GP176
+Class A (Rhodopsin),Orphan receptors,Class A orphans,GP182
+Class A (Rhodopsin),Orphan receptors,Class A orphans,GP183
+Class A (Rhodopsin),Orphan receptors,Class A orphans,LGR4
+Class A (Rhodopsin),Orphan receptors,Class A orphans,LGR5
+Class A (Rhodopsin),Orphan receptors,Class A orphans,TAAR8
+Class A (Rhodopsin),Orphan receptors,Class A orphans,LGR6
+Class A (Rhodopsin),Orphan receptors,Class A orphans,MAS
+Class A (Rhodopsin),Orphan receptors,Class A orphans,MAS1L
+Class A (Rhodopsin),Orphan receptors,Class A orphans,MRGRD
+Class A (Rhodopsin),Orphan receptors,Class A orphans,MRGRE
+Class A (Rhodopsin),Orphan receptors,Class A orphans,MRGRF
+Class A (Rhodopsin),Orphan receptors,Class A orphans,MRGRG
+Class A (Rhodopsin),Orphan receptors,Class A orphans,MRGX1
+Class A (Rhodopsin),Orphan receptors,Class A orphans,MRGX2
+Class A (Rhodopsin),Orphan receptors,Class A orphans,MRGX3
+Class A (Rhodopsin),Orphan receptors,Class A orphans,MRGX4
+Class A (Rhodopsin),Orphan receptors,Class A orphans,P2RY8
+Class A (Rhodopsin),Orphan receptors,Class A orphans,P2Y10
+Class A (Rhodopsin),Orphan receptors,Class A orphans,TAAR2
+Class A (Rhodopsin),Orphan receptors,Class A orphans,TAAR3
+Class A (Rhodopsin),Orphan receptors,Class A orphans,TAAR5
+Class A (Rhodopsin),Orphan receptors,Class A orphans,TAAR6
+Class A (Rhodopsin),Orphan receptors,Class A orphans,TAAR9
+Class B1 (Secretin),Peptide receptors,Calcitonin receptors,CALCR
+Class B1 (Secretin),Peptide receptors,Calcitonin receptors,CALRL
+Class B1 (Secretin),Peptide receptors,Corticotropin-releasing factor receptors,CRFR1
+Class B1 (Secretin),Peptide receptors,Corticotropin-releasing factor receptors,CRFR2
+Class B1 (Secretin),Peptide receptors,Glucagon receptor family,GHRHR
+Class B1 (Secretin),Peptide receptors,Glucagon receptor family,GIPR
+Class B1 (Secretin),Peptide receptors,Glucagon receptor family,GLP1R
+Class B1 (Secretin),Peptide receptors,Glucagon receptor family,GLP2R
+Class B1 (Secretin),Peptide receptors,Glucagon receptor family,GLR
+Class B1 (Secretin),Peptide receptors,Glucagon receptor family,SCTR
+Class B1 (Secretin),Peptide receptors,Parathyroid hormone receptors,PTH1R
+Class B1 (Secretin),Peptide receptors,Parathyroid hormone receptors,PTH2R
+Class B1 (Secretin),Peptide receptors,VIP and PACAP receptors,PACR
+Class B1 (Secretin),Peptide receptors,VIP and PACAP receptors,VIPR1
+Class B1 (Secretin),Peptide receptors,VIP and PACAP receptors,VIPR2
+Class B2 (Adhesion),Adhesion receptors,ADGRL,AGRL1
+Class B2 (Adhesion),Adhesion receptors,ADGRL,AGRL2
+Class B2 (Adhesion),Adhesion receptors,ADGRL,AGRL3
+Class B2 (Adhesion),Adhesion receptors,ADGRL,AGRL4
+Class B2 (Adhesion),Adhesion receptors,ADGRE,AGRE1
+Taste 2,Sensory receptors,Taste 2 receptors,TA2R9
+Class B2 (Adhesion),Adhesion receptors,ADGRE,AGRE2
+Class B2 (Adhesion),Adhesion receptors,ADGRE,AGRE3
+Class B2 (Adhesion),Adhesion receptors,ADGRE,AGRE4
+Class B2 (Adhesion),Adhesion receptors,ADGRE,CD97
+Class B2 (Adhesion),Adhesion receptors,ADGRA,AGRA1
+Class B2 (Adhesion),Adhesion receptors,ADGRA,AGRA2
+Class B2 (Adhesion),Adhesion receptors,ADGRA,AGRA3
+Class B2 (Adhesion),Adhesion receptors,ADGRC,CELR1
+Class B2 (Adhesion),Adhesion receptors,ADGRC,CELR2
+Class B2 (Adhesion),Adhesion receptors,ADGRC,CELR3
+Class B2 (Adhesion),Adhesion receptors,ADGRD,AGRD1
+Class B2 (Adhesion),Adhesion receptors,ADGRD,AGRD2
+Class B2 (Adhesion),Adhesion receptors,ADGRF,AGRF1
+Class B2 (Adhesion),Adhesion receptors,ADGRF,AGRF2
+Class B2 (Adhesion),Adhesion receptors,ADGRF,AGRF3
+Class B2 (Adhesion),Adhesion receptors,ADGRF,AGRF4
+Class B2 (Adhesion),Adhesion receptors,ADGRF,AGRF5
+Class B2 (Adhesion),Adhesion receptors,ADGRB,BAI1
+Class B2 (Adhesion),Adhesion receptors,ADGRB,AGRB2
+Class B2 (Adhesion),Adhesion receptors,ADGRB,AGRB3
+Class B2 (Adhesion),Adhesion receptors,ADGRG,AGRG1
+Class B2 (Adhesion),Adhesion receptors,ADGRG,AGRG2
+Class B2 (Adhesion),Adhesion receptors,ADGRG,AGRG3
+Class B2 (Adhesion),Adhesion receptors,ADGRG,AGRG4
+Class B2 (Adhesion),Adhesion receptors,ADGRG,AGRG5
+Class B2 (Adhesion),Adhesion receptors,ADGRG,AGRG6
+Class B2 (Adhesion),Adhesion receptors,ADGRG,AGRG7
+Class B2 (Adhesion),Adhesion receptors,ADGRV,GPR98
+Class C (Glutamate),Ion receptors,Calcium-sensing receptors,CASR
+Class C (Glutamate),Amino acid receptors,GABA<sub>B</sub> receptors,GABR1
+Class C (Glutamate),Amino acid receptors,GABA<sub>B</sub> receptors,GABR2
+Class C (Glutamate),Amino acid receptors,Metabotropic glutamate receptors,GRM1
+Class C (Glutamate),Amino acid receptors,Metabotropic glutamate receptors,GRM2
+Class C (Glutamate),Amino acid receptors,Metabotropic glutamate receptors,GRM3
+Taste 2,Sensory receptors,Taste 2 receptors,T2R10
+Class C (Glutamate),Amino acid receptors,Metabotropic glutamate receptors,GRM4
+Class C (Glutamate),Amino acid receptors,Metabotropic glutamate receptors,GRM5
+Class C (Glutamate),Amino acid receptors,Metabotropic glutamate receptors,GRM6
+Class C (Glutamate),Amino acid receptors,Metabotropic glutamate receptors,GRM7
+Class C (Glutamate),Amino acid receptors,Metabotropic glutamate receptors,GRM8
+Class C (Glutamate),Sensory receptors,Taste 1 receptors,TS1R1
+Class C (Glutamate),Sensory receptors,Taste 1 receptors,TS1R2
+Class F (Frizzled),Protein receptors,Frizzled,FZD3
+Class C (Glutamate),Sensory receptors,Taste 1 receptors,TS1R3
+Class C (Glutamate),Orphan receptors,Class C Orphans,GP156
+Class C (Glutamate),Orphan receptors,Class C Orphans,GP158
+Class C (Glutamate),Orphan receptors,Class C Orphans,GP179
+Class C (Glutamate),Orphan receptors,Class C Orphans,RAI3
+Class C (Glutamate),Orphan receptors,Class C Orphans,GPC5B
+Class C (Glutamate),Orphan receptors,Class C Orphans,GPC5C
+Class C (Glutamate),Orphan receptors,Class C Orphans,GPC5D
+Class C (Glutamate),Orphan receptors,Class C Orphans,GPC6A
+Class F (Frizzled),Protein receptors,Frizzled,FZD1
+Class F (Frizzled),Protein receptors,Frizzled,FZD2
+Taste 2,Sensory receptors,Taste 2 receptors,TA2R8
+Class F (Frizzled),Protein receptors,Frizzled,FZD4
+Class F (Frizzled),Protein receptors,Frizzled,FZD5
+Class F (Frizzled),Protein receptors,Frizzled,FZD6
+Class F (Frizzled),Protein receptors,Frizzled,FZD7
+Class F (Frizzled),Protein receptors,Frizzled,FZD8
+Class F (Frizzled),Protein receptors,Frizzled,FZD9
+Class F (Frizzled),Protein receptors,Frizzled,FZD10
+Class F (Frizzled),Protein receptors,Frizzled,SMO
+Taste 2,Sensory receptors,Taste 2 receptors,TA2R1
+Taste 2,Sensory receptors,Taste 2 receptors,TA2R3
+Taste 2,Sensory receptors,Taste 2 receptors,TA2R4
+Taste 2,Sensory receptors,Taste 2 receptors,TA2R5
+Taste 2,Sensory receptors,Taste 2 receptors,TA2R7
+Taste 2,Sensory receptors,Taste 2 receptors,T2R13
+Taste 2,Sensory receptors,Taste 2 receptors,T2R14
+Taste 2,Sensory receptors,Taste 2 receptors,T2R16
+Taste 2,Sensory receptors,Taste 2 receptors,T2R19
+Taste 2,Sensory receptors,Taste 2 receptors,T2R20
+Taste 2,Sensory receptors,Taste 2 receptors,T2R30
+Taste 2,Sensory receptors,Taste 2 receptors,T2R31
+Taste 2,Sensory receptors,Taste 2 receptors,T2R38
+Taste 2,Sensory receptors,Taste 2 receptors,T2R39
+Taste 2,Sensory receptors,Taste 2 receptors,T2R40
+Taste 2,Sensory receptors,Taste 2 receptors,T2R41
+Taste 2,Sensory receptors,Taste 2 receptors,T2R42
+Taste 2,Sensory receptors,Taste 2 receptors,T2R43
+Taste 2,Sensory receptors,Taste 2 receptors,T2R45
+Taste 2,Sensory receptors,Taste 2 receptors,T2R46
+Taste 2,Sensory receptors,Taste 2 receptors,T2R50
+Taste 2,Sensory receptors,Taste 2 receptors,T2R60
+Other GPCRs,Orphan receptors,Other GPCR orphans,GP107
+Other GPCRs,Orphan receptors,Other GPCR orphans,G137A
+Other GPCRs,Orphan receptors,Other GPCR orphans,O51E1
+Other GPCRs,Orphan receptors,Other GPCR orphans,TPRA1
+Other GPCRs,Orphan receptors,Other GPCR orphans,GP143
+Other GPCRs,Orphan receptors,Other GPCR orphans,GP157

@@ -1,0 +1,832 @@
+Entry	Entry name	Status	Protein names	Gene names	Organism	Length	Cross-reference (PDB)	Protein families
+P18825	ADA2C_HUMAN	reviewed	Alpha-2C adrenergic receptor (Alpha-2 adrenergic receptor subtype C4) (Alpha-2C adrenoreceptor) (Alpha-2C adrenoceptor) (Alpha-2CAR)	ADRA2C ADRA2L2 ADRA2RL2	Homo sapiens (Human)	462		G-protein coupled receptor 1 family, Adrenergic receptor subfamily, ADRA2C sub-subfamily
+P30411	BKRB2_HUMAN	reviewed	B2 bradykinin receptor (B2R) (BK-2 receptor)	BDKRB2 BKR2	Homo sapiens (Human)	391		G-protein coupled receptor 1 family, Bradykinin receptor subfamily, BDKRB2 sub-subfamily
+P21554	CNR1_HUMAN	reviewed	Cannabinoid receptor 1 (CB-R) (CB1) (CANN6)	CNR1 CNR	Homo sapiens (Human)	472	1LVQ;1LVR;2B0Y;2KOE;2MZ2;2MZ3;2MZA;5TGZ;5U09;5XR8;5XRA;6N4B;	G-protein coupled receptor 1 family
+P21730	C5AR1_HUMAN	reviewed	C5a anaphylatoxin chemotactic receptor 1 (C5a anaphylatoxin chemotactic receptor) (C5a-R) (C5aR) (CD antigen CD88)	C5AR1 C5AR C5R1	Homo sapiens (Human)	350	5O9H;6C1Q;6C1R;	G-protein coupled receptor 1 family
+Q9NS75	CLTR2_HUMAN	reviewed	Cysteinyl leukotriene receptor 2 (CysLTR2) (G-protein coupled receptor GPCR21) (hGPCR21) (G-protein coupled receptor HG57) (HPN321)	CYSLTR2 CYSLT2 CYSLT2R PSEC0146	Homo sapiens (Human)	346		G-protein coupled receptor 1 family
+Q9BY15	AGRE3_HUMAN	reviewed	Adhesion G protein-coupled receptor E3 (EGF-like module receptor 3) (EGF-like module-containing mucin-like hormone receptor-like 3)	ADGRE3 EMR3 UNQ683/PRO1562	Homo sapiens (Human)	652		G-protein coupled receptor 2 family, Adhesion G-protein coupled receptor (ADGR) subfamily
+O00421	CCRL2_HUMAN	reviewed	C-C chemokine receptor-like 2 (Chemokine receptor CCR11) (Chemokine receptor X) (Putative MCP-1 chemokine receptor)	CCRL2 CCR11 CCR6 CKRX CRAM HCR	Homo sapiens (Human)	344		G-protein coupled receptor 1 family
+O00574	CXCR6_HUMAN	reviewed	C-X-C chemokine receptor type 6 (CXC-R6) (CXCR-6) (CDw186) (G-protein coupled receptor STRL33) (G-protein coupled receptor bonzo) (CD antigen CD186)	CXCR6 BONZO STRL33 TYMSTR	Homo sapiens (Human)	342		G-protein coupled receptor 1 family
+P30556	AGTR1_HUMAN	reviewed	Type-1 angiotensin II receptor (AT1AR) (AT1BR) (Angiotensin II type-1 receptor) (AT1)	AGTR1 AGTR1A AGTR1B AT2R1 AT2R1B	Homo sapiens (Human)	359	1ZV0;4YAY;4ZUD;6DO1;	G-protein coupled receptor 1 family
+P46663	BKRB1_HUMAN	reviewed	B1 bradykinin receptor (B1R) (BK-1 receptor)	BDKRB1 BRADYB1	Homo sapiens (Human)	353		G-protein coupled receptor 1 family, Bradykinin receptor subfamily, BDKRB1 sub-subfamily
+P48960	CD97_HUMAN	reviewed	CD97 antigen (Leukocyte antigen CD97) (CD antigen CD97) [Cleaved into: CD97 antigen subunit alpha; CD97 antigen subunit beta]	CD97	Homo sapiens (Human)	835	2BOU;	G-protein coupled receptor 2 family, LN-TM7 subfamily
+Q86Y34	AGRG3_HUMAN	reviewed	Adhesion G protein-coupled receptor G3 (G-protein coupled receptor 97) (G-protein coupled receptor PGR26)	ADGRG3 GPR97 PGR26	Homo sapiens (Human)	549		G-protein coupled receptor 2 family, Adhesion G-protein coupled receptor (ADGR) subfamily
+P51686	CCR9_HUMAN	reviewed	C-C chemokine receptor type 9 (C-C CKR-9) (CC-CKR-9) (CCR-9) (G-protein coupled receptor 28) (GPR-9-6) (CD antigen CDw199)	CCR9 GPR28	Homo sapiens (Human)	369	5LWE;	G-protein coupled receptor 1 family
+P51677	CCR3_HUMAN	reviewed	C-C chemokine receptor type 3 (C-C CKR-3) (CC-CKR-3) (CCR-3) (CCR3) (CKR3) (Eosinophil eotaxin receptor) (CD antigen CD193)	CCR3 CMKBR3	Homo sapiens (Human)	355		G-protein coupled receptor 1 family
+P49682	CXCR3_HUMAN	reviewed	C-X-C chemokine receptor type 3 (CXC-R3) (CXCR-3) (CKR-L2) (G protein-coupled receptor 9) (Interferon-inducible protein 10 receptor) (IP-10 receptor) (CD antigen CD183)	CXCR3 GPR9	Homo sapiens (Human)	368		G-protein coupled receptor 1 family
+P0DMS8	AA3R_HUMAN	reviewed	Adenosine receptor A3	ADORA3	Homo sapiens (Human)	318	1OEA;1R7N;	G-protein coupled receptor 1 family
+Q86SQ4	AGRG6_HUMAN	reviewed	Adhesion G-protein coupled receptor G6 (Developmentally regulated G-protein-coupled receptor) (G-protein coupled receptor 126) (Vascular inducible G protein-coupled receptor) [Cleaved into: ADGRG6 N-terminal fragment (ADGRG6-NTF); ADGRG6 C-terminal fragment (ADGRG6-CTF)]	ADGRG6 DREG GPR126 VIGR	Homo sapiens (Human)	1221		G-protein coupled receptor 2 family, Adhesion G-protein coupled receptor (ADGR) subfamily
+P32247	BRS3_HUMAN	reviewed	Bombesin receptor subtype-3 (BRS-3)	BRS3	Homo sapiens (Human)	399		G-protein coupled receptor 1 family
+P30988	CALCR_HUMAN	reviewed	Calcitonin receptor (CT-R)	CALCR	Homo sapiens (Human)	474	5II0;5UZ7;6NIY;	G-protein coupled receptor 2 family
+P32241	VIPR1_HUMAN	reviewed	Vasoactive intestinal polypeptide receptor 1 (VIP-R-1) (Pituitary adenylate cyclase-activating polypeptide type II receptor) (PACAP type II receptor) (PACAP-R-2) (PACAP-R2) (VPAC1)	VIPR1	Homo sapiens (Human)	457	1OF2;1OGT;3B3I;3B6S;3DTX;3HCV;5DEF;5DEG;5IB1;5IB2;5IB3;5IB4;5IB5;	G-protein coupled receptor 2 family
+Q8NHC5	O14AG_HUMAN	reviewed	Olfactory receptor 14A16 (Olfactory receptor 5AT1) (Olfactory receptor OR1-45)	OR14A16 OR5AT1	Homo sapiens (Human)	309		G-protein coupled receptor 1 family
+P0DN82	O12D1_HUMAN	reviewed	Olfactory receptor 12D1 (Olfactory receptor 12D1 pseudogene)	OR12D1 OR12D1P	Homo sapiens (Human)	309		G-protein coupled receptor 1 family
+Q8NGX1	O2T34_HUMAN	reviewed	Olfactory receptor 2T34 (Olfactory receptor OR1-63)	OR2T34	Homo sapiens (Human)	318		G-protein coupled receptor 1 family
+Q8NGX2	O2T35_HUMAN	reviewed	Olfactory receptor 2T35 (Olfactory receptor OR1-66)	OR2T35	Homo sapiens (Human)	323		G-protein coupled receptor 1 family
+Q8NGH9	O52E4_HUMAN	reviewed	Olfactory receptor 52E4 (Olfactory receptor OR11-55)	OR52E4	Homo sapiens (Human)	312		G-protein coupled receptor 1 family
+Q8NH81	O10G6_HUMAN	reviewed	Olfactory receptor 10G6 (Olfactory receptor OR11-280)	OR10G6 OR10G6P	Homo sapiens (Human)	332		G-protein coupled receptor 1 family
+Q8NGQ6	OR9I1_HUMAN	reviewed	Olfactory receptor 9I1 (Olfactory receptor OR11-228)	OR9I1	Homo sapiens (Human)	314		G-protein coupled receptor 1 family
+Q8NH87	OR9G1_HUMAN	reviewed	Olfactory receptor 9G1 (Olfactory receptor 9G5) (Olfactory receptor OR11-114)	OR9G1 OR9G5	Homo sapiens (Human)	305		G-protein coupled receptor 1 family
+Q8NGE8	OR4D9_HUMAN	reviewed	Olfactory receptor 4D9 (Olfactory receptor OR11-253)	OR4D9	Homo sapiens (Human)	314		G-protein coupled receptor 1 family
+P55085	PAR2_HUMAN	reviewed	Proteinase-activated receptor 2 (PAR-2) (Coagulation factor II receptor-like 1) (G-protein coupled receptor 11) (Thrombin receptor-like 1) [Cleaved into: Proteinase-activated receptor 2, alternate cleaved 1; Proteinase-activated receptor 2, alternate cleaved 2]	F2RL1 GPR11 PAR2	Homo sapiens (Human)	397	5NDD;5NDZ;5NJ6;	G-protein coupled receptor 1 family
+Q7Z5H4	VN1R5_HUMAN	reviewed	Vomeronasal type-1 receptor 5 (G-protein coupled receptor GPCR26) (hGPCR26) (V1r-like receptor 5)	VN1R5 V1RL5	Homo sapiens (Human)	357		G-protein coupled receptor 1 family
+Q99500	S1PR3_HUMAN	reviewed	Sphingosine 1-phosphate receptor 3 (S1P receptor 3) (S1P3) (Endothelial differentiation G-protein coupled receptor 3) (Sphingosine 1-phosphate receptor Edg-3) (S1P receptor Edg-3)	S1PR3 EDG3	Homo sapiens (Human)	378		G-protein coupled receptor 1 family
+P0C629	O10J4_HUMAN	reviewed	Olfactory receptor 10J4	OR10J4 OR10J4P	Homo sapiens (Human)	311		G-protein coupled receptor 1 family
+P46094	XCR1_HUMAN	reviewed	Chemokine XC receptor 1 (G-protein coupled receptor 5) (Lymphotactin receptor) (XC chemokine receptor 1)	XCR1 CCXCR1 GPR5	Homo sapiens (Human)	333		G-protein coupled receptor 1 family
+P41587	VIPR2_HUMAN	reviewed	Vasoactive intestinal polypeptide receptor 2 (VIP-R-2) (Helodermin-preferring VIP receptor) (Pituitary adenylate cyclase-activating polypeptide type III receptor) (PACAP type III receptor) (PACAP-R-3) (PACAP-R3) (VPAC2)	VIPR2 VIP2R	Homo sapiens (Human)	438	2X57;	G-protein coupled receptor 2 family
+Q9BXA5	SUCR1_HUMAN	reviewed	Succinate receptor 1 (G-protein coupled receptor 91) (P2Y purinoceptor 1-like)	SUCNR1 GPR91	Homo sapiens (Human)	334		G-protein coupled receptor 1 family
+P59541	T2R30_HUMAN	reviewed	Taste receptor type 2 member 30 (T2R30) (Taste receptor type 2 member 47) (T2R47)	TAS2R30 TAS2R47	Homo sapiens (Human)	319		G-protein coupled receptor T2R family
+Q96RJ0	TAAR1_HUMAN	reviewed	Trace amine-associated receptor 1 (TaR-1) (Trace amine receptor 1)	TAAR1 TA1 TAR1 TRAR1	Homo sapiens (Human)	339		G-protein coupled receptor 1 family
+P59544	T2R50_HUMAN	reviewed	Taste receptor type 2 member 50 (T2R50) (Taste receptor type 2 member 51) (T2R51)	TAS2R50	Homo sapiens (Human)	299		G-protein coupled receptor T2R family
+Q9P1P5	TAAR2_HUMAN	reviewed	Trace amine-associated receptor 2 (TaR-2) (Trace amine receptor 2) (G-protein coupled receptor 58)	TAAR2 GPR58	Homo sapiens (Human)	351		G-protein coupled receptor 1 family
+Q9NYW1	TA2R9_HUMAN	reviewed	Taste receptor type 2 member 9 (T2R9) (Taste receptor family B member 6) (TRB6)	TAS2R9	Homo sapiens (Human)	312		G-protein coupled receptor T2R family
+Q9NYW5	TA2R4_HUMAN	reviewed	Taste receptor type 2 member 4 (T2R4)	TAS2R4	Homo sapiens (Human)	299		G-protein coupled receptor T2R family
+Q9NYW6	TA2R3_HUMAN	reviewed	Taste receptor type 2 member 3 (T2R3)	TAS2R3	Homo sapiens (Human)	316		G-protein coupled receptor T2R family
+Q969N4	TAAR8_HUMAN	reviewed	Trace amine-associated receptor 8 (TaR-8) (Trace amine receptor 8) (G-protein coupled receptor 102) (Trace amine receptor 5) (TaR-5)	TAAR8 GPR102 TA5 TAR5 TRAR5	Homo sapiens (Human)	342		G-protein coupled receptor 1 family
+P59543	T2R20_HUMAN	reviewed	Taste receptor type 2 member 20 (Taste receptor type 2 member 49) (T2R49) (Taste receptor type 2 member 56) (T2R56)	TAS2R20 TAS2R49	Homo sapiens (Human)	309		G-protein coupled receptor T2R family
+Q9NYW3	TA2R7_HUMAN	reviewed	Taste receptor type 2 member 7 (T2R7) (Taste receptor family B member 4) (TRB4)	TAS2R7	Homo sapiens (Human)	318		G-protein coupled receptor T2R family
+Q9NYW0	T2R10_HUMAN	reviewed	Taste receptor type 2 member 10 (T2R10) (Taste receptor family B member 2) (TRB2)	TAS2R10	Homo sapiens (Human)	307		G-protein coupled receptor T2R family
+P59551	T2R60_HUMAN	reviewed	Taste receptor type 2 member 60 (T2R60) (Taste receptor type 2 member 56) (T2R56)	TAS2R60	Homo sapiens (Human)	318		G-protein coupled receptor T2R family
+P59542	T2R19_HUMAN	reviewed	Taste receptor type 2 member 19 (Taste receptor type 2 member 23) (Taste receptor type 2 member 48) (T2R48)	TAS2R19 TAS2R23 TAS2R48	Homo sapiens (Human)	299		G-protein coupled receptor T2R family
+P59535	T2R40_HUMAN	reviewed	Taste receptor type 2 member 40 (T2R40) (G-protein coupled receptor 60) (Taste receptor type 2 member 58) (T2R58)	TAS2R40 GPR60	Homo sapiens (Human)	323		G-protein coupled receptor T2R family
+Q7RTX1	TS1R1_HUMAN	reviewed	Taste receptor type 1 member 1 (G-protein coupled receptor 70)	TAS1R1 GPR70 T1R1 TR1 GM148	Homo sapiens (Human)	841		G-protein coupled receptor 3 family, TAS1R subfamily
+Q9Y5X5	NPFF2_HUMAN	reviewed	Neuropeptide FF receptor 2 (G-protein coupled receptor 74) (G-protein coupled receptor HLWAR77) (Neuropeptide G-protein coupled receptor)	NPFFR2 GPR74 NPFF2 NPGPR	Homo sapiens (Human)	522		G-protein coupled receptor 1 family
+Q8NH01	O2T11_HUMAN	reviewed	Olfactory receptor 2T11 (Olfactory receptor OR1-65)	OR2T11	Homo sapiens (Human)	316		G-protein coupled receptor 1 family
+Q9Y5P1	O51B2_HUMAN	reviewed	Olfactory receptor 51B2 (Odorant receptor HOR5'beta3) (Olfactory receptor 51B1)	OR51B2 OR51B1P	Homo sapiens (Human)	312		G-protein coupled receptor 1 family
+Q8NGK9	OR5DG_HUMAN	reviewed	Olfactory receptor 5D16 (Olfactory receptor OR11-154)	OR5D16	Homo sapiens (Human)	328		G-protein coupled receptor 1 family
+O43749	OR1F1_HUMAN	reviewed	Olfactory receptor 1F1 (Olfactory receptor 16-35) (OR16-35) (Olfactory receptor 1F10) (Olfactory receptor 1F4) (Olfactory receptor 1F5) (Olfactory receptor 1F6) (Olfactory receptor 1F7) (Olfactory receptor 1F8) (Olfactory receptor 1F9) (Olfactory receptor OR16-4)	OR1F1 OLFMF OR1F10 OR1F4 OR1F5 OR1F6 OR1F7 OR1F8 OR1F9	Homo sapiens (Human)	312		G-protein coupled receptor 1 family
+Q8NGG6	OR8BC_HUMAN	reviewed	Olfactory receptor 8B12 (Olfactory receptor OR11-317)	OR8B12	Homo sapiens (Human)	310		G-protein coupled receptor 1 family
+O95007	OR6B1_HUMAN	reviewed	Olfactory receptor 6B1 (Olfactory receptor 7-3) (OR7-3) (Olfactory receptor OR7-9)	OR6B1	Homo sapiens (Human)	311		G-protein coupled receptor 1 family
+O76000	OR2B3_HUMAN	reviewed	Putative olfactory receptor 2B3 (Hs6M1-1) (Olfactory receptor OR6-14) (OR6-4) (Olfactory receptor 6-4)	OR2B3 OR2B3P	Homo sapiens (Human)	313		G-protein coupled receptor 1 family
+Q8NH37	OR4C3_HUMAN	reviewed	Olfactory receptor 4C3 (Olfactory receptor OR11-98)	OR4C3	Homo sapiens (Human)	302		G-protein coupled receptor 1 family
+Q8NH49	OR4X1_HUMAN	reviewed	Olfactory receptor 4X1 (Olfactory receptor OR11-104)	OR4X1	Homo sapiens (Human)	305		G-protein coupled receptor 1 family
+Q96R72	OR4K3_HUMAN	reviewed	Olfactory receptor 4K3 (Olfactory receptor OR14-14)	OR4K3 OR4K3P	Homo sapiens (Human)	315		G-protein coupled receptor 1 family
+Q8NGF7	OR5BH_HUMAN	reviewed	Olfactory receptor 5B17 (Olfactory receptor 5B20) (Olfactory receptor OR11-237)	OR5B17 OR5B20P	Homo sapiens (Human)	314		G-protein coupled receptor 1 family
+Q6IEZ7	OR2T5_HUMAN	reviewed	Olfactory receptor 2T5 (Olfactory receptor OR1-62)	OR2T5	Homo sapiens (Human)	315		G-protein coupled receptor 1 family
+Q96R28	OR2M2_HUMAN	reviewed	Olfactory receptor 2M2 (OST423)	OR2M2	Homo sapiens (Human)	347		G-protein coupled receptor 1 family
+Q8NGJ0	OR5A1_HUMAN	reviewed	Olfactory receptor 5A1 (OST181) (Olfactory receptor OR11-249)	OR5A1 OR5A1P	Homo sapiens (Human)	315		G-protein coupled receptor 1 family
+O60431	OR1I1_HUMAN	reviewed	Olfactory receptor 1I1 (Olfactory receptor 19-20) (OR19-20)	OR1I1	Homo sapiens (Human)	355		G-protein coupled receptor 1 family
+Q96RA2	OR7D2_HUMAN	reviewed	Olfactory receptor 7D2 (HTPCRH03) (Olfactory receptor 19-4) (OR19-4) (Olfactory receptor OR19-10)	OR7D2	Homo sapiens (Human)	312		G-protein coupled receptor 1 family
+Q8NH09	OR8S1_HUMAN	reviewed	Olfactory receptor 8S1	OR8S1	Homo sapiens (Human)	359		G-protein coupled receptor 1 family
+Q8NGD2	OR4K2_HUMAN	reviewed	Olfactory receptor 4K2 (Olfactory receptor OR14-15)	OR4K2	Homo sapiens (Human)	314		G-protein coupled receptor 1 family
+Q9BPV8	P2Y13_HUMAN	reviewed	P2Y purinoceptor 13 (P2Y13) (G-protein coupled receptor 86) (G-protein coupled receptor 94)	P2RY13 GPR86 GPR94 FKSG77	Homo sapiens (Human)	354	2B6U;	G-protein coupled receptor 1 family
+O14804	TAAR5_HUMAN	reviewed	Trace amine-associated receptor 5 (TaR-5) (Trace amine receptor 5) (hTaar5) (Putative neurotransmitter receptor)	TAAR5 PNR	Homo sapiens (Human)	337		G-protein coupled receptor 1 family
+Q9NYW7	TA2R1_HUMAN	reviewed	Taste receptor type 2 member 1 (T2R1) (Taste receptor family B member 7) (TRB7)	TAS2R1	Homo sapiens (Human)	299		G-protein coupled receptor T2R family
+P59540	T2R46_HUMAN	reviewed	Taste receptor type 2 member 46 (T2R46) (Taste receptor type 2 member 54) (T2R54)	TAS2R46	Homo sapiens (Human)	309		G-protein coupled receptor T2R family
+P59539	T2R45_HUMAN	reviewed	Taste receptor type 2 member 45 (T2R45) (G-protein coupled receptor 59)	TAS2R45 GPR59	Homo sapiens (Human)	299		G-protein coupled receptor T2R family
+P21731	TA2R_HUMAN	reviewed	Thromboxane A2 receptor (TXA2-R) (Prostanoid TP receptor)	TBXA2R	Homo sapiens (Human)	343	1LBN;	G-protein coupled receptor 1 family
+Q96RI8	TAAR6_HUMAN	reviewed	Trace amine-associated receptor 6 (TaR-6) (Trace amine receptor 6) (Trace amine receptor 4) (TaR-4)	TAAR6 TA4 TAR4 TRAR4	Homo sapiens (Human)	345		G-protein coupled receptor 1 family
+P59533	T2R38_HUMAN	reviewed	Taste receptor type 2 member 38 (T2R38) (PTC bitter taste receptor) (Taste receptor type 2 member 61) (T2R61)	TAS2R38 PTC	Homo sapiens (Human)	333		G-protein coupled receptor T2R family
+Q7RTR8	T2R42_HUMAN	reviewed	Taste receptor type 2 member 42 (T2R42) (Taste receptor type 2 member 55) (T2R55)	TAS2R42 TAS2R55	Homo sapiens (Human)	314		G-protein coupled receptor T2R family
+Q9NYV8	T2R14_HUMAN	reviewed	Taste receptor type 2 member 14 (T2R14) (Taste receptor family B member 1) (TRB1)	TAS2R14	Homo sapiens (Human)	317		G-protein coupled receptor T2R family
+Q9GZP7	VN1R1_HUMAN	reviewed	Vomeronasal type-1 receptor 1 (G-protein coupled receptor GPCR24) (hGPCR24) (V1r-like receptor 1) (V3r-related gene protein) (Vomeronasal olfactory receptor chromosome 19 subtype I member 1)	VN1R1 V1RL1 VNR19I1	Homo sapiens (Human)	353		G-protein coupled receptor 1 family
+Q7Z5H5	VN1R4_HUMAN	reviewed	Vomeronasal type-1 receptor 4 (G-protein coupled receptor GPCR27) (hGPCR27) (V1r-like receptor 4)	VN1R4 V1RL4	Homo sapiens (Human)	301		G-protein coupled receptor 1 family
+P37288	V1AR_HUMAN	reviewed	Vasopressin V1a receptor (V1aR) (AVPR V1a) (Antidiuretic hormone receptor 1a) (Vascular/hepatic-type arginine vasopressin receptor)	AVPR1A AVPR1	Homo sapiens (Human)	418	1YTV;	G-protein coupled receptor 1 family, Vasopressin/oxytocin receptor subfamily
+Q8TE23	TS1R2_HUMAN	reviewed	Taste receptor type 1 member 2 (G-protein coupled receptor 71) (Sweet taste receptor T1R2)	TAS1R2 GPR71 T1R2 TR2	Homo sapiens (Human)	839		G-protein coupled receptor 3 family, TAS1R subfamily
+P30874	SSR2_HUMAN	reviewed	Somatostatin receptor type 2 (SS-2-R) (SS2-R) (SS2R) (SRIF-1)	SSTR2	Homo sapiens (Human)	369		G-protein coupled receptor 1 family
+Q8TDU5	VNRL4_HUMAN	reviewed	Putative vomeronasal receptor-like protein 4 (G-protein coupled receptor GPCR23) (hGPCR23)	VN1R17P VNRL4	Homo sapiens (Human)	208		G-protein coupled receptor 1 family
+Q8WXD0	RXFP2_HUMAN	reviewed	Relaxin receptor 2 (G-protein coupled receptor 106) (G-protein coupled receptor affecting testicular descent) (Leucine-rich repeat-containing G-protein coupled receptor 8) (Relaxin family peptide receptor 2)	RXFP2 GPR106 GREAT LGR8	Homo sapiens (Human)	754	2M96;	G-protein coupled receptor 1 family
+Q03431	PTH1R_HUMAN	reviewed	Parathyroid hormone/parathyroid hormone-related peptide receptor (PTH/PTHrP type I receptor) (PTH/PTHr receptor) (Parathyroid hormone 1 receptor) (PTH1 receptor)	PTH1R PTHR PTHR1	Homo sapiens (Human)	593	1BL1;1ET2;1ET3;3C4M;3H3G;3L2J;4Z8J;5EMB;6NBF;6NBH;6NBI;	G-protein coupled receptor 2 family
+Q8NH56	O52N5_HUMAN	reviewed	Olfactory receptor 52N5 (Olfactory receptor OR11-62)	OR52N5	Homo sapiens (Human)	324		G-protein coupled receptor 1 family
+A6NJZ3	O6C65_HUMAN	reviewed	Olfactory receptor 6C65	OR6C65	Homo sapiens (Human)	312		G-protein coupled receptor 1 family
+Q8NH70	O4A16_HUMAN	reviewed	Olfactory receptor 4A16 (Olfactory receptor OR11-117)	OR4A16	Homo sapiens (Human)	328		G-protein coupled receptor 1 family
+P41231	P2RY2_HUMAN	reviewed	P2Y purinoceptor 2 (P2Y2) (ATP receptor) (P2U purinoceptor 1) (P2U1) (P2U receptor 1) (Purinergic receptor)	P2RY2 P2RU1	Homo sapiens (Human)	377	1Z8E;	G-protein coupled receptor 1 family
+O00398	P2Y10_HUMAN	reviewed	Putative P2Y purinoceptor 10 (P2Y10) (P2Y-like receptor)	P2RY10	Homo sapiens (Human)	339		G-protein coupled receptor 1 family
+Q96RI0	PAR4_HUMAN	reviewed	Proteinase-activated receptor 4 (PAR-4) (Coagulation factor II receptor-like 3) (Thrombin receptor-like 3)	F2RL3 PAR4	Homo sapiens (Human)	385	2ZPK;3QDZ;	G-protein coupled receptor 1 family
+Q8IYL9	PSYR_HUMAN	reviewed	Psychosine receptor (G-protein coupled receptor 65) (T-cell death-associated gene 8 protein)	GPR65 TDAG8	Homo sapiens (Human)	337		G-protein coupled receptor 1 family
+Q96KK4	O10C1_HUMAN	reviewed	Olfactory receptor 10C1 (Hs6M1-17) (Olfactory receptor 10C2)	OR10C1 OR10C2	Homo sapiens (Human)	312		G-protein coupled receptor 1 family
+A6NDL8	O6C68_HUMAN	reviewed	Olfactory receptor 6C68	OR6C68	Homo sapiens (Human)	312		G-protein coupled receptor 1 family
+P47887	OR1E2_HUMAN	reviewed	Olfactory receptor 1E2 (Olfactory receptor 17-93/17-135/17-136) (OR17-135) (OR17-136) (OR17-93) (Olfactory receptor 1E4)	OR1E2 OR1E4	Homo sapiens (Human)	323		G-protein coupled receptor 1 family
+P0DQD5	NPY42_HUMAN	reviewed	Neuropeptide Y receptor type 4-2	NPY4R2	Homo sapiens (Human)	375		G-protein coupled receptor 1 family
+Q8NGK5	O52M1_HUMAN	reviewed	Olfactory receptor 52M1 (Olfactory receptor OR11-11)	OR52M1 OR52M1P	Homo sapiens (Human)	317		G-protein coupled receptor 1 family
+Q8NGE5	O10A7_HUMAN	reviewed	Olfactory receptor 10A7 (Olfactory receptor OR12-6)	OR10A7	Homo sapiens (Human)	316		G-protein coupled receptor 1 family
+Q8NGT2	O13J1_HUMAN	reviewed	Olfactory receptor 13J1 (Olfactory receptor OR9-2)	OR13J1	Homo sapiens (Human)	312		G-protein coupled receptor 1 family
+Q8NGK2	O52B4_HUMAN	reviewed	Olfactory receptor 52B4 (Olfactory receptor OR11-3)	OR52B4	Homo sapiens (Human)	314		G-protein coupled receptor 1 family
+Q9UGF7	O12D3_HUMAN	reviewed	Olfactory receptor 12D3 (Hs6M1-27) (Olfactory receptor OR6-27)	OR12D3	Homo sapiens (Human)	316		G-protein coupled receptor 1 family
+Q8NG77	O2T12_HUMAN	reviewed	Olfactory receptor 2T12 (Olfactory receptor OR1-57)	OR2T12	Homo sapiens (Human)	320		G-protein coupled receptor 1 family
+Q8NGF0	O52B6_HUMAN	reviewed	Olfactory receptor 52B6 (Olfactory receptor OR11-47)	OR52B6	Homo sapiens (Human)	335		G-protein coupled receptor 1 family
+Q96R47	O2A14_HUMAN	reviewed	Olfactory receptor 2A14 (OST182) (Olfactory receptor 2A6) (Olfactory receptor OR7-12)	OR2A14 OR2A14P OR2A6	Homo sapiens (Human)	310		G-protein coupled receptor 1 family
+Q8NGZ4	OR2G3_HUMAN	reviewed	Olfactory receptor 2G3 (Olfactory receptor OR1-33)	OR2G3	Homo sapiens (Human)	309		G-protein coupled receptor 1 family
+Q8NGY3	OR6K3_HUMAN	reviewed	Olfactory receptor 6K3 (Olfactory receptor OR1-18)	OR6K3	Homo sapiens (Human)	331		G-protein coupled receptor 1 family
+Q5TZ20	OR2G6_HUMAN	reviewed	Olfactory receptor 2G6	OR2G6	Homo sapiens (Human)	316		G-protein coupled receptor 1 family
+Q96P65	QRFPR_HUMAN	reviewed	Pyroglutamylated RF-amide peptide receptor (AQ27) (G-protein coupled receptor 103) (Orexigenic neuropeptide QRFP receptor) (SP9155)	QRFPR GPR103	Homo sapiens (Human)	431		G-protein coupled receptor 1 family
+Q9H207	O10A5_HUMAN	reviewed	Olfactory receptor 10A5 (HP3) (Olfactory receptor 10A1) (Olfactory receptor 11-403) (OR11-403) (Olfactory receptor-like protein JCG6)	OR10A5 OR10A1	Homo sapiens (Human)	317		G-protein coupled receptor 1 family
+Q96LB2	MRGX1_HUMAN	reviewed	Mas-related G-protein coupled receptor member X1 (Sensory neuron-specific G-protein coupled receptor 3/4)	MRGPRX1 MRGX1 SNSR3 SNSR4	Homo sapiens (Human)	322		G-protein coupled receptor 1 family, Mas subfamily
+Q8NGE3	O10P1_HUMAN	reviewed	Olfactory receptor 10P1 (Olfactory receptor 10P2) (Olfactory receptor 10P3) (Olfactory receptor OR12-7)	OR10P1 OR10P1P OR10P2P OR10P3P	Homo sapiens (Human)	313		G-protein coupled receptor 1 family
+Q8NGY1	O10Z1_HUMAN	reviewed	Olfactory receptor 10Z1 (Olfactory receptor OR1-15)	OR10Z1	Homo sapiens (Human)	313		G-protein coupled receptor 1 family
+O00254	PAR3_HUMAN	reviewed	Proteinase-activated receptor 3 (PAR-3) (Coagulation factor II receptor-like 2) (Thrombin receptor-like 2)	F2RL2 PAR3	Homo sapiens (Human)	374		G-protein coupled receptor 1 family
+Q9BXB1	LGR4_HUMAN	reviewed	Leucine-rich repeat-containing G-protein coupled receptor 4 (G-protein coupled receptor 48)	LGR4 GPR48	Homo sapiens (Human)	951	4KT1;4QXE;4QXF;	G-protein coupled receptor 1 family
+Q8NGX0	O11L1_HUMAN	reviewed	Olfactory receptor 11L1	OR11L1	Homo sapiens (Human)	322		G-protein coupled receptor 1 family
+P49190	PTH2R_HUMAN	reviewed	Parathyroid hormone 2 receptor (PTH2 receptor)	PTH2R PTHR2	Homo sapiens (Human)	550		G-protein coupled receptor 2 family
+Q9NPB9	ACKR4_HUMAN	reviewed	Atypical chemokine receptor 4 (C-C chemokine receptor type 11) (C-C CKR-11) (CC-CKR-11) (CCR-11) (CC chemokine receptor-like 1) (CCRL1) (CCX CKR)	ACKR4 CCBP2 CCR11 CCRL1 VSHK1	Homo sapiens (Human)	350		G-protein coupled receptor 1 family, Atypical chemokine receptor subfamily
+P25105	PTAFR_HUMAN	reviewed	Platelet-activating factor receptor (PAF-R) (PAFr)	PTAFR PAFR	Homo sapiens (Human)	342	2B0X;	G-protein coupled receptor 1 family
+Q8IZF4	AGRG5_HUMAN	reviewed	Adhesion G-protein coupled receptor G5 (G-protein coupled receptor 114) (G-protein coupled receptor PGR27)	ADGRG5 GPR114 PGR27 UNQ2524/PRO6017	Homo sapiens (Human)	528		G-protein coupled receptor 2 family, Adhesion G-protein coupled receptor (ADGR) subfamily
+O15529	GPR42_HUMAN	reviewed	G-protein coupled receptor 42	GPR42 GPR42P	Homo sapiens (Human)	346		G-protein coupled receptor 1 family
+Q9NQS5	GPR84_HUMAN	reviewed	G-protein coupled receptor 84 (Inflammation-related G-protein coupled receptor EX33)	GPR84 EX33	Homo sapiens (Human)	396		G-protein coupled receptor 1 family
+Q15722	LT4R1_HUMAN	reviewed	Leukotriene B4 receptor 1 (LTB4-R 1) (LTB4-R1) (Chemoattractant receptor-like 1) (G-protein coupled receptor 16) (P2Y purinoceptor 7) (P2Y7)	LTB4R BLT BLT1 BLTR CMKRL1 GPR16 P2RY7	Homo sapiens (Human)	352		G-protein coupled receptor 1 family
+P30550	GRPR_HUMAN	reviewed	Gastrin-releasing peptide receptor (GRP-R) (GRP-preferring bombesin receptor)	GRPR	Homo sapiens (Human)	384		G-protein coupled receptor 1 family
+Q8TDS4	HCAR2_HUMAN	reviewed	Hydroxycarboxylic acid receptor 2 (G-protein coupled receptor 109A) (G-protein coupled receptor HM74A) (Niacin receptor 1) (Nicotinic acid receptor)	HCAR2 GPR109A HCA2 HM74A NIACR1	Homo sapiens (Human)	363		G-protein coupled receptor 1 family
+P35410	MAS1L_HUMAN	reviewed	Mas-related G-protein coupled receptor MRG (MAS-R) (MAS1-like)	MAS1L MRG	Homo sapiens (Human)	378		G-protein coupled receptor 1 family, Mas subfamily
+Q96P68	OXGR1_HUMAN	reviewed	2-oxoglutarate receptor 1 (Alpha-ketoglutarate receptor 1) (G-protein coupled receptor 80) (G-protein coupled receptor 99) (P2Y purinoceptor 15) (P2Y15) (P2Y-like GPCR) (P2Y-like nucleotide receptor)	OXGR1 GPR80 GPR99 P2RY15 P2Y15	Homo sapiens (Human)	337		G-protein coupled receptor 1 family
+O95490	AGRL2_HUMAN	reviewed	Adhesion G protein-coupled receptor L2 (Calcium-independent alpha-latrotoxin receptor 2) (CIRL-2) (Latrophilin homolog 1) (Latrophilin-2) (Lectomedin-1)	ADGRL2 KIAA0786 LEC1 LPHH1 LPHN2	Homo sapiens (Human)	1459		G-protein coupled receptor 2 family, Adhesion G-protein coupled receptor (ADGR) subfamily
+Q99527	GPER1_HUMAN	reviewed	G-protein coupled estrogen receptor 1 (Chemoattractant receptor-like 2) (Flow-induced endothelial G-protein coupled receptor 1) (FEG-1) (G protein-coupled estrogen receptor 1) (G-protein coupled receptor 30) (GPCR-Br) (IL8-related receptor DRY12) (Lymphocyte-derived G-protein coupled receptor) (LYGPR) (Membrane estrogen receptor) (mER)	GPER1 CEPR CMKRL2 DRY12 GPER GPR30	Homo sapiens (Human)	375		G-protein coupled receptor 1 family
+O43603	GALR2_HUMAN	reviewed	Galanin receptor type 2 (GAL2-R) (GALR-2)	GALR2 GALNR2	Homo sapiens (Human)	387		G-protein coupled receptor 1 family
+Q8NG76	O2T33_HUMAN	reviewed	Olfactory receptor 2T33 (Olfactory receptor OR1-56)	OR2T33	Homo sapiens (Human)	320		G-protein coupled receptor 1 family
+Q9H340	O51B6_HUMAN	reviewed	Olfactory receptor 51B6 (Odorant receptor HOR5'beta6)	OR51B6	Homo sapiens (Human)	312		G-protein coupled receptor 1 family
+P0C7T3	O56A5_HUMAN	reviewed	Olfactory receptor 56A5	OR56A5 OR56A5P	Homo sapiens (Human)	313		G-protein coupled receptor 1 family
+Q8NG95	OR7G3_HUMAN	reviewed	Olfactory receptor 7G3 (OST085) (Olfactory receptor OR19-9)	OR7G3	Homo sapiens (Human)	312		G-protein coupled receptor 1 family
+P0DN78	OPSG3_HUMAN	reviewed	Medium-wave-sensitive opsin 3 (Green cone photoreceptor pigment) (Green-sensitive opsin) (GOP) (opsin 1 cone pigments medium-wave-sensitive 3)	OPN1MW3	Homo sapiens (Human)	364		G-protein coupled receptor 1 family, Opsin subfamily
+P0DN80	OR5H8_HUMAN	reviewed	Olfactory receptor 5H8 (Olfactory receptor 5H8 pseudogene) (Olfactory receptor OR3-7)	OR5H8 OR5H8P	Homo sapiens (Human)	308		G-protein coupled receptor 1 family
+Q8NGQ3	OR1S2_HUMAN	reviewed	Olfactory receptor 1S2 (Olfactory receptor OR11-231)	OR1S2	Homo sapiens (Human)	325		G-protein coupled receptor 1 family
+P58173	OR2B6_HUMAN	reviewed	Olfactory receptor 2B6 (Hs6M1-32) (Olfactory receptor 2B1) (Olfactory receptor 2B5) (Olfactory receptor 5-40) (OR5-40) (Olfactory receptor 6-31) (OR6-31) (Olfactory receptor OR6-4)	OR2B6 OR2B1 OR2B1P OR2B5 OR2B6P	Homo sapiens (Human)	313		G-protein coupled receptor 1 family
+O76001	OR2J3_HUMAN	reviewed	Olfactory receptor 2J3 (Hs6M1-3) (Olfactory receptor OR6-16) (OR6-6) (Olfactory receptor 6-6)	OR2J3	Homo sapiens (Human)	311		G-protein coupled receptor 1 family
+Q8WZ94	OR5P3_HUMAN	reviewed	Olfactory receptor 5P3 (Olfactory receptor OR11-94) (Olfactory receptor-like protein JCG1)	OR5P3	Homo sapiens (Human)	311		G-protein coupled receptor 1 family
+Q8NHB7	OR5K1_HUMAN	reviewed	Olfactory receptor 5K1 (HTPCRX10) (Olfactory receptor OR3-8)	OR5K1	Homo sapiens (Human)	308		G-protein coupled receptor 1 family
+Q8NGL1	OR5DI_HUMAN	reviewed	Olfactory receptor 5D18 (Olfactory receptor OR11-143) (Olfactory receptor OR11-152)	OR5D18	Homo sapiens (Human)	313		G-protein coupled receptor 1 family
+Q5JQS5	OR2BB_HUMAN	reviewed	Olfactory receptor 2B11	OR2B11	Homo sapiens (Human)	317		G-protein coupled receptor 1 family
+Q8NG83	OR2M3_HUMAN	reviewed	Olfactory receptor 2M3 (Olfactory receptor 2M6) (Olfactory receptor OR1-54)	OR2M3 OR2M3P OR2M6	Homo sapiens (Human)	312		G-protein coupled receptor 1 family
+P59922	OR2B8_HUMAN	reviewed	Putative olfactory receptor 2B8 (Hs6M1-29P)	OR2B8P OR2B8	Homo sapiens (Human)	312		G-protein coupled receptor 1 family
+Q9GZK3	OR2B2_HUMAN	reviewed	Olfactory receptor 2B2 (Hs6M1-10) (Olfactory receptor 2B9) (Olfactory receptor 6-1) (OR6-1)	OR2B2 OR2B9	Homo sapiens (Human)	357		G-protein coupled receptor 1 family
+Q8NGF8	OR4B1_HUMAN	reviewed	Olfactory receptor 4B1 (OST208) (Olfactory receptor OR11-106)	OR4B1	Homo sapiens (Human)	309		G-protein coupled receptor 1 family
+P35368	ADA1B_HUMAN	reviewed	Alpha-1B adrenergic receptor (Alpha-1B adrenoreceptor) (Alpha-1B adrenoceptor)	ADRA1B	Homo sapiens (Human)	520		G-protein coupled receptor 1 family, Adrenergic receptor subfamily, ADRA1B sub-subfamily
+P49685	GPR15_HUMAN	reviewed	G-protein coupled receptor 15 (Brother of Bonzo) (BoB)	GPR15	Homo sapiens (Human)	360		G-protein coupled receptor 1 family
+O75388	GPR32_HUMAN	reviewed	Probable G-protein coupled receptor 32	GPR32	Homo sapiens (Human)	356		G-protein coupled receptor 1 family
+O60353	FZD6_HUMAN	reviewed	Frizzled-6 (Fz-6) (hFz6)	FZD6	Homo sapiens (Human)	706		G-protein coupled receptor Fz/Smo family
+Q9UJ42	GP160_HUMAN	reviewed	Probable G-protein coupled receptor 160 (G-protein coupled receptor GPCR1) (hGPCR1)	GPR160 GPCR150	Homo sapiens (Human)	338		G-protein coupled receptor 1 family
+Q86SP6	GP149_HUMAN	reviewed	Probable G-protein coupled receptor 149 (G-protein coupled receptor PGR10)	GPR149 PGR10	Homo sapiens (Human)	731		G-protein coupled receptor 1 family
+Q9BZJ6	GPR63_HUMAN	reviewed	Probable G-protein coupled receptor 63 (PSP24-2) (PSP24-beta)	GPR63 PSP24B	Homo sapiens (Human)	419		G-protein coupled receptor 1 family
+Q9H1C0	LPAR5_HUMAN	reviewed	Lysophosphatidic acid receptor 5 (LPA receptor 5) (LPA-5) (G-protein coupled receptor 92) (G-protein coupled receptor 93)	LPAR5 GPR92 GPR93	Homo sapiens (Human)	372		G-protein coupled receptor 1 family
+P24530	EDNRB_HUMAN	reviewed	Endothelin receptor type B (ET-B) (ET-BR) (Endothelin receptor non-selective type)	EDNRB ETRB	Homo sapiens (Human)	442	5GLH;5GLI;5X93;5XPR;6IGK;6IGL;	G-protein coupled receptor 1 family, Endothelin receptor subfamily, EDNRB sub-subfamily
+P25101	EDNRA_HUMAN	reviewed	Endothelin-1 receptor (Endothelin receptor type A) (ET-A) (ETA-R) (hET-AR)	EDNRA ETA ETRA	Homo sapiens (Human)	427		G-protein coupled receptor 1 family, Endothelin receptor subfamily, EDNRA sub-subfamily
+P47211	GALR1_HUMAN	reviewed	Galanin receptor type 1 (GAL1-R) (GALR-1)	GALR1 GALNR GALNR1	Homo sapiens (Human)	349		G-protein coupled receptor 1 family
+Q8TDU6	GPBAR_HUMAN	reviewed	G-protein coupled bile acid receptor 1 (G-protein coupled receptor GPCR19) (hGPCR19) (Membrane-type receptor for bile acids) (M-BAR) (hBG37) (BG37)	GPBAR1 TGR5	Homo sapiens (Human)	330		G-protein coupled receptor 1 family
+O00155	GPR25_HUMAN	reviewed	Probable G-protein coupled receptor 25	GPR25	Homo sapiens (Human)	361		G-protein coupled receptor 1 family
+Q9Y653	AGRG1_HUMAN	reviewed	Adhesion G-protein coupled receptor G1 (G-protein coupled receptor 56) (Protein TM7XN1) [Cleaved into: ADGRG1 N-terminal fragment (ADGRG1 NT) (GPR56 N-terminal fragment) (GPR56 NT) (GPR56(N)) (GPR56 extracellular subunit) (GPR56 subunit alpha); ADGRG1 C-terminal fragment (ADGRG1 CT) (GPR56 C-terminal fragment) (GPR56 CT) (GPR56(C)) (GPR56 seven-transmembrane subunit) (GPR56 7TM) (GPR56 subunit beta)]	ADGRG1 GPR56 TM7LN4 TM7XN1 UNQ540/PRO1083	Homo sapiens (Human)	693		G-protein coupled receptor 2 family, LN-TM7 subfamily
+Q14330	GPR18_HUMAN	reviewed	N-arachidonyl glycine receptor (NAGly receptor) (G-protein coupled receptor 18)	GPR18 GPCRW	Homo sapiens (Human)	331		G-protein coupled receptor 1 family
+O15303	GRM6_HUMAN	reviewed	Metabotropic glutamate receptor 6 (mGluR6)	GRM6 GPRC1F MGLUR6	Homo sapiens (Human)	877		G-protein coupled receptor 3 family
+O94910	AGRL1_HUMAN	reviewed	Adhesion G protein-coupled receptor L1 (Calcium-independent alpha-latrotoxin receptor 1) (CIRL-1) (Latrophilin-1) (Lectomedin-2)	ADGRL1 KIAA0821 LEC2 LPHN1	Homo sapiens (Human)	1474		G-protein coupled receptor 2 family, Adhesion G-protein coupled receptor (ADGR) subfamily
+Q9BZJ8	GPR61_HUMAN	reviewed	G-protein coupled receptor 61 (Biogenic amine receptor-like G-protein coupled receptor)	GPR61 BALGR GPCR3	Homo sapiens (Human)	451		G-protein coupled receptor 1 family
+P46089	GPR3_HUMAN	reviewed	G-protein coupled receptor 3 (ACCA orphan receptor)	GPR3 ACCA	Homo sapiens (Human)	330		G-protein coupled receptor 1 family
+P47775	GPR12_HUMAN	reviewed	G-protein coupled receptor 12	GPR12	Homo sapiens (Human)	334		G-protein coupled receptor 1 family
+O75473	LGR5_HUMAN	reviewed	Leucine-rich repeat-containing G-protein coupled receptor 5 (G-protein coupled receptor 49) (G-protein coupled receptor 67) (G-protein coupled receptor HG38)	LGR5 GPR49 GPR67	Homo sapiens (Human)	907	4BSR;4BSS;4BST;4BSU;4KNG;4UFR;4UFS;	G-protein coupled receptor 1 family
+P07550	ADRB2_HUMAN	reviewed	Beta-2 adrenergic receptor (Beta-2 adrenoreceptor) (Beta-2 adrenoceptor)	ADRB2 ADRB2R B2AR	Homo sapiens (Human)	413	1GQ4;2R4R;2R4S;2RH1;3D4S;3KJ6;3NY8;3NY9;3NYA;3P0G;3PDS;3SN6;4GBR;4LDE;4LDL;4LDO;4QKX;5D5A;5D5B;5D6L;5JQH;5X7D;6MXT;	G-protein coupled receptor 1 family, Adrenergic receptor subfamily, ADRB2 sub-subfamily
+Q13304	GPR17_HUMAN	reviewed	Uracil nucleotide/cysteinyl leukotriene receptor (UDP/CysLT receptor) (G-protein coupled receptor 17) (P2Y-like receptor) (R12)	GPR17	Homo sapiens (Human)	367		G-protein coupled receptor 1 family
+P35462	DRD3_HUMAN	reviewed	D(3) dopamine receptor (Dopamine D3 receptor)	DRD3	Homo sapiens (Human)	400	3PBL;	G-protein coupled receptor 1 family
+Q9HC97	GPR35_HUMAN	reviewed	G-protein coupled receptor 35 (Kynurenic acid receptor) (KYNA receptor)	GPR35	Homo sapiens (Human)	309		G-protein coupled receptor 1 family
+Q8N6U8	GP161_HUMAN	reviewed	G-protein coupled receptor 161 (G-protein coupled receptor RE2)	GPR161	Homo sapiens (Human)	529		G-protein coupled receptor 1 family
+Q5UAW9	GP157_HUMAN	reviewed	G-protein coupled receptor 157	GPR157	Homo sapiens (Human)	335		G-protein coupled receptor 2 family
+Q8IZ08	GP135_HUMAN	reviewed	G-protein coupled receptor 135	GPR135	Homo sapiens (Human)	494		G-protein coupled receptor 1 family
+Q9BXC1	GP174_HUMAN	reviewed	Probable G-protein coupled receptor 174	GPR174 FKSG79 GPCR17	Homo sapiens (Human)	333		G-protein coupled receptor 1 family
+O00270	GPR31_HUMAN	reviewed	12-(S)-hydroxy-5,8,10,14-eicosatetraenoic acid receptor (12-(S)-HETE receptor) (12-HETER) (G-protein coupled receptor 31)	GPR31	Homo sapiens (Human)	319		G-protein coupled receptor 1 family
+Q9NZD1	GPC5D_HUMAN	reviewed	G-protein coupled receptor family C group 5 member D	GPRC5D	Homo sapiens (Human)	345		G-protein coupled receptor 3 family
+O14514	AGRB1_HUMAN	reviewed	Adhesion G protein-coupled receptor B1 (Brain-specific angiogenesis inhibitor 1) [Cleaved into: Vasculostatin-40 (Vstat40); Vasculostatin-120 (Vstat120)]	ADGRB1 BAI1	Homo sapiens (Human)	1584		G-protein coupled receptor 2 family, LN-TM7 subfamily
+P11229	ACM1_HUMAN	reviewed	Muscarinic acetylcholine receptor M1	CHRM1	Homo sapiens (Human)	460	5CXV;6OIJ;	G-protein coupled receptor 1 family, Muscarinic acetylcholine receptor subfamily, CHRM1 sub-subfamily
+Q16602	CALRL_HUMAN	reviewed	Calcitonin gene-related peptide type 1 receptor (CGRP type 1 receptor) (Calcitonin receptor-like receptor)	CALCRL CGRPR	Homo sapiens (Human)	461	3AQF;3N7P;3N7R;3N7S;4RWF;4RWG;5V6Y;6D1U;6E3Y;	G-protein coupled receptor 2 family
+Q9BXC0	HCAR1_HUMAN	reviewed	Hydroxycarboxylic acid receptor 1 (G-protein coupled receptor 104) (G-protein coupled receptor 81)	HCAR1 GPR104 GPR81 HCA1 FKSG80	Homo sapiens (Human)	346		G-protein coupled receptor 1 family
+P43657	LPAR6_HUMAN	reviewed	Lysophosphatidic acid receptor 6 (LPA receptor 6) (LPA-6) (Oleoyl-L-alpha-lysophosphatidic acid receptor) (P2Y purinoceptor 5) (P2Y5) (Purinergic receptor 5) (RB intron encoded G-protein coupled receptor)	LPAR6 P2RY5	Homo sapiens (Human)	344		G-protein coupled receptor 1 family
+O14842	FFAR1_HUMAN	reviewed	Free fatty acid receptor 1 (G-protein coupled receptor 40)	FFAR1 GPR40	Homo sapiens (Human)	300	4PHU;5KW2;5TZR;5TZY;	G-protein coupled receptor 1 family
+P25090	FPR2_HUMAN	reviewed	N-formyl peptide receptor 2 (FMLP-related receptor I) (FMLP-R-I) (Formyl peptide receptor-like 1) (HM63) (Lipoxin A4 receptor) (LXA4 receptor) (RFP)	FPR2 FPRH1 FPRL1 LXA4R	Homo sapiens (Human)	351		G-protein coupled receptor 1 family
+Q9H461	FZD8_HUMAN	reviewed	Frizzled-8 (Fz-8) (hFz8)	FZD8	Homo sapiens (Human)	694	5UN5;5UN6;6NDZ;	G-protein coupled receptor Fz/Smo family
+Q13467	FZD5_HUMAN	reviewed	Frizzled-5 (Fz-5) (hFz5) (FzE5)	FZD5 C2orf31	Homo sapiens (Human)	585	5URY;5URZ;6O39;	G-protein coupled receptor Fz/Smo family
+Q13255	GRM1_HUMAN	reviewed	Metabotropic glutamate receptor 1 (mGluR1)	GRM1 GPRC1A MGLUR1	Homo sapiens (Human)	1194	3KS9;4OR2;	G-protein coupled receptor 3 family
+Q14332	FZD2_HUMAN	reviewed	Frizzled-2 (Fz-2) (hFz2) (FzE2)	FZD2	Homo sapiens (Human)	565	6C0B;	G-protein coupled receptor Fz/Smo family
+Q9UPC5	GPR34_HUMAN	reviewed	Probable G-protein coupled receptor 34	GPR34	Homo sapiens (Human)	381		G-protein coupled receptor 1 family
+Q6DWJ6	GP139_HUMAN	reviewed	Probable G-protein coupled receptor 139 (G(q)-coupled orphan receptor GPRg1) (G-protein-coupled receptor PGR3)	GPR139 GPRG1 PGR3	Homo sapiens (Human)	353		G-protein coupled receptor 1 family
+P32249	GP183_HUMAN	reviewed	G-protein coupled receptor 183 (Epstein-Barr virus-induced G-protein coupled receptor 2) (EBI2) (EBV-induced G-protein coupled receptor 2) (hEBI2)	GPR183 EBI2	Homo sapiens (Human)	361		G-protein coupled receptor 1 family
+Q96P69	GPR78_HUMAN	reviewed	G-protein coupled receptor 78	GPR78 UNQ5925/PRO19818	Homo sapiens (Human)	363		G-protein coupled receptor 1 family
+Q5T6X5	GPC6A_HUMAN	reviewed	G-protein coupled receptor family C group 6 member A (hGPRC6A) (G-protein coupled receptor GPCR33) (hGPCR33)	GPRC6A	Homo sapiens (Human)	926		G-protein coupled receptor 3 family
+Q8TDV0	GP151_HUMAN	reviewed	Probable G-protein coupled receptor 151 (G-protein coupled receptor PGR7) (GPCR-2037)	GPR151 PGR7	Homo sapiens (Human)	419		G-protein coupled receptor 1 family
+Q6NV75	GP153_HUMAN	reviewed	Probable G-protein coupled receptor 153 (G-protein coupled receptor PGR1)	GPR153 PGR1	Homo sapiens (Human)	609		G-protein coupled receptor 1 family
+Q9NZH0	GPC5B_HUMAN	reviewed	G-protein coupled receptor family C group 5 member B (A-69G12.1) (Retinoic acid-induced gene 2 protein) (RAIG-2)	GPRC5B RAIG2	Homo sapiens (Human)	403		G-protein coupled receptor 3 family
+P46095	GPR6_HUMAN	reviewed	G-protein coupled receptor 6 (Sphingosine 1-phosphate receptor GPR6)	GPR6	Homo sapiens (Human)	362		G-protein coupled receptor 1 family
+Q92847	GHSR_HUMAN	reviewed	Growth hormone secretagogue receptor type 1 (GHS-R) (GH-releasing peptide receptor) (GHRP) (Ghrelin receptor)	GHSR	Homo sapiens (Human)	366		G-protein coupled receptor 1 family
+Q8NFN8	GP156_HUMAN	reviewed	Probable G-protein coupled receptor 156 (G-protein coupled receptor PGR28) (GABAB-related G-protein coupled receptor)	GPR156 GABABL PGR28	Homo sapiens (Human)	814		G-protein coupled receptor 3 family, GABA-B receptor subfamily
+Q9UNW8	GP132_HUMAN	reviewed	Probable G-protein coupled receptor 132 (G2 accumulation protein)	GPR132 G2A	Homo sapiens (Human)	380		G-protein coupled receptor 1 family
+P60893	GPR85_HUMAN	reviewed	Probable G-protein coupled receptor 85 (Super conserved receptor expressed in brain 2)	GPR85 SREB2	Homo sapiens (Human)	370		G-protein coupled receptor 1 family
+Q9Y5Y3	GPR45_HUMAN	reviewed	Probable G-protein coupled receptor 45 (PSP24-1) (PSP24-alpha)	GPR45	Homo sapiens (Human)	372		G-protein coupled receptor 1 family
+Q15760	GPR19_HUMAN	reviewed	Probable G-protein coupled receptor 19 (GPR-NGA)	GPR19	Homo sapiens (Human)	415		G-protein coupled receptor 1 family
+O15552	FFAR2_HUMAN	reviewed	Free fatty acid receptor 2 (G-protein coupled receptor 43)	FFAR2 FFA2 GPCR43 GPR43	Homo sapiens (Human)	330		G-protein coupled receptor 1 family
+P21462	FPR1_HUMAN	reviewed	fMet-Leu-Phe receptor (fMLP receptor) (N-formyl peptide receptor) (FPR) (N-formylpeptide chemoattractant receptor)	FPR1	Homo sapiens (Human)	350		G-protein coupled receptor 1 family
+Q9HBX8	LGR6_HUMAN	reviewed	Leucine-rich repeat-containing G-protein coupled receptor 6	LGR6 UNQ6427/PRO21331 VTS20631	Homo sapiens (Human)	967		G-protein coupled receptor 1 family
+Q13639	5HT4R_HUMAN	reviewed	5-hydroxytryptamine receptor 4 (5-HT-4) (5-HT4) (Serotonin receptor 4)	HTR4	Homo sapiens (Human)	388	5EM9;	G-protein coupled receptor 1 family
+Q14833	GRM4_HUMAN	reviewed	Metabotropic glutamate receptor 4 (mGluR4)	GRM4 GPRC1D MGLUR4	Homo sapiens (Human)	912		G-protein coupled receptor 3 family
+P41597	CCR2_HUMAN	reviewed	C-C chemokine receptor type 2 (C-C CKR-2) (CC-CKR-2) (CCR-2) (CCR2) (Monocyte chemoattractant protein 1 receptor) (MCP-1-R) (CD antigen CD192)	CCR2 CMKBR2	Homo sapiens (Human)	374	1KAD;1KP1;2MLO;2MLQ;5T1A;	G-protein coupled receptor 1 family
+P51685	CCR8_HUMAN	reviewed	C-C chemokine receptor type 8 (C-C CKR-8) (CC-CKR-8) (CCR-8) (CC chemokine receptor CHEMR1) (CMKBRL2) (Chemokine receptor-like 1) (CKR-L1) (GPR-CY6) (GPRCY6) (TER1) (CD antigen CDw198)	CCR8 CKRL1 CMKBR8 CMKBRL2	Homo sapiens (Human)	355		G-protein coupled receptor 1 family
+P25024	CXCR1_HUMAN	reviewed	C-X-C chemokine receptor type 1 (CXC-R1) (CXCR-1) (CDw128a) (High affinity interleukin-8 receptor A) (IL-8R A) (IL-8 receptor type 1) (CD antigen CD181)	CXCR1 CMKAR1 IL8RA	Homo sapiens (Human)	350	1ILP;1ILQ;2LNL;	G-protein coupled receptor 1 family
+P08913	ADA2A_HUMAN	reviewed	Alpha-2A adrenergic receptor (Alpha-2 adrenergic receptor subtype C10) (Alpha-2A adrenoreceptor) (Alpha-2A adrenoceptor) (Alpha-2AAR)	ADRA2A ADRA2R ADRAR	Homo sapiens (Human)	450	1HLL;1HO9;1HOD;1HOF;	G-protein coupled receptor 1 family, Adrenergic receptor subfamily, ADRA2A sub-subfamily
+P32239	GASR_HUMAN	reviewed	Gastrin/cholecystokinin type B receptor (CCK-B receptor) (CCK-BR) (Cholecystokinin-2 receptor) (CCK2-R)	CCKBR CCKRB	Homo sapiens (Human)	447	1L4T;	G-protein coupled receptor 1 family
+P13945	ADRB3_HUMAN	reviewed	Beta-3 adrenergic receptor (Beta-3 adrenoreceptor) (Beta-3 adrenoceptor)	ADRB3 ADRB3R B3AR	Homo sapiens (Human)	408	2CDW;	G-protein coupled receptor 1 family, Adrenergic receptor subfamily, ADRB3 sub-subfamily
+Q16581	C3AR_HUMAN	reviewed	C3a anaphylatoxin chemotactic receptor (C3AR) (C3a-R)	C3AR1 AZ3B C3R1 HNFAG09	Homo sapiens (Human)	482		G-protein coupled receptor 1 family
+Q9P296	C5AR2_HUMAN	reviewed	C5a anaphylatoxin chemotactic receptor 2 (Complement component 5a receptor 2) (G-protein coupled receptor 77)	C5AR2 C5L2 GPR77	Homo sapiens (Human)	337		G-protein coupled receptor 1 family
+P51681	CCR5_HUMAN	reviewed	C-C chemokine receptor type 5 (C-C CKR-5) (CC-CKR-5) (CCR-5) (CCR5) (CHEMR13) (HIV-1 fusion coreceptor) (CD antigen CD195)	CCR5 CMKBR5	Homo sapiens (Human)	352	1ND8;1NE0;1OPN;1OPT;1OPW;2L87;2MZX;2RLL;2RRS;4MBS;5UIW;5YD3;5YD4;5YD5;5YY4;6FGP;6MEO;6MET;	G-protein coupled receptor 1 family
+Q9NYQ6	CELR1_HUMAN	reviewed	Cadherin EGF LAG seven-pass G-type receptor 1 (Cadherin family member 9) (Flamingo homolog 2) (hFmi2)	CELSR1 CDHF9 FMI2	Homo sapiens (Human)	3014		G-protein coupled receptor 2 family, LN-TM7 subfamily
+P41180	CASR_HUMAN	reviewed	Extracellular calcium-sensing receptor (CaR) (CaSR) (hCasR) (Parathyroid cell calcium-sensing receptor 1) (PCaR1)	CASR GPRC2A PCAR1	Homo sapiens (Human)	1078	5FBH;5FBK;5K5S;5K5T;	G-protein coupled receptor 3 family
+P28222	5HT1B_HUMAN	reviewed	5-hydroxytryptamine receptor 1B (5-HT-1B) (5-HT1B) (S12) (Serotonin 1D beta receptor) (5-HT-1D-beta) (Serotonin receptor 1B)	HTR1B HTR1DB	Homo sapiens (Human)	390	2G1X;4IAQ;4IAR;5V54;6G79;	G-protein coupled receptor 1 family
+P34972	CNR2_HUMAN	reviewed	Cannabinoid receptor 2 (CB-2) (CB2) (hCB2) (CX5)	CNR2 CB2A CB2B	Homo sapiens (Human)	360	2KI9;5ZTY;	G-protein coupled receptor 1 family
+P32302	CXCR5_HUMAN	reviewed	C-X-C chemokine receptor type 5 (CXC-R5) (CXCR-5) (Burkitt lymphoma receptor 1) (Monocyte-derived receptor 15) (MDR-15) (CD antigen CD185)	CXCR5 BLR1 MDR15	Homo sapiens (Human)	372		G-protein coupled receptor 1 family
+Q86SQ6	AGRA1_HUMAN	reviewed	Adhesion G protein-coupled receptor A1 (G-protein coupled receptor 123)	ADGRA1 GPR123 KIAA1828	Homo sapiens (Human)	560		G-protein coupled receptor 2 family, Adhesion G-protein coupled receptor (ADGR) subfamily
+Q8NGK4	O52K1_HUMAN	reviewed	Olfactory receptor 52K1 (Olfactory receptor OR11-8)	OR52K1	Homo sapiens (Human)	314		G-protein coupled receptor 1 family
+Q6IF99	O10K2_HUMAN	reviewed	Olfactory receptor 10K2 (Olfactory receptor OR1-4)	OR10K2	Homo sapiens (Human)	312		G-protein coupled receptor 1 family
+Q8NGB4	OR4S1_HUMAN	reviewed	Olfactory receptor 4S1 (Olfactory receptor OR11-100)	OR4S1	Homo sapiens (Human)	309		G-protein coupled receptor 1 family
+Q8NH54	O56A3_HUMAN	reviewed	Olfactory receptor 56A3 (Olfactory receptor 56A6)	OR56A3 OR56A3P OR56A6	Homo sapiens (Human)	315		G-protein coupled receptor 1 family
+Q8NGF6	O10W1_HUMAN	reviewed	Olfactory receptor 10W1 (Olfactory receptor OR11-236)	OR10W1 OR10W1P UNQ6469/PRO34070	Homo sapiens (Human)	305		G-protein coupled receptor 1 family
+Q8NGN7	O10D4_HUMAN	reviewed	Putative olfactory receptor 10D4	OR10D4P OR10D4	Homo sapiens (Human)	298		G-protein coupled receptor 1 family
+Q8NHA4	O2AE1_HUMAN	reviewed	Olfactory receptor 2AE1 (Olfactory receptor 2AE2)	OR2AE1 OR2AE2	Homo sapiens (Human)	323		G-protein coupled receptor 1 family
+P30954	O10J1_HUMAN	reviewed	Olfactory receptor 10J1 (Olfactory receptor OR1-26) (Olfactory receptor-like protein HGMP07J)	OR10J1	Homo sapiens (Human)	320		G-protein coupled receptor 1 family
+Q8N162	OR8H2_HUMAN	reviewed	Olfactory receptor 8H2 (Olfactory receptor OR11-171)	OR8H2	Homo sapiens (Human)	312		G-protein coupled receptor 1 family
+Q8NH69	OR5W2_HUMAN	reviewed	Olfactory receptor 5W2 (Olfactory receptor 5W3) (Olfactory receptor OR11-155)	OR5W2 OR5W2P OR5W3P	Homo sapiens (Human)	310		G-protein coupled receptor 1 family
+Q8NGY9	OR2L8_HUMAN	reviewed	Olfactory receptor 2L8 (Olfactory receptor OR1-46)	OR2L8	Homo sapiens (Human)	312		G-protein coupled receptor 1 family
+Q8NG75	OR5T1_HUMAN	reviewed	Olfactory receptor 5T1 (Olfactory receptor OR11-179)	OR5T1 OR5T1P	Homo sapiens (Human)	326		G-protein coupled receptor 1 family
+Q8NGP4	OR5M3_HUMAN	reviewed	Olfactory receptor 5M3 (Olfactory receptor OR11-191)	OR5M3	Homo sapiens (Human)	307		G-protein coupled receptor 1 family
+O95371	OR2C1_HUMAN	reviewed	Olfactory receptor 2C1 (OLFmf3) (Olfactory receptor 2C2) (Olfactory receptor OR16-1) (Olfactory receptor OR16-2)	OR2C1 OR2C2P	Homo sapiens (Human)	312		G-protein coupled receptor 1 family
+Q96RC9	OR8B4_HUMAN	reviewed	Olfactory receptor 8B4 (Olfactory receptor OR11-315)	OR8B4 OR8B4P	Homo sapiens (Human)	309		G-protein coupled receptor 1 family
+Q8NGM9	OR8D4_HUMAN	reviewed	Olfactory receptor 8D4 (Olfactory receptor OR11-275)	OR8D4	Homo sapiens (Human)	314		G-protein coupled receptor 1 family
+Q8NH79	OR6X1_HUMAN	reviewed	Olfactory receptor 6X1 (Olfactory receptor OR11-270)	OR6X1	Homo sapiens (Human)	312		G-protein coupled receptor 1 family
+P47883	OR3A4_HUMAN	reviewed	Putative olfactory receptor 3A4 (Olfactory receptor 17-24) (OR17-24) (Olfactory receptor 3A5)	OR3A4P OR3A4 OR3A5P	Homo sapiens (Human)	348		G-protein coupled receptor 1 family
+Q8NG78	OR8G5_HUMAN	reviewed	Olfactory receptor 8G5 (Olfactory receptor 8G6) (Olfactory receptor OR11-298)	OR8G5 OR8G5P OR8G6	Homo sapiens (Human)	346		G-protein coupled receptor 1 family
+Q8NGL2	OR5L1_HUMAN	reviewed	Olfactory receptor 5L1 (OST262) (Olfactory receptor OR11-151)	OR5L1	Homo sapiens (Human)	311		G-protein coupled receptor 1 family
+P47881	OR3A1_HUMAN	reviewed	Olfactory receptor 3A1 (Olfactory receptor 17-40) (OR17-40) (Olfactory receptor OR17-15)	OR3A1 OLFRA03	Homo sapiens (Human)	315		G-protein coupled receptor 1 family
+O60412	OR7C2_HUMAN	reviewed	Olfactory receptor 7C2 (Olfactory receptor 19-18) (OR19-18) (Olfactory receptor 7C3) (Olfactory receptor OR19-22)	OR7C2 OR7C3	Homo sapiens (Human)	319		G-protein coupled receptor 1 family
+Q8TDS5	OXER1_HUMAN	reviewed	Oxoeicosanoid receptor 1 (5-oxo-ETE G-protein coupled receptor) (G-protein coupled receptor 170) (G-protein coupled receptor R527) (G-protein coupled receptor TG1019)	OXER1 GPR170 TG1019	Homo sapiens (Human)	423		G-protein coupled receptor 1 family
+P25089	FPR3_HUMAN	reviewed	N-formyl peptide receptor 3 (FMLP-related receptor II) (FMLP-R-II) (Formyl peptide receptor-like 2)	FPR3 FPRH1 FPRL2	Homo sapiens (Human)	353		G-protein coupled receptor 1 family
+A6NDH6	O5H15_HUMAN	reviewed	Olfactory receptor 5H15	OR5H15	Homo sapiens (Human)	313		G-protein coupled receptor 1 family
+Q8NGC7	O11H6_HUMAN	reviewed	Olfactory receptor 11H6 (Olfactory receptor OR14-35)	OR11H6	Homo sapiens (Human)	330		G-protein coupled receptor 1 family
+Q8NGT0	O13C9_HUMAN	reviewed	Olfactory receptor 13C9 (Olfactory receptor OR9-13)	OR13C9	Homo sapiens (Human)	318		G-protein coupled receptor 1 family
+P0C628	O5AC1_HUMAN	reviewed	Olfactory receptor 5AC1 (Olfactory receptor OR3-2)	OR5AC1 OR5AC1P	Homo sapiens (Human)	307		G-protein coupled receptor 1 family
+Q8NGJ2	O52H1_HUMAN	reviewed	Olfactory receptor 52H1 (Olfactory receptor OR11-45)	OR52H1	Homo sapiens (Human)	320		G-protein coupled receptor 1 family
+Q8NG84	O2AK2_HUMAN	reviewed	Olfactory receptor 2AK2 (Olfactory receptor 2AK1) (Olfactory receptor OR1-47)	OR2AK2 OR2AK1P	Homo sapiens (Human)	335		G-protein coupled receptor 1 family
+Q8NGE2	O2AP1_HUMAN	reviewed	Olfactory receptor 2AP1 (Olfactory receptor OR12-9)	OR2AP1 OR2AP1P	Homo sapiens (Human)	309		G-protein coupled receptor 1 family
+A6NL26	OR5BL_HUMAN	reviewed	Olfactory receptor 5B21	OR5B21	Homo sapiens (Human)	309		G-protein coupled receptor 1 family
+Q8NGI4	OR4DB_HUMAN	reviewed	Olfactory receptor 4D11	OR4D11 OR4D11P	Homo sapiens (Human)	311		G-protein coupled receptor 1 family
+Q9Y5Y4	PD2R2_HUMAN	reviewed	Prostaglandin D2 receptor 2 (Chemoattractant receptor-homologous molecule expressed on Th2 cells) (G-protein coupled receptor 44) (CD antigen CD294)	PTGDR2 CRTH2 DL1R GPR44	Homo sapiens (Human)	395	6D26;6D27;	G-protein coupled receptor 1 family
+Q8NH53	O52N1_HUMAN	reviewed	Olfactory receptor 52N1 (Olfactory receptor OR11-61)	OR52N1	Homo sapiens (Human)	320		G-protein coupled receptor 1 family
+Q8NG94	O11H1_HUMAN	reviewed	Olfactory receptor 11H1 (Olfactory receptor OR22-1)	OR11H1	Homo sapiens (Human)	326		G-protein coupled receptor 1 family
+Q6IF82	O4A47_HUMAN	reviewed	Olfactory receptor 4A47 (Olfactory receptor OR11-113)	OR4A47	Homo sapiens (Human)	309		G-protein coupled receptor 1 family
+Q8NH93	OR1L3_HUMAN	reviewed	Olfactory receptor 1L3 (Olfactory receptor 9-D) (OR9-D) (Olfactory receptor OR9-28)	OR1L3	Homo sapiens (Human)	324		G-protein coupled receptor 1 family
+Q8NH42	OR4KD_HUMAN	reviewed	Olfactory receptor 4K13 (Olfactory receptor OR14-27)	OR4K13	Homo sapiens (Human)	304		G-protein coupled receptor 1 family
+Q8NGR5	OR1L4_HUMAN	reviewed	Olfactory receptor 1L4 (OST046) (Olfactory receptor 1L5) (Olfactory receptor 9-E) (OR9-E) (Olfactory receptor OR9-29)	OR1L4 OR1L5	Homo sapiens (Human)	311		G-protein coupled receptor 1 family
+A6NFC9	OR2W5_HUMAN	reviewed	Putative olfactory receptor 2W5	OR2W5 OR2W5P	Homo sapiens (Human)	320		G-protein coupled receptor 1 family
+Q96R08	OR5BC_HUMAN	reviewed	Olfactory receptor 5B12 (Olfactory receptor 5B16) (Olfactory receptor OR11-241)	OR5B12 OR5B12P OR5B16	Homo sapiens (Human)	314		G-protein coupled receptor 1 family
+Q8NG99	OR7G2_HUMAN	reviewed	Olfactory receptor 7G2 (OST260) (Olfactory receptor 19-13) (OR19-13) (Olfactory receptor OR19-6)	OR7G2	Homo sapiens (Human)	324		G-protein coupled receptor 1 family
+Q8NGY5	OR6N1_HUMAN	reviewed	Olfactory receptor 6N1	OR6N1	Homo sapiens (Human)	312		G-protein coupled receptor 1 family
+Q8NGB2	OR4C5_HUMAN	reviewed	Olfactory receptor 4C5 (Olfactory receptor OR11-99)	OR4C5	Homo sapiens (Human)	326		G-protein coupled receptor 1 family
+Q6IF00	OR2T2_HUMAN	reviewed	Olfactory receptor 2T2 (Olfactory receptor OR1-43)	OR2T2 OR2T2P	Homo sapiens (Human)	324		G-protein coupled receptor 1 family
+Q8NGE1	OR6C4_HUMAN	reviewed	Olfactory receptor 6C4 (Olfactory receptor OR12-10)	OR6C4	Homo sapiens (Human)	309		G-protein coupled receptor 1 family
+Q8NGS2	OR1J2_HUMAN	reviewed	Olfactory receptor 1J2 (HSA5) (HTPCRX15) (OST044) (Olfactory receptor 1J3) (Olfactory receptor 1J5) (Olfactory receptor OR9-19)	OR1J2 OR1J3 OR1J5	Homo sapiens (Human)	313		G-protein coupled receptor 1 family
+Q8NGY6	OR6N2_HUMAN	reviewed	Olfactory receptor 6N2 (Olfactory receptor OR1-23)	OR6N2	Homo sapiens (Human)	317		G-protein coupled receptor 1 family
+Q96RD0	OR8B2_HUMAN	reviewed	Olfactory receptor 8B2 (Olfactory receptor OR11-309)	OR8B2	Homo sapiens (Human)	313		G-protein coupled receptor 1 family
+O14718	OPSX_HUMAN	reviewed	Visual pigment-like receptor peropsin	RRH	Homo sapiens (Human)	337		G-protein coupled receptor 1 family, Opsin subfamily
+Q8NGQ2	OR6Q1_HUMAN	reviewed	Olfactory receptor 6Q1 (Olfactory receptor OR11-226)	OR6Q1	Homo sapiens (Human)	317		G-protein coupled receptor 1 family
+Q8NGP2	OR8J1_HUMAN	reviewed	Olfactory receptor 8J1 (Olfactory receptor OR11-183)	OR8J1	Homo sapiens (Human)	316		G-protein coupled receptor 1 family
+Q8NGE9	OR9Q2_HUMAN	reviewed	Olfactory receptor 9Q2	OR9Q2 OR9Q2P	Homo sapiens (Human)	314		G-protein coupled receptor 1 family
+Q8NGG8	OR8B3_HUMAN	reviewed	Olfactory receptor 8B3 (Olfactory receptor OR11-311)	OR8B3	Homo sapiens (Human)	313		G-protein coupled receptor 1 family
+O76002	OR2J2_HUMAN	reviewed	Olfactory receptor 2J2 (Hs6M1-6) (Olfactory receptor 6-8) (OR6-8) (Olfactory receptor OR6-19)	OR2J2	Homo sapiens (Human)	312		G-protein coupled receptor 1 family
+Q8NGP0	OR4CD_HUMAN	reviewed	Olfactory receptor 4C13 (Olfactory receptor OR11-260)	OR4C13	Homo sapiens (Human)	309		G-protein coupled receptor 1 family
+Q8NGD1	OR4N2_HUMAN	reviewed	Olfactory receptor 4N2 (Olfactory receptor OR14-13) (Olfactory receptor OR14-8)	OR4N2	Homo sapiens (Human)	307		G-protein coupled receptor 1 family
+P33032	MC5R_HUMAN	reviewed	Melanocortin receptor 5 (MC5-R) (MC-2)	MC5R	Homo sapiens (Human)	325		G-protein coupled receptor 1 family
+Q8NGL4	OR5DD_HUMAN	reviewed	Olfactory receptor 5D13 (Olfactory receptor OR11-142) (Olfactory receptor OR11-148)	OR5D13	Homo sapiens (Human)	314		G-protein coupled receptor 1 family
+P49019	HCAR3_HUMAN	reviewed	Hydroxycarboxylic acid receptor 3 (G-protein coupled receptor 109B) (G-protein coupled receptor HM74) (G-protein coupled receptor HM74B) (Niacin receptor 2) (Nicotinic acid receptor 2)	HCAR3 GPR109B HCA3 HM74B NIACR2	Homo sapiens (Human)	387		G-protein coupled receptor 1 family
+A6NMU1	O52A4_HUMAN	reviewed	Olfactory receptor 52A4	OR52A4P OR52A4	Homo sapiens (Human)	304		G-protein coupled receptor 1 family
+Q8NH90	O5AK2_HUMAN	reviewed	Olfactory receptor 5AK2	OR5AK2	Homo sapiens (Human)	309		G-protein coupled receptor 1 family
+A6NM76	O6C76_HUMAN	reviewed	Olfactory receptor 6C76	OR6C76	Homo sapiens (Human)	312		G-protein coupled receptor 1 family
+Q8NGN4	O10G9_HUMAN	reviewed	Olfactory receptor 10G9 (Olfactory receptor 10G10)	OR10G9 OR10G10P	Homo sapiens (Human)	311		G-protein coupled receptor 1 family
+A6NCV1	O6C74_HUMAN	reviewed	Olfactory receptor 6C74	OR6C74	Homo sapiens (Human)	312		G-protein coupled receptor 1 family
+Q6IF63	O52W1_HUMAN	reviewed	Olfactory receptor 52W1 (Olfactory receptor OR11-71)	OR52W1 OR52W1P	Homo sapiens (Human)	320		G-protein coupled receptor 1 family
+A4D2G3	O2A25_HUMAN	reviewed	Olfactory receptor 2A25 (Olfactory receptor 2A27)	OR2A25 OR2A25P OR2A27	Homo sapiens (Human)	310		G-protein coupled receptor 1 family
+Q8NHA6	OR2W6_HUMAN	reviewed	Putative olfactory receptor 2W6 (Olfactory receptor OR6-3) (Putative olfactory receptor 2W7)	OR2W6P OR2W7P	Homo sapiens (Human)	318		G-protein coupled receptor 1 family
+O95665	NTR2_HUMAN	reviewed	Neurotensin receptor type 2 (NT-R-2) (NTR2) (Levocabastine-sensitive neurotensin receptor)	NTSR2	Homo sapiens (Human)	410		G-protein coupled receptor 1 family, Neurotensin receptor subfamily, NTSR2 sub-subfamily
+Q99677	LPAR4_HUMAN	reviewed	Lysophosphatidic acid receptor 4 (LPA receptor 4) (LPA-4) (G-protein coupled receptor 23) (P2Y purinoceptor 9) (P2Y9) (P2Y5-like receptor) (Purinergic receptor 9)	LPAR4 GPR23 LPA4 P2RY9	Homo sapiens (Human)	370		G-protein coupled receptor 1 family
+Q96RD2	O52B2_HUMAN	reviewed	Olfactory receptor 52B2 (Olfactory receptor OR11-70)	OR52B2	Homo sapiens (Human)	323		G-protein coupled receptor 1 family
+Q8N127	O5AS1_HUMAN	reviewed	Olfactory receptor 5AS1 (Olfactory receptor OR11-168)	OR5AS1	Homo sapiens (Human)	324		G-protein coupled receptor 1 family
+Q8NH57	O52P1_HUMAN	reviewed	Putative olfactory receptor 52P1	OR52P1P OR52P1	Homo sapiens (Human)	321		G-protein coupled receptor 1 family
+Q8NGH3	OR2D3_HUMAN	reviewed	Olfactory receptor 2D3 (Olfactory receptor OR11-89)	OR2D3	Homo sapiens (Human)	330		G-protein coupled receptor 1 family
+Q8N146	OR8H3_HUMAN	reviewed	Olfactory receptor 8H3 (Olfactory receptor OR11-172)	OR8H3	Homo sapiens (Human)	312		G-protein coupled receptor 1 family
+Q8NH85	OR5R1_HUMAN	reviewed	Olfactory receptor 5R1 (Olfactory receptor OR11-185)	OR5R1 OR5R1P	Homo sapiens (Human)	324		G-protein coupled receptor 1 family
+O43193	MTLR_HUMAN	reviewed	Motilin receptor (G-protein coupled receptor 38)	MLNR GPR38 MTLR MTLR1	Homo sapiens (Human)	412		G-protein coupled receptor 1 family
+Q8NGF1	O52R1_HUMAN	reviewed	Olfactory receptor 52R1 (Olfactory receptor OR11-22)	OR52R1	Homo sapiens (Human)	315		G-protein coupled receptor 1 family
+Q8NGN3	O10G4_HUMAN	reviewed	Olfactory receptor 10G4 (Olfactory receptor OR11-278)	OR10G4	Homo sapiens (Human)	311		G-protein coupled receptor 1 family
+Q8NGF4	O5AP2_HUMAN	reviewed	Olfactory receptor 5AP2	OR5AP2	Homo sapiens (Human)	316		G-protein coupled receptor 1 family
+A6NIJ9	O6C70_HUMAN	reviewed	Olfactory receptor 6C70	OR6C70	Homo sapiens (Human)	312		G-protein coupled receptor 1 family
+Q8NGK3	O52K2_HUMAN	reviewed	Olfactory receptor 52K2 (Olfactory receptor OR11-7)	OR52K2	Homo sapiens (Human)	314		G-protein coupled receptor 1 family
+Q8NGH6	O52L2_HUMAN	reviewed	Putative olfactory receptor 52L2 (Olfactory receptor OR11-74)	OR52L2P OR52L2	Homo sapiens (Human)	319		G-protein coupled receptor 1 family
+A6NF89	OR6C6_HUMAN	reviewed	Olfactory receptor 6C6	OR6C6	Homo sapiens (Human)	314		G-protein coupled receptor 1 family
+Q9GZK6	OR2J1_HUMAN	reviewed	Olfactory receptor 2J1 (Hs6M1-4) (Olfactory receptor 6-5) (OR6-5)	OR2J1 OR2J1P	Homo sapiens (Human)	312		G-protein coupled receptor 1 family
+Q8WZA6	OR1E3_HUMAN	reviewed	Olfactory receptor 1E3 (Olfactory receptor 17-210) (OR17-210) (Olfactory receptor OR17-7)	OR1E3 OR1E3P	Homo sapiens (Human)	343		G-protein coupled receptor 1 family
+Q8NGR4	OR5C1_HUMAN	reviewed	Olfactory receptor 5C1 (Olfactory receptor 5C2) (Olfactory receptor 9-F) (OR9-F)	OR5C1 OR5C2P	Homo sapiens (Human)	320		G-protein coupled receptor 1 family
+O95006	OR2F2_HUMAN	reviewed	Olfactory receptor 2F2 (Olfactory receptor 7-1) (OR7-1) (Olfactory receptor OR7-6)	OR2F2	Homo sapiens (Human)	317		G-protein coupled receptor 1 family
+Q8NGG0	OR8J3_HUMAN	reviewed	Olfactory receptor 8J3 (Olfactory receptor OR11-173)	OR8J3	Homo sapiens (Human)	315		G-protein coupled receptor 1 family
+Q9GZQ6	NPFF1_HUMAN	reviewed	Neuropeptide FF receptor 1 (G-protein coupled receptor 147) (RFamide-related peptide receptor OT7T022)	NPFFR1 GPR147 NPFF1	Homo sapiens (Human)	430		G-protein coupled receptor 1 family
+P28336	NMBR_HUMAN	reviewed	Neuromedin-B receptor (NMB-R) (Epididymis tissue protein Li 185a) (Neuromedin-B-preferring bombesin receptor)	NMBR	Homo sapiens (Human)	390		G-protein coupled receptor 1 family
+Q8NGF3	O51D1_HUMAN	reviewed	Olfactory receptor 51D1 (Olfactory receptor OR11-14)	OR51D1	Homo sapiens (Human)	324		G-protein coupled receptor 1 family
+Q8NGZ3	O13G1_HUMAN	reviewed	Olfactory receptor 13G1 (Olfactory receptor OR1-37)	OR13G1	Homo sapiens (Human)	307		G-protein coupled receptor 1 family
+Q8NGC8	O11H7_HUMAN	reviewed	Olfactory receptor 11H7 (Olfactory receptor OR14-32)	OR11H7 OR11H7P	Homo sapiens (Human)	314		G-protein coupled receptor 1 family
+Q8NGS6	O13C3_HUMAN	reviewed	Olfactory receptor 13C3 (Olfactory receptor OR9-8)	OR13C3	Homo sapiens (Human)	347		G-protein coupled receptor 1 family
+A6NMZ5	O4C45_HUMAN	reviewed	Olfactory receptor 4C45	OR4C45	Homo sapiens (Human)	311		G-protein coupled receptor 1 family
+Q8NGJ8	O51S1_HUMAN	reviewed	Olfactory receptor 51S1 (Olfactory receptor OR11-24)	OR51S1	Homo sapiens (Human)	323		G-protein coupled receptor 1 family
+Q8NGG2	OR5T2_HUMAN	reviewed	Olfactory receptor 5T2 (Olfactory receptor OR11-177)	OR5T2	Homo sapiens (Human)	359		G-protein coupled receptor 1 family
+Q8NGT5	OR9A2_HUMAN	reviewed	Olfactory receptor 9A2 (Olfactory receptor OR7-2)	OR9A2	Homo sapiens (Human)	310		G-protein coupled receptor 1 family
+Q8NGR6	OR1B1_HUMAN	reviewed	Olfactory receptor 1B1 (Olfactory receptor 9-B) (OR9-B) (Olfactory receptor OR9-26)	OR1B1	Homo sapiens (Human)	318		G-protein coupled receptor 1 family
+Q8NH50	OR8K5_HUMAN	reviewed	Olfactory receptor 8K5 (Olfactory receptor OR11-174)	OR8K5	Homo sapiens (Human)	307		G-protein coupled receptor 1 family
+P47890	OR1G1_HUMAN	reviewed	Olfactory receptor 1G1 (Olfactory receptor 17-209) (OR17-209) (Olfactory receptor 1G2) (Olfactory receptor OR17-8)	OR1G1 OR1G2	Homo sapiens (Human)	313		G-protein coupled receptor 1 family
+O95918	OR2H2_HUMAN	reviewed	Olfactory receptor 2H2 (Hs6M1-12) (Olfactory receptor 2H3) (Olfactory receptor-like protein FAT11)	OR2H2 FAT11 OLFR2 OR2H3	Homo sapiens (Human)	312		G-protein coupled receptor 1 family
+Q8NGN1	OR6T1_HUMAN	reviewed	Olfactory receptor 6T1 (Olfactory receptor OR11-277)	OR6T1	Homo sapiens (Human)	323		G-protein coupled receptor 1 family
+P35372	OPRM_HUMAN	reviewed	Mu-type opioid receptor (M-OR-1) (MOR-1) (Mu opiate receptor) (Mu opioid receptor) (MOP) (hMOP)	OPRM1 MOR1	Homo sapiens (Human)	400		G-protein coupled receptor 1 family
+Q8NH40	OR6S1_HUMAN	reviewed	Olfactory receptor 6S1 (Olfactory receptor OR14-37)	OR6S1	Homo sapiens (Human)	331		G-protein coupled receptor 1 family
+P35367	HRH1_HUMAN	reviewed	Histamine H1 receptor (H1R) (HH1R)	HRH1	Homo sapiens (Human)	487	3RZE;	G-protein coupled receptor 1 family
+Q8NH55	O52E5_HUMAN	reviewed	Olfactory receptor 52E5	OR52E5	Homo sapiens (Human)	327		G-protein coupled receptor 1 family
+Q9H339	O51B5_HUMAN	reviewed	Olfactory receptor 51B5 (Odorant receptor HOR5'beta5) (Olfactory receptor OR11-37)	OR51B5	Homo sapiens (Human)	312		G-protein coupled receptor 1 family
+Q8NH61	O51F2_HUMAN	reviewed	Olfactory receptor 51F2 (Olfactory receptor OR11-23)	OR51F2	Homo sapiens (Human)	342		G-protein coupled receptor 1 family
+A6NET4	OR5K3_HUMAN	reviewed	Olfactory receptor 5K3	OR5K3	Homo sapiens (Human)	321		G-protein coupled receptor 1 family
+Q6U736	OPN5_HUMAN	reviewed	Opsin-5 (G-protein coupled receptor 136) (G-protein coupled receptor PGR12) (Neuropsin) (Transmembrane protein 13)	OPN5 GPR136 PGR12 TMEM13	Homo sapiens (Human)	354		G-protein coupled receptor 1 family, Opsin subfamily
+Q8NGZ5	OR2G2_HUMAN	reviewed	Olfactory receptor 2G2 (Olfactory receptor OR1-32)	OR2G2	Homo sapiens (Human)	317		G-protein coupled receptor 1 family
+Q8NHC8	OR2T6_HUMAN	reviewed	Olfactory receptor 2T6 (OST703) (Olfactory receptor 2T9)	OR2T6 OR2T6P OR2T9	Homo sapiens (Human)	308		G-protein coupled receptor 1 family
+Q8NGS0	OR1N1_HUMAN	reviewed	Olfactory receptor 1N1 (Olfactory receptor 1-26) (OR1-26) (Olfactory receptor 1N3) (Olfactory receptor OR9-22)	OR1N1 OR1N3	Homo sapiens (Human)	311		G-protein coupled receptor 1 family
+Q9NZP0	OR6C3_HUMAN	reviewed	Olfactory receptor 6C3 (HSA8)	OR6C3	Homo sapiens (Human)	311		G-protein coupled receptor 1 family
+Q8NGP3	OR5M9_HUMAN	reviewed	Olfactory receptor 5M9 (Olfactory receptor OR11-190)	OR5M9	Homo sapiens (Human)	310		G-protein coupled receptor 1 family
+A3KFT3	OR2M5_HUMAN	reviewed	Olfactory receptor 2M5	OR2M5 OR2M5P	Homo sapiens (Human)	312		G-protein coupled receptor 1 family
+Q8NGB6	OR4M2_HUMAN	reviewed	Olfactory receptor 4M2 (Olfactory receptor OR15-3)	OR4M2	Homo sapiens (Human)	313		G-protein coupled receptor 1 family
+Q8NH10	OR8U1_HUMAN	reviewed	Olfactory receptor 8U1	OR8U1	Homo sapiens (Human)	309		G-protein coupled receptor 1 family
+P0C623	OR4Q2_HUMAN	reviewed	Olfactory receptor 4Q2 (olfactory receptor OR14-21)	OR4Q2 OR4Q2P	Homo sapiens (Human)	307		G-protein coupled receptor 1 family
+Q6IEY1	OR4F3_HUMAN	reviewed	Olfactory receptor 4F3/4F16/4F29 (Olfactory receptor OR1-1)	OR4F3; OR4F16; OR4F29	Homo sapiens (Human)	312		G-protein coupled receptor 1 family
+Q8NGL9	OR4CG_HUMAN	reviewed	Olfactory receptor 4C16 (Olfactory receptor OR11-135)	OR4C16	Homo sapiens (Human)	310		G-protein coupled receptor 1 family
+Q14832	GRM3_HUMAN	reviewed	Metabotropic glutamate receptor 3 (mGluR3)	GRM3 GPRC1C MGLUR3	Homo sapiens (Human)	879	1S8M;3SM9;4XAR;5CNK;5CNM;6B7H;	G-protein coupled receptor 3 family
+Q86SM5	MRGRG_HUMAN	reviewed	Mas-related G-protein coupled receptor member G (G-protein coupled receptor 169)	MRGPRG GPR169 MRGG	Homo sapiens (Human)	289		G-protein coupled receptor 1 family, Mas subfamily
+P48145	NPBW1_HUMAN	reviewed	Neuropeptides B/W receptor type 1 (G-protein coupled receptor 7)	NPBWR1 GPR7	Homo sapiens (Human)	328		G-protein coupled receptor 1 family
+Q8NH04	O2T27_HUMAN	reviewed	Olfactory receptor 2T27 (Olfactory receptor OR1-67)	OR2T27	Homo sapiens (Human)	317		G-protein coupled receptor 1 family
+Q8NGK6	O52I1_HUMAN	reviewed	Olfactory receptor 52I1 (Olfactory receptor OR11-13)	OR52I1	Homo sapiens (Human)	324		G-protein coupled receptor 1 family
+Q8NGS4	O13F1_HUMAN	reviewed	Olfactory receptor 13F1 (Olfactory receptor OR9-6)	OR13F1	Homo sapiens (Human)	319		G-protein coupled receptor 1 family
+Q8NGE0	O10AD_HUMAN	reviewed	Olfactory receptor 10AD1 (Olfactory receptor OR12-1)	OR10AD1 OR10AD1P	Homo sapiens (Human)	317		G-protein coupled receptor 1 family
+Q8NH63	O51H1_HUMAN	reviewed	Olfactory receptor 51H1 (Olfactory receptor OR11-25)	OR51H1 OR51H1P	Homo sapiens (Human)	302		G-protein coupled receptor 1 family
+Q8NH19	O10AG_HUMAN	reviewed	Olfactory receptor 10AG1 (Olfactory receptor OR11-160)	OR10AG1	Homo sapiens (Human)	301		G-protein coupled receptor 1 family
+Q15077	P2RY6_HUMAN	reviewed	P2Y purinoceptor 6 (P2Y6)	P2RY6 PP2891	Homo sapiens (Human)	328	2B6R;	G-protein coupled receptor 1 family
+P47871	GLR_HUMAN	reviewed	Glucagon receptor (GL-R)	GCGR	Homo sapiens (Human)	477	2A83;3CZF;4ERS;4L6R;4LF3;5EE7;5XEZ;	G-protein coupled receptor 2 family
+Q8NGI3	O56B1_HUMAN	reviewed	Olfactory receptor 56B1 (Olfactory receptor OR11-65)	OR56B1 OR56B1P	Homo sapiens (Human)	324		G-protein coupled receptor 1 family
+Q96RB7	OR5MB_HUMAN	reviewed	Olfactory receptor 5M11	OR5M11	Homo sapiens (Human)	305		G-protein coupled receptor 1 family
+P25929	NPY1R_HUMAN	reviewed	Neuropeptide Y receptor type 1 (NPY1-R)	NPY1R NPYR NPYY1	Homo sapiens (Human)	384	2F1U;2IIL;5ZBQ;	G-protein coupled receptor 1 family
+P21452	NK2R_HUMAN	reviewed	Substance-K receptor (SKR) (NK-2 receptor) (NK-2R) (Neurokinin A receptor) (Tachykinin receptor 2)	TACR2 NK2R NKNAR TAC2R	Homo sapiens (Human)	398		G-protein coupled receptor 1 family
+Q8NGB8	O4F15_HUMAN	reviewed	Olfactory receptor 4F15 (Olfactory receptor OR15-14)	OR4F15	Homo sapiens (Human)	312		G-protein coupled receptor 1 family
+Q8NGN5	O10G8_HUMAN	reviewed	Olfactory receptor 10G8 (Olfactory receptor OR11-282)	OR10G8	Homo sapiens (Human)	311		G-protein coupled receptor 1 family
+Q8NGC4	O10G3_HUMAN	reviewed	Olfactory receptor 10G3 (Olfactory receptor OR14-40)	OR10G3	Homo sapiens (Human)	313		G-protein coupled receptor 1 family
+A6NL08	O6C75_HUMAN	reviewed	Olfactory receptor 6C75	OR6C75	Homo sapiens (Human)	312		G-protein coupled receptor 1 family
+Q6IFN5	O7E24_HUMAN	reviewed	Olfactory receptor 7E24 (Olfactory receptor OR19-14)	OR7E24 OR7E24P	Homo sapiens (Human)	339		G-protein coupled receptor 1 family
+Q8NGI2	O52N4_HUMAN	reviewed	Olfactory receptor 52N4 (Olfactory receptor OR11-64)	OR52N4	Homo sapiens (Human)	321		G-protein coupled receptor 1 family
+P08172	ACM2_HUMAN	reviewed	Muscarinic acetylcholine receptor M2	CHRM2	Homo sapiens (Human)	466	1LUB;3UON;4MQS;4MQT;5YC8;5ZK3;5ZK8;5ZKB;5ZKC;6OIK;	G-protein coupled receptor 1 family, Muscarinic acetylcholine receptor subfamily, CHRM2 sub-subfamily
+P51679	CCR4_HUMAN	reviewed	C-C chemokine receptor type 4 (C-C CKR-4) (CC-CKR-4) (CCR-4) (CCR4) (K5-5) (CD antigen CD194)	CCR4 CMKBR4	Homo sapiens (Human)	360		G-protein coupled receptor 1 family
+Q96LB1	MRGX2_HUMAN	reviewed	Mas-related G-protein coupled receptor member X2	MRGPRX2 MRGX2	Homo sapiens (Human)	330		G-protein coupled receptor 1 family, Mas subfamily
+P28221	5HT1D_HUMAN	reviewed	5-hydroxytryptamine receptor 1D (5-HT-1D) (5-HT1D) (Serotonin 1D alpha receptor) (5-HT-1D-alpha) (Serotonin receptor 1D)	HTR1D HTR1DA HTRL	Homo sapiens (Human)	377		G-protein coupled receptor 1 family
+Q9UKL2	O52A1_HUMAN	reviewed	Olfactory receptor 52A1 (HPFH1OR) (Odorant receptor HOR3'beta4) (Olfactory receptor OR11-319)	OR52A1	Homo sapiens (Human)	312		G-protein coupled receptor 1 family
+Q8NGJ5	O51L1_HUMAN	reviewed	Olfactory receptor 51L1 (Olfactory receptor OR11-31)	OR51L1	Homo sapiens (Human)	315		G-protein coupled receptor 1 family
+A6NHA9	O4C46_HUMAN	reviewed	Olfactory receptor 4C46	OR4C46	Homo sapiens (Human)	309		G-protein coupled receptor 1 family
+Q8NGC3	O10G2_HUMAN	reviewed	Olfactory receptor 10G2	OR10G2	Homo sapiens (Human)	310		G-protein coupled receptor 1 family
+Q8NGP9	O5AR1_HUMAN	reviewed	Olfactory receptor 5AR1 (Olfactory receptor OR11-209)	OR5AR1	Homo sapiens (Human)	310		G-protein coupled receptor 1 family
+Q6IFG1	O52E8_HUMAN	reviewed	Olfactory receptor 52E8 (Olfactory receptor OR11-54)	OR52E8	Homo sapiens (Human)	317		G-protein coupled receptor 1 family
+Q8NH64	O51A7_HUMAN	reviewed	Olfactory receptor 51A7 (Olfactory receptor OR11-27)	OR51A7	Homo sapiens (Human)	312		G-protein coupled receptor 1 family
+Q9GZK7	O11A1_HUMAN	reviewed	Olfactory receptor 11A1 (Hs6M1-18) (Olfactory receptor 11A2) (Olfactory receptor OR6-30)	OR11A1 OR11A2	Homo sapiens (Human)	315		G-protein coupled receptor 1 family
+Q9H341	O51M1_HUMAN	reviewed	Olfactory receptor 51M1 (Odorant receptor HOR5'beta7) (Olfactory receptor OR11-40)	OR51M1	Homo sapiens (Human)	326		G-protein coupled receptor 1 family
+P49286	MTR1B_HUMAN	reviewed	Melatonin receptor type 1B (Mel-1B-R) (Mel1b receptor)	MTNR1B	Homo sapiens (Human)	362	6ME6;6ME7;6ME8;6ME9;	G-protein coupled receptor 1 family
+Q8NGL3	OR5DE_HUMAN	reviewed	Olfactory receptor 5D14 (Olfactory receptor OR11-141) (Olfactory receptor OR11-150)	OR5D14	Homo sapiens (Human)	314		G-protein coupled receptor 1 family
+Q96R27	OR2M4_HUMAN	reviewed	Olfactory receptor 2M4 (HTPCRX18) (OST710) (Olfactory receptor OR1-55) (Olfactory receptor TPCR100)	OR2M4	Homo sapiens (Human)	311		G-protein coupled receptor 1 family
+A6NHG9	O5H14_HUMAN	reviewed	Olfactory receptor 5H14	OR5H14	Homo sapiens (Human)	310		G-protein coupled receptor 1 family
+Q8NGZ0	O2AJ1_HUMAN	reviewed	Olfactory receptor 2AJ1	OR2AJ1 OR2AJ1P	Homo sapiens (Human)	328		G-protein coupled receptor 1 family
+Q8NH94	OR1L1_HUMAN	reviewed	Olfactory receptor 1L1 (Olfactory receptor 1L2) (Olfactory receptor 9-C) (OR9-C) (Olfactory receptor OR9-27)	OR1L1 OR1L2	Homo sapiens (Human)	360		G-protein coupled receptor 1 family
+Q8N349	OR2LD_HUMAN	reviewed	Olfactory receptor 2L13 (Olfactory receptor 2L14)	OR2L13 OR2L14	Homo sapiens (Human)	312		G-protein coupled receptor 1 family
+Q8N148	OR6V1_HUMAN	reviewed	Olfactory receptor 6V1 (Olfactory receptor OR7-3)	OR6V1	Homo sapiens (Human)	313		G-protein coupled receptor 1 family
+Q8NGT1	OR2K2_HUMAN	reviewed	Olfactory receptor 2K2 (HTPCRH06) (Olfactory receptor OR9-17)	OR2K2 OR2AR1P	Homo sapiens (Human)	316		G-protein coupled receptor 1 family
+Q8NH83	OR4A5_HUMAN	reviewed	Olfactory receptor 4A5 (Olfactory receptor OR11-111)	OR4A5	Homo sapiens (Human)	315		G-protein coupled receptor 1 family
+P41146	OPRX_HUMAN	reviewed	Nociceptin receptor (Kappa-type 3 opioid receptor) (KOR-3) (Orphanin FQ receptor)	OPRL1 OOR ORL1	Homo sapiens (Human)	370	4EA3;5DHG;5DHH;	G-protein coupled receptor 1 family
+Q8N0Y3	OR4N4_HUMAN	reviewed	Olfactory receptor 4N4 (Olfactory receptor OR15-1) (Olfactory receptor OR15-5)	OR4N4	Homo sapiens (Human)	316		G-protein coupled receptor 1 family
+Q9Y3N9	OR2W1_HUMAN	reviewed	Olfactory receptor 2W1 (Hs6M1-15) (Olfactory receptor OR6-13)	OR2W1	Homo sapiens (Human)	320		G-protein coupled receptor 1 family
+O43869	OR2T1_HUMAN	reviewed	Olfactory receptor 2T1 (Olfactory receptor 1-25) (OR1-25) (Olfactory receptor OR1-61)	OR2T1	Homo sapiens (Human)	369		G-protein coupled receptor 1 family
+Q8NGS1	OR1J4_HUMAN	reviewed	Olfactory receptor 1J4 (HTPCRX01) (Olfactory receptor OR9-21)	OR1J4	Homo sapiens (Human)	313		G-protein coupled receptor 1 family
+P0C7N5	OR8U9_HUMAN	reviewed	Olfactory receptor 8U9	OR8U9	Homo sapiens (Human)	309		G-protein coupled receptor 1 family
+Q8NGN8	OR4A4_HUMAN	reviewed	Putative olfactory receptor 4A4 (Olfactory receptor OR11-107)	OR4A4P	Homo sapiens (Human)	299		G-protein coupled receptor 1 family
+Q8NGX8	OR6Y1_HUMAN	reviewed	Olfactory receptor 6Y1 (Olfactory receptor 6Y2) (Olfactory receptor OR1-11)	OR6Y1 OR6Y2	Homo sapiens (Human)	325		G-protein coupled receptor 1 family
+Q8NGB9	OR4F6_HUMAN	reviewed	Olfactory receptor 4F6 (Olfactory receptor 4F12) (Olfactory receptor OR15-15)	OR4F6 OR4F12	Homo sapiens (Human)	312		G-protein coupled receptor 1 family
+Q8WZ84	OR8D1_HUMAN	reviewed	Olfactory receptor 8D1 (OST004) (Olfactory receptor 8D3) (Olfactory receptor OR11-301) (Olfactory receptor-like protein JCG9)	OR8D1 OR8D3	Homo sapiens (Human)	308		G-protein coupled receptor 1 family
+O76099	OR7C1_HUMAN	reviewed	Olfactory receptor 7C1 (Olfactory receptor 7C4) (Olfactory receptor OR19-16) (Olfactory receptor TPCR86)	OR7C1 OR7C4	Homo sapiens (Human)	320		G-protein coupled receptor 1 family
+Q8NGQ1	OR9G4_HUMAN	reviewed	Olfactory receptor 9G4 (Olfactory receptor OR11-216)	OR9G4	Homo sapiens (Human)	327		G-protein coupled receptor 1 family
+Q96R69	OR4F4_HUMAN	reviewed	Olfactory receptor 4F4 (HS14a-1-A) (Olfactory receptor OR19-3)	OR4F4	Homo sapiens (Human)	305		G-protein coupled receptor 1 family
+P03999	OPSB_HUMAN	reviewed	Short-wave-sensitive opsin 1 (Blue cone photoreceptor pigment) (Blue-sensitive opsin) (BOP)	OPN1SW BCP	Homo sapiens (Human)	348	1KPN;	G-protein coupled receptor 1 family, Opsin subfamily
+Q8NGE7	OR9K2_HUMAN	reviewed	Olfactory receptor 9K2 (Olfactory receptor OR12-2)	OR9K2	Homo sapiens (Human)	335		G-protein coupled receptor 1 family
+P58180	OR4D2_HUMAN	reviewed	Olfactory receptor 4D2 (B-lymphocyte membrane protein BC2009) (Olfactory receptor OR17-24)	OR4D2	Homo sapiens (Human)	307		G-protein coupled receptor 1 family
+Q8NGJ1	OR4D6_HUMAN	reviewed	Olfactory receptor 4D6 (Olfactory receptor OR11-250)	OR4D6	Homo sapiens (Human)	314		G-protein coupled receptor 1 family
+Q96G91	P2Y11_HUMAN	reviewed	P2Y purinoceptor 11 (P2Y11)	P2RY11	Homo sapiens (Human)	374	2B6S;	G-protein coupled receptor 1 family
+P21917	DRD4_HUMAN	reviewed	D(4) dopamine receptor (D(2C) dopamine receptor) (Dopamine D4 receptor)	DRD4	Homo sapiens (Human)	419	5WIU;5WIV;	G-protein coupled receptor 1 family
+P48546	GIPR_HUMAN	reviewed	Gastric inhibitory polypeptide receptor (GIP-R) (Glucose-dependent insulinotropic polypeptide receptor)	GIPR	Homo sapiens (Human)	466	2QKH;4HJ0;6DKJ;	G-protein coupled receptor 2 family
+Q9H342	O51J1_HUMAN	reviewed	Olfactory receptor 51J1 (Odorant receptor HOR5'beta8) (Olfactory receptor 51J2)	OR51J1 OR51J1P OR51J2	Homo sapiens (Human)	316		G-protein coupled receptor 1 family
+Q8NGI8	O5AN1_HUMAN	reviewed	Olfactory receptor 5AN1 (Olfactory receptor OR11-244)	OR5AN1	Homo sapiens (Human)	311		G-protein coupled receptor 1 family
+Q6IF36	O8G2P_HUMAN	reviewed	Putative olfactory receptor 8G2 (Olfactory receptor 8G4) (Olfactory receptor OR11-292) (Olfactory receptor TPCR120)	OR8G2P OR8G2 OR8G4	Homo sapiens (Human)	304		G-protein coupled receptor 1 family
+Q9H3N8	HRH4_HUMAN	reviewed	Histamine H4 receptor (H4R) (HH4R) (AXOR35) (G-protein coupled receptor 105) (GPRv53) (Pfi-013) (SP9144)	HRH4 GPCR105	Homo sapiens (Human)	390		G-protein coupled receptor 1 family
+Q8NHC7	O14CZ_HUMAN	reviewed	Olfactory receptor 14C36 (Olfactory receptor 5BF1) (Olfactory receptor OR1-59)	OR14C36 OR5BF1	Homo sapiens (Human)	312		G-protein coupled receptor 1 family
+P25021	HRH2_HUMAN	reviewed	Histamine H2 receptor (H2R) (HH2R) (Gastric receptor I)	HRH2	Homo sapiens (Human)	359		G-protein coupled receptor 1 family
+Q8NGS5	O13C4_HUMAN	reviewed	Olfactory receptor 13C4 (Olfactory receptor OR9-7)	OR13C4	Homo sapiens (Human)	318		G-protein coupled receptor 1 family
+Q8NGV5	O13D1_HUMAN	reviewed	Olfactory receptor 13D1 (Olfactory receptor OR9-15)	OR13D1	Homo sapiens (Human)	346		G-protein coupled receptor 1 family
+Q8NGA5	O10H4_HUMAN	reviewed	Olfactory receptor 10H4 (Olfactory receptor OR19-28)	OR10H4	Homo sapiens (Human)	316		G-protein coupled receptor 1 family
+O43614	OX2R_HUMAN	reviewed	Orexin receptor type 2 (Ox-2-R) (Ox2-R) (Ox2R) (Hypocretin receptor type 2)	HCRTR2	Homo sapiens (Human)	444	4S0V;5WQC;5WS3;	G-protein coupled receptor 1 family
+Q96AM1	MRGRF_HUMAN	reviewed	Mas-related G-protein coupled receptor member F (Mas-related gene F protein) (G-protein coupled receptor 140) (G-protein coupled receptor 168)	MRGPRF GPR140 GPR168 MRGF PSEC0142	Homo sapiens (Human)	343		G-protein coupled receptor 1 family, Mas subfamily
+Q15761	NPY5R_HUMAN	reviewed	Neuropeptide Y receptor type 5 (NPY5-R) (NPY-Y5 receptor) (NPYY5-R) (Y5 receptor)	NPY5R NPYR5	Homo sapiens (Human)	445	2HE6;	G-protein coupled receptor 1 family
+P34995	PE2R1_HUMAN	reviewed	Prostaglandin E2 receptor EP1 subtype (PGE receptor EP1 subtype) (PGE2 receptor EP1 subtype) (Prostanoid EP1 receptor)	PTGER1	Homo sapiens (Human)	402		G-protein coupled receptor 1 family
+Q8NFJ6	PKR2_HUMAN	reviewed	Prokineticin receptor 2 (PK-R2) (G-protein coupled receptor 73-like 1) (G-protein coupled receptor I5E) (GPR73b) (GPRg2)	PROKR2 GPR73L1 PKR2	Homo sapiens (Human)	384		G-protein coupled receptor 1 family
+B2RN74	O11HC_HUMAN	reviewed	Olfactory receptor 11H12	OR11H12	Homo sapiens (Human)	326		G-protein coupled receptor 1 family
+Q9H344	O51I2_HUMAN	reviewed	Olfactory receptor 51I2 (Odorant receptor HOR5'beta12) (Olfactory receptor OR11-38)	OR51I2	Homo sapiens (Human)	312		G-protein coupled receptor 1 family
+Q8NGC0	O5AU1_HUMAN	reviewed	Olfactory receptor 5AU1 (Olfactory receptor OR14-38)	OR5AU1	Homo sapiens (Human)	362		G-protein coupled receptor 1 family
+Q9Y5P0	O51B4_HUMAN	reviewed	Olfactory receptor 51B4 (Odorant receptor HOR5'beta1)	OR51B4	Homo sapiens (Human)	310		G-protein coupled receptor 1 family
+Q9H205	O2AG1_HUMAN	reviewed	Olfactory receptor 2AG1 (HT3) (Olfactory receptor 2AG3) (Olfactory receptor OR11-79)	OR2AG1 OR2AG3	Homo sapiens (Human)	316		G-protein coupled receptor 1 family
+Q8NHC6	O14L1_HUMAN	reviewed	Putative olfactory receptor 14L1 (Putative olfactory receptor 5AV1)	OR14L1P OR5AV1P	Homo sapiens (Human)	308		G-protein coupled receptor 1 family
+Q8NGX6	O10R2_HUMAN	reviewed	Olfactory receptor 10R2 (Olfactory receptor OR1-8)	OR10R2	Homo sapiens (Human)	335		G-protein coupled receptor 1 family
+O60404	O10H3_HUMAN	reviewed	Olfactory receptor 10H3 (Olfactory receptor OR19-24)	OR10H3	Homo sapiens (Human)	316		G-protein coupled receptor 1 family
+Q8NGK1	O51G1_HUMAN	reviewed	Olfactory receptor 51G1 (Olfactory receptor 51G3) (Olfactory receptor OR11-29)	OR51G1 OR51G3P	Homo sapiens (Human)	321		G-protein coupled receptor 1 family
+Q8NGG4	OR8H1_HUMAN	reviewed	Olfactory receptor 8H1 (Olfactory receptor OR11-180)	OR8H1	Homo sapiens (Human)	311		G-protein coupled receptor 1 family
+Q13606	OR5I1_HUMAN	reviewed	Olfactory receptor 5I1 (Olfactory receptor OR11-159) (Olfactory receptor-like protein OLF1)	OR5I1 OLF1	Homo sapiens (Human)	314		G-protein coupled receptor 1 family
+Q8NGR2	OR1L6_HUMAN	reviewed	Olfactory receptor 1L6 (Olfactory receptor 1L7) (Olfactory receptor OR9-30)	OR1L6 OR1L7	Homo sapiens (Human)	347		G-protein coupled receptor 1 family
+Q8NH06	OR1P1_HUMAN	reviewed	Olfactory receptor 1P1 (Olfactory receptor 17-208) (OR17-208) (Olfactory receptor OR17-9)	OR1P1 OR1P1P	Homo sapiens (Human)	330		G-protein coupled receptor 1 family
+Q8IXE1	OR4N5_HUMAN	reviewed	Olfactory receptor 4N5 (Olfactory receptor OR14-33)	OR4N5	Homo sapiens (Human)	308		G-protein coupled receptor 1 family
+P0C7T2	OR2T7_HUMAN	reviewed	Olfactory receptor 2T7 (OST723) (olfactory receptor OR1-44)	OR2T7 OR2T7P	Homo sapiens (Human)	308		G-protein coupled receptor 1 family
+O95221	OR5F1_HUMAN	reviewed	Olfactory receptor 5F1 (Olfactory receptor 11-10) (OR11-10) (Olfactory receptor OR11-167)	OR5F1	Homo sapiens (Human)	314		G-protein coupled receptor 1 family
+Q8NGD3	OR4K5_HUMAN	reviewed	Olfactory receptor 4K5 (Olfactory receptor OR14-16)	OR4K5	Homo sapiens (Human)	323		G-protein coupled receptor 1 family
+P0C626	OR5G3_HUMAN	reviewed	Olfactory receptor 5G3 (Olfactory receptor 5G6) (Olfactory receptor OR11-213)	OR5G3 OR5G3P OR5G6P	Homo sapiens (Human)	314		G-protein coupled receptor 1 family
+Q8NGQ5	OR9Q1_HUMAN	reviewed	Olfactory receptor 9Q1	OR9Q1	Homo sapiens (Human)	310		G-protein coupled receptor 1 family
+Q8NGA2	OR7A2_HUMAN	reviewed	Putative olfactory receptor 7A2 (Putative olfactory receptor 7A7)	OR7A2P OR7A2 OR7A7	Homo sapiens (Human)	310		G-protein coupled receptor 1 family
+Q8NGZ6	OR6F1_HUMAN	reviewed	Olfactory receptor 6F1 (Olfactory receptor OR1-38)	OR6F1	Homo sapiens (Human)	308		G-protein coupled receptor 1 family
+Q8NGP6	OR5M8_HUMAN	reviewed	Olfactory receptor 5M8 (Olfactory receptor OR11-194)	OR5M8	Homo sapiens (Human)	311		G-protein coupled receptor 1 family
+P0C7N1	OR8U8_HUMAN	reviewed	Olfactory receptor 8U8	OR8U8	Homo sapiens (Human)	319		G-protein coupled receptor 1 family
+Q96R67	OR4CC_HUMAN	reviewed	Olfactory receptor 4C12 (Olfactory receptor OR11-259)	OR4C12	Homo sapiens (Human)	309		G-protein coupled receptor 1 family
+Q9H1Y3	OPN3_HUMAN	reviewed	Opsin-3 (Encephalopsin) (Panopsin)	OPN3 ECPN	Homo sapiens (Human)	402		G-protein coupled receptor 1 family, Opsin subfamily
+Q8NHA8	OR1FC_HUMAN	reviewed	Olfactory receptor 1F12 (Hs6M1-35P)	OR1F12 OR1F12P	Homo sapiens (Human)	337		G-protein coupled receptor 1 family
+Q8NGC2	OR4E2_HUMAN	reviewed	Olfactory receptor 4E2 (Olfactory receptor OR14-42)	OR4E2	Homo sapiens (Human)	313		G-protein coupled receptor 1 family
+Q15615	OR4D1_HUMAN	reviewed	Olfactory receptor 4D1 (Olfactory receptor 4D3) (Olfactory receptor TPCR16)	OR4D1 OR4D3	Homo sapiens (Human)	310		G-protein coupled receptor 1 family
+P43115	PE2R3_HUMAN	reviewed	Prostaglandin E2 receptor EP3 subtype (PGE receptor EP3 subtype) (PGE2 receptor EP3 subtype) (PGE2-R) (Prostanoid EP3 receptor)	PTGER3	Homo sapiens (Human)	390	6AK3;6M9T;	G-protein coupled receptor 1 family
+Q969F8	KISSR_HUMAN	reviewed	KiSS-1 receptor (KiSS-1R) (G-protein coupled receptor 54) (G-protein coupled receptor OT7T175) (hOT7T175) (Hypogonadotropin-1) (Kisspeptins receptor) (Metastin receptor)	KISS1R AXOR12 GPR54	Homo sapiens (Human)	398		G-protein coupled receptor 1 family
+Q6W5P4	NPSR1_HUMAN	reviewed	Neuropeptide S receptor (G-protein coupled receptor 154) (G-protein coupled receptor PGR14) (G-protein coupled receptor for asthma susceptibility)	NPSR1 GPR154 GPRA PGR14	Homo sapiens (Human)	371		G-protein coupled receptor 1 family, Vasopressin/oxytocin receptor subfamily
+Q9UBY5	LPAR3_HUMAN	reviewed	Lysophosphatidic acid receptor 3 (LPA receptor 3) (LPA-3) (Lysophosphatidic acid receptor Edg-7)	LPAR3 EDG7 LPA3	Homo sapiens (Human)	353		G-protein coupled receptor 1 family
+Q92633	LPAR1_HUMAN	reviewed	Lysophosphatidic acid receptor 1 (LPA receptor 1) (LPA-1) (Lysophosphatidic acid receptor Edg-2)	LPAR1 EDG2 LPA1	Homo sapiens (Human)	364	4Z34;4Z35;4Z36;	G-protein coupled receptor 1 family
+P58182	O12D2_HUMAN	reviewed	Olfactory receptor 12D2 (Hs6M1-20) (Olfactory receptor OR6-28)	OR12D2	Homo sapiens (Human)	307		G-protein coupled receptor 1 family
+A6NGY5	O51F1_HUMAN	reviewed	Olfactory receptor 51F1	OR51F1 OR51F1P	Homo sapiens (Human)	319		G-protein coupled receptor 1 family
+A6NM03	O2AG2_HUMAN	reviewed	Olfactory receptor 2AG2	OR2AG2 OR2AG2P	Homo sapiens (Human)	316		G-protein coupled receptor 1 family
+Q8NG92	O13H1_HUMAN	reviewed	Olfactory receptor 13H1 (Olfactory receptor ORX-1)	OR13H1	Homo sapiens (Human)	308		G-protein coupled receptor 1 family
+Q8NGR8	OR1L8_HUMAN	reviewed	Olfactory receptor 1L8 (Olfactory receptor OR9-24)	OR1L8	Homo sapiens (Human)	309		G-protein coupled receptor 1 family
+A6NKK0	OR5H1_HUMAN	reviewed	Olfactory receptor 5H1 (HTPCRX14)	OR5H1	Homo sapiens (Human)	313		G-protein coupled receptor 1 family
+Q8NGF9	OR4X2_HUMAN	reviewed	Olfactory receptor 4X2 (Olfactory receptor OR11-105)	OR4X2	Homo sapiens (Human)	303		G-protein coupled receptor 1 family
+Q8NH00	OR2T4_HUMAN	reviewed	Olfactory receptor 2T4 (Olfactory receptor OR1-60)	OR2T4	Homo sapiens (Human)	348		G-protein coupled receptor 1 family
+P41143	OPRD_HUMAN	reviewed	Delta-type opioid receptor (D-OR-1) (DOR-1)	OPRD1 OPRD	Homo sapiens (Human)	372	1OZC;2IQM;4N6H;4RWA;4RWD;	G-protein coupled receptor 1 family
+Q9H210	OR2D2_HUMAN	reviewed	Olfactory receptor 2D2 (HB2) (Olfactory receptor 11-610) (OR11-610) (Olfactory receptor 2D1) (Olfactory receptor OR11-88)	OR2D2 OR2D1	Homo sapiens (Human)	308		G-protein coupled receptor 1 family
+O14581	OR7AH_HUMAN	reviewed	Olfactory receptor 7A17	OR7A17	Homo sapiens (Human)	309		G-protein coupled receptor 1 family
+Q8NGG1	OR8J2_HUMAN	reviewed	Olfactory receptor 8J2	OR8J2 OR8J2P	Homo sapiens (Human)	315		G-protein coupled receptor 1 family
+Q96R48	OR2A5_HUMAN	reviewed	Olfactory receptor 2A5 (Olfactory receptor 2A26) (Olfactory receptor 2A8) (Olfactory receptor 7-138/7-141) (OR7-138) (OR7-141)	OR2A5 OR2A26 OR2A8	Homo sapiens (Human)	311		G-protein coupled receptor 1 family
+Q15620	OR8B8_HUMAN	reviewed	Olfactory receptor 8B8 (Olfactory receptor TPCR85) (Olfactory-like receptor JCG8)	OR8B8	Homo sapiens (Human)	311		G-protein coupled receptor 1 family
+Q8NG85	OR2L3_HUMAN	reviewed	Olfactory receptor 2L3	OR2L3	Homo sapiens (Human)	312		G-protein coupled receptor 1 family
+Q8NGS3	OR1J1_HUMAN	reviewed	Olfactory receptor 1J1 (Olfactory receptor OR9-18)	OR1J1	Homo sapiens (Human)	322		G-protein coupled receptor 1 family
+Q8NGI9	OR5A2_HUMAN	reviewed	Olfactory receptor 5A2 (Olfactory receptor OR11-248)	OR5A2	Homo sapiens (Human)	324		G-protein coupled receptor 1 family
+P0C604	OR4A8_HUMAN	reviewed	Olfactory receptor 4A8 (Olfactory receptor OR11-110)	OR4A8 OR4A8P	Homo sapiens (Human)	315		G-protein coupled receptor 1 family
+Q9NQN1	OR2S1_HUMAN	reviewed	Olfactory receptor 2S2 (Olfactory receptor OR9-3)	OR2S2	Homo sapiens (Human)	319		G-protein coupled receptor 1 family
+Q9GZM6	OR8D2_HUMAN	reviewed	Olfactory receptor 8D2 (Olfactory receptor OR11-303) (Olfactory receptor-like protein JCG2)	OR8D2	Homo sapiens (Human)	311		G-protein coupled receptor 1 family
+P0DMU2	OR83P_HUMAN	reviewed	Putative olfactory receptor 8G3 pseudogene (Olfactory receptor OR11-297)	OR8G3P	Homo sapiens (Human)	310		G-protein coupled receptor 1 family
+Q8NGU1	OR9A1_HUMAN	reviewed	Putative olfactory receptor 9A1 (HSHTPRX06)	OR9A1P OR9A1	Homo sapiens (Human)	263		G-protein coupled receptor 1 family
+Q8NGR9	OR1N2_HUMAN	reviewed	Olfactory receptor 1N2 (Olfactory receptor OR9-23)	OR1N2	Homo sapiens (Human)	330		G-protein coupled receptor 1 family
+P58170	OR1D5_HUMAN	reviewed	Olfactory receptor 1D5 (Olfactory receptor 17-31) (OR17-31)	OR1D5	Homo sapiens (Human)	312		G-protein coupled receptor 1 family
+P0C645	OR4E1_HUMAN	reviewed	Olfactory receptor 4E1 (Olfactory receptor OR14-43)	OR4E1 OR4E1P	Homo sapiens (Human)	315		G-protein coupled receptor 1 family
+P30559	OXYR_HUMAN	reviewed	Oxytocin receptor (OT-R)	OXTR	Homo sapiens (Human)	389		G-protein coupled receptor 1 family, Vasopressin/oxytocin receptor subfamily
+O43613	OX1R_HUMAN	reviewed	Orexin receptor type 1 (Ox-1-R) (Ox1-R) (Ox1R) (Hypocretin receptor type 1)	HCRTR1	Homo sapiens (Human)	425	4ZJ8;4ZJC;	G-protein coupled receptor 1 family
+Q8NGL7	OR4P4_HUMAN	reviewed	Olfactory receptor 4P4 (Olfactory receptor 4P3)	OR4P4 OR4P3P	Homo sapiens (Human)	312		G-protein coupled receptor 1 family
+P0DN77	OPSG2_HUMAN	reviewed	Medium-wave-sensitive opsin 2 (Green cone photoreceptor pigment) (Green-sensitive opsin) (GOP) (Opsin 1 cone pigments medium-wave-sensitive 2)	OPN1MW2	Homo sapiens (Human)	364		G-protein coupled receptor 1 family, Opsin subfamily
+Q6QNK2	AGRD1_HUMAN	reviewed	Adhesion G-protein coupled receptor D1 (G-protein coupled receptor 133) (G-protein coupled receptor PGR25)	ADGRD1 GPR133 PGR25	Homo sapiens (Human)	874		G-protein coupled receptor 2 family, Adhesion G-protein coupled receptor (ADGR) subfamily
+Q8IZF7	AGRF2_HUMAN	reviewed	Adhesion G-protein coupled receptor F2 (G-protein coupled receptor 111) (G-protein coupled receptor PGR20)	ADGRF2 GPR111 PGR20	Homo sapiens (Human)	708		G-protein coupled receptor 2 family, Adhesion G-protein coupled receptor (ADGR) subfamily
+Q9HAR2	AGRL3_HUMAN	reviewed	Adhesion G protein-coupled receptor L3 (Calcium-independent alpha-latrotoxin receptor 3) (CIRL-3) (Latrophilin-3) (Lectomedin-3)	ADGRL3 KIAA0768 LEC3 LPHN3	Homo sapiens (Human)	1447	5CMN;	G-protein coupled receptor 2 family, LN-TM7 subfamily
+Q8NH05	OR4Q3_HUMAN	reviewed	Olfactory receptor 4Q3 (Olfactory receptor 4Q4) (Olfactory receptor OR14-3)	OR4Q3 C14orf13 OR4Q4	Homo sapiens (Human)	313		G-protein coupled receptor 1 family
+Q15612	OR1Q1_HUMAN	reviewed	Olfactory receptor 1Q1 (OST226) (Olfactory receptor 1Q2) (Olfactory receptor 1Q3) (Olfactory receptor 9-A) (OR9-A) (Olfactory receptor OR9-25) (Olfactory receptor TPCR106)	OR1Q1 OR1Q2 OR1Q3	Homo sapiens (Human)	314		G-protein coupled receptor 1 family
+P29371	NK3R_HUMAN	reviewed	Neuromedin-K receptor (NKR) (NK-3 receptor) (NK-3R) (Neurokinin B receptor) (Tachykinin receptor 3)	TACR3 NK3R TAC3R	Homo sapiens (Human)	465		G-protein coupled receptor 1 family
+Q8NGJ3	O52E1_HUMAN	reviewed	Olfactory receptor 52E1	OR52E1 OR52E1P	Homo sapiens (Human)	308		G-protein coupled receptor 1 family
+Q8NGQ4	O10Q1_HUMAN	reviewed	Olfactory receptor 10Q1 (Olfactory receptor OR11-233)	OR10Q1	Homo sapiens (Human)	319		G-protein coupled receptor 1 family
+Q8NHC4	O10J5_HUMAN	reviewed	Olfactory receptor 10J5 (Olfactory receptor OR1-28)	OR10J5	Homo sapiens (Human)	309		G-protein coupled receptor 1 family
+Q96RD3	O52E6_HUMAN	reviewed	Olfactory receptor 52E6 (Olfactory receptor OR11-58)	OR52E6	Homo sapiens (Human)	313		G-protein coupled receptor 1 family
+Q8NGH7	O52L1_HUMAN	reviewed	Olfactory receptor 52L1 (Olfactory receptor OR11-50)	OR52L1	Homo sapiens (Human)	329		G-protein coupled receptor 1 family
+Q8NH59	O51Q1_HUMAN	reviewed	Olfactory receptor 51Q1	OR51Q1	Homo sapiens (Human)	317		G-protein coupled receptor 1 family
+Q15743	OGR1_HUMAN	reviewed	Ovarian cancer G-protein coupled receptor 1 (OGR-1) (G-protein coupled receptor 68) (GPR12A) (Sphingosylphosphorylcholine receptor)	GPR68 OGR1	Homo sapiens (Human)	365		G-protein coupled receptor 1 family
+Q8NGU4	OR2I1_HUMAN	reviewed	Putative olfactory receptor 2I1 (Putative olfactory receptor 2I2) (Putative olfactory receptor 2I3) (Putative olfactory receptor 2I4)	OR2I1P OR2I2 OR2I3P OR2I4P	Homo sapiens (Human)	316		G-protein coupled receptor 1 family
+Q6IEU7	OR5MA_HUMAN	reviewed	Olfactory receptor 5M10 (Olfactory receptor OR11-207)	OR5M10	Homo sapiens (Human)	315		G-protein coupled receptor 1 family
+P04000	OPSR_HUMAN	reviewed	Long-wave-sensitive opsin 1 (Red cone photoreceptor pigment) (Red-sensitive opsin) (ROP)	OPN1LW RCP	Homo sapiens (Human)	364	1KPX;	G-protein coupled receptor 1 family, Opsin subfamily
+Q8NH73	OR4S2_HUMAN	reviewed	Olfactory receptor 4S2 (Olfactory receptor OR11-137)	OR4S2 OR4S2P	Homo sapiens (Human)	311		G-protein coupled receptor 1 family
+Q96R45	OR2A7_HUMAN	reviewed	Olfactory receptor 2A7 (Olfactory receptor OR7-18)	OR2A7	Homo sapiens (Human)	310		G-protein coupled receptor 1 family
+P21918	DRD5_HUMAN	reviewed	D(1B) dopamine receptor (D(5) dopamine receptor) (D1beta dopamine receptor) (Dopamine D5 receptor)	DRD5 DRD1B DRD1L2	Homo sapiens (Human)	477		G-protein coupled receptor 1 family
+P23945	FSHR_HUMAN	reviewed	Follicle-stimulating hormone receptor (FSH-R) (Follitropin receptor)	FSHR LGR1	Homo sapiens (Human)	695	1XUN;1XWD;4AY9;4MQW;	G-protein coupled receptor 1 family, FSH/LSH/TSH subfamily
+Q13607	OR2F1_HUMAN	reviewed	Olfactory receptor 2F1 (Olfactory receptor 2F3) (Olfactory receptor 2F4) (Olfactory receptor 2F5) (Olfactory receptor-like protein OLF3)	OR2F1 OLF3 OR2F3 OR2F3P OR2F4 OR2F5	Homo sapiens (Human)	317		G-protein coupled receptor 1 family
+P25103	NK1R_HUMAN	reviewed	Substance-P receptor (SPR) (NK-1 receptor) (NK-1R) (Tachykinin receptor 1)	TACR1 NK1R TAC1R	Homo sapiens (Human)	407	2KS9;2KSA;2KSB;6E59;6HLL;6HLO;6HLP;	G-protein coupled receptor 1 family
+O14626	GP171_HUMAN	reviewed	Probable G-protein coupled receptor 171 (G-protein coupled receptor H963)	GPR171 H963	Homo sapiens (Human)	319		G-protein coupled receptor 1 family
+Q7Z601	GP142_HUMAN	reviewed	Probable G-protein coupled receptor 142 (G-protein coupled receptor PGR2)	GPR142 PGR2	Homo sapiens (Human)	462		G-protein coupled receptor 1 family
+Q96CH1	GP146_HUMAN	reviewed	Probable G-protein coupled receptor 146 (G-protein coupled receptor PGR8)	GPR146 PGR8	Homo sapiens (Human)	333		G-protein coupled receptor 1 family
+Q8NGU9	GP150_HUMAN	reviewed	Probable G-protein coupled receptor 150	GPR150	Homo sapiens (Human)	434		G-protein coupled receptor 1 family
+Q9BZJ7	GPR62_HUMAN	reviewed	G-protein coupled receptor 62 (G-protein coupled receptor GPCR8) (hGPCR8) (G-protein coupled receptor KPG_005)	GPR62	Homo sapiens (Human)	368		G-protein coupled receptor 1 family
+P30968	GNRHR_HUMAN	reviewed	Gonadotropin-releasing hormone receptor (GnRH receptor) (GnRH-R)	GNRHR GRHR	Homo sapiens (Human)	328		G-protein coupled receptor 1 family
+Q8NDV2	GPR26_HUMAN	reviewed	G-protein coupled receptor 26	GPR26	Homo sapiens (Human)	337		G-protein coupled receptor 1 family
+Q49SQ1	GPR33_HUMAN	reviewed	Probable G-protein coupled receptor 33	GPR33	Homo sapiens (Human)	333		G-protein coupled receptor 1 family
+P41594	GRM5_HUMAN	reviewed	Metabotropic glutamate receptor 5 (mGluR5)	GRM5 GPRC1E MGLUR5	Homo sapiens (Human)	1212	3LMK;4OO9;5CGC;5CGD;6N4X;6N4Y;6N50;6N51;6N52;	G-protein coupled receptor 3 family
+Q8NGL0	OR5L2_HUMAN	reviewed	Olfactory receptor 5L2 (HTPCRX16) (Olfactory receptor OR11-153)	OR5L2	Homo sapiens (Human)	311		G-protein coupled receptor 1 family
+P25106	ACKR3_HUMAN	reviewed	Atypical chemokine receptor 3 (C-X-C chemokine receptor type 7) (CXC-R7) (CXCR-7) (Chemokine orphan receptor 1) (G-protein coupled receptor 159) (G-protein coupled receptor RDC1 homolog) (RDC-1)	ACKR3 CMKOR1 CXCR7 GPR159 RDC1	Homo sapiens (Human)	362		G-protein coupled receptor 1 family, Atypical chemokine receptor subfamily
+Q9H244	P2Y12_HUMAN	reviewed	P2Y purinoceptor 12 (P2Y12) (ADP-glucose receptor) (ADPG-R) (P2T(AC)) (P2Y(AC)) (P2Y(cyc)) (P2Y12 platelet ADP receptor) (P2Y(ADP)) (SP1999)	P2RY12 HORK3	Homo sapiens (Human)	342	1T78;1VZ1;1Y9C;4NTJ;4PXZ;4PY0;	G-protein coupled receptor 1 family
+P49146	NPY2R_HUMAN	reviewed	Neuropeptide Y receptor type 2 (NPY2-R) (NPY-Y2 receptor) (Y2 receptor)	NPY2R	Homo sapiens (Human)	381	2IK3;	G-protein coupled receptor 1 family
+P25100	ADA1D_HUMAN	reviewed	Alpha-1D adrenergic receptor (Alpha-1A adrenergic receptor) (Alpha-1D adrenoreceptor) (Alpha-1D adrenoceptor) (Alpha-adrenergic receptor 1a)	ADRA1D ADRA1A	Homo sapiens (Human)	572		G-protein coupled receptor 1 family, Adrenergic receptor subfamily, ADRA1D sub-subfamily
+P08588	ADRB1_HUMAN	reviewed	Beta-1 adrenergic receptor (Beta-1 adrenoreceptor) (Beta-1 adrenoceptor)	ADRB1 ADRB1R B1AR	Homo sapiens (Human)	477	2LSQ;	G-protein coupled receptor 1 family, Adrenergic receptor subfamily, ADRB1 sub-subfamily
+Q8IZF6	AGRG4_HUMAN	reviewed	Adhesion G-protein coupled receptor G4 (G-protein coupled receptor 112)	ADGRG4 GPR112	Homo sapiens (Human)	3080		G-protein coupled receptor 2 family, Adhesion G-protein coupled receptor (ADGR) subfamily
+Q96K78	AGRG7_HUMAN	reviewed	Adhesion G-protein coupled receptor G7 (G-protein coupled receptor 128)	ADGRG7 GPR128	Homo sapiens (Human)	797		G-protein coupled receptor 2 family, Adhesion G-protein coupled receptor (ADGR) subfamily
+P41968	MC3R_HUMAN	reviewed	Melanocortin receptor 3 (MC3-R)	MC3R	Homo sapiens (Human)	323		G-protein coupled receptor 1 family
+Q8TDS7	MRGRD_HUMAN	reviewed	Mas-related G-protein coupled receptor member D (Beta-alanine receptor) (G-protein coupled receptor TGR7)	MRGPRD MRGD	Homo sapiens (Human)	321		G-protein coupled receptor 1 family, Mas subfamily
+Q8NGZ9	O2T10_HUMAN	reviewed	Olfactory receptor 2T10 (Olfactory receptor OR1-64)	OR2T10	Homo sapiens (Human)	312		G-protein coupled receptor 1 family
+Q8WZ92	OR5P2_HUMAN	reviewed	Olfactory receptor 5P2 (Olfactory receptor-like protein JCG3)	OR5P2	Homo sapiens (Human)	322		G-protein coupled receptor 1 family
+Q9UHX3	AGRE2_HUMAN	reviewed	Adhesion G protein-coupled receptor E2 (EGF-like module receptor 2) (EGF-like module-containing mucin-like hormone receptor-like 2) (CD antigen CD312)	ADGRE2 EMR2	Homo sapiens (Human)	823	2BO2;2BOU;2BOX;	G-protein coupled receptor 2 family, Adhesion G-protein coupled receptor (ADGR) subfamily
+Q9HBW9	AGRL4_HUMAN	reviewed	Adhesion G protein-coupled receptor L4 (EGF, latrophilin and seven transmembrane domain-containing protein 1) (EGF-TM7-latrophilin-related protein) (ETL protein)	ADGRL4 ELTD1 ETL UNQ202/PRO228	Homo sapiens (Human)	690		G-protein coupled receptor 2 family, Adhesion G-protein coupled receptor (ADGR) subfamily
+O60755	GALR3_HUMAN	reviewed	Galanin receptor type 3 (GAL3-R) (GALR-3)	GALR3 GALNR3	Homo sapiens (Human)	368		G-protein coupled receptor 1 family
+Q99705	MCHR1_HUMAN	reviewed	Melanin-concentrating hormone receptor 1 (MCH receptor 1) (MCH-R1) (MCHR-1) (G-protein coupled receptor 24) (MCH-1R) (MCH1R) (MCHR) (SLC-1) (Somatostatin receptor-like protein)	MCHR1 GPR24 SLC1	Homo sapiens (Human)	422		G-protein coupled receptor 1 family
+Q9H2C8	O51V1_HUMAN	reviewed	Olfactory receptor 51V1 (Odorant receptor HOR3'beta1) (Olfactory receptor 51A12) (Olfactory receptor OR11-36)	OR51V1 OR51A12	Homo sapiens (Human)	321		G-protein coupled receptor 1 family
+Q8NGA8	O4F17_HUMAN	reviewed	Olfactory receptor 4F17 (Olfactory receptor 4F11) (Olfactory receptor 4F18) (Olfactory receptor 4F19)	OR4F17 OR4F11P OR4F18 OR4F19	Homo sapiens (Human)	305		G-protein coupled receptor 1 family
+Q13585	MTR1L_HUMAN	reviewed	Melatonin-related receptor (G protein-coupled receptor 50) (H9)	GPR50	Homo sapiens (Human)	617		G-protein coupled receptor 1 family
+Q96PE1	AGRA2_HUMAN	reviewed	Adhesion G protein-coupled receptor A2 (G-protein coupled receptor 124) (Tumor endothelial marker 5)	ADGRA2 GPR124 KIAA1531 TEM5	Homo sapiens (Human)	1338		G-protein coupled receptor 2 family, Adhesion G-protein coupled receptor (ADGR) subfamily
+Q8NGA4	G32P1_HUMAN	reviewed	Putative G-protein coupled receptor GPR32P1 (G-protein coupled 32 pseudogene) (G-protein coupled 32 pseudogene 1) (G-protein coupled receptor GPCR39) (hGPCR39)	GPR32P1	Homo sapiens (Human)	272		G-protein coupled receptor 1 family
+O43194	GPR39_HUMAN	reviewed	G-protein coupled receptor 39	GPR39	Homo sapiens (Human)	453		G-protein coupled receptor 1 family
+P22888	LSHR_HUMAN	reviewed	Lutropin-choriogonadotropic hormone receptor (LH/CG-R) (Luteinizing hormone receptor) (LHR) (LSH-R)	LHCGR LCGR LGR2 LHRHR	Homo sapiens (Human)	699	1LUT;1XUL;	G-protein coupled receptor 1 family, FSH/LSH/TSH subfamily
+Q969V1	MCHR2_HUMAN	reviewed	Melanin-concentrating hormone receptor 2 (MCH receptor 2) (MCH-R2) (MCHR-2) (G-protein coupled receptor 145) (GPRv17) (MCH-2R) (MCH2) (MCH2R)	MCHR2 GPR145 SLT	Homo sapiens (Human)	340		G-protein coupled receptor 1 family
+Q8IZF5	AGRF3_HUMAN	reviewed	Adhesion G-protein coupled receptor F3 (G-protein coupled receptor 113) (G-protein coupled receptor PGR23)	ADGRF3 GPR113 PGR23 UNQ9196/PRO34000	Homo sapiens (Human)	1079		G-protein coupled receptor 2 family, Adhesion G-protein coupled receptor (ADGR) subfamily
+Q9UP38	FZD1_HUMAN	reviewed	Frizzled-1 (Fz-1) (hFz1) (FzE1)	FZD1	Homo sapiens (Human)	647		G-protein coupled receptor Fz/Smo family
+Q96P66	GP101_HUMAN	reviewed	Probable G-protein coupled receptor 101	GPR101	Homo sapiens (Human)	508		G-protein coupled receptor 1 family
+Q7Z602	GP141_HUMAN	reviewed	Probable G-protein coupled receptor 141 (G-protein coupled receptor PGR13)	GPR141 PGR13	Homo sapiens (Human)	305		G-protein coupled receptor 1 family
+Q9Y2T6	GPR55_HUMAN	reviewed	G-protein coupled receptor 55	GPR55	Homo sapiens (Human)	319		G-protein coupled receptor 1 family
+P32245	MC4R_HUMAN	reviewed	Melanocortin receptor 4 (MC4-R)	MC4R	Homo sapiens (Human)	332	2IQP;2IQR;2IQS;2IQU;2IQV;2IQW;	G-protein coupled receptor 1 family
+Q9NYM4	GPR83_HUMAN	reviewed	Probable G-protein coupled receptor 83 (G-protein coupled receptor 72)	GPR83 GPR72 KIAA1540	Homo sapiens (Human)	423		G-protein coupled receptor 1 family
+P46093	GPR4_HUMAN	reviewed	G-protein coupled receptor 4 (G-protein coupled receptor 19)	GPR4	Homo sapiens (Human)	362		G-protein coupled receptor 1 family
+O15354	GPR37_HUMAN	reviewed	Prosaposin receptor GPR37 (Endothelin B receptor-like protein 1) (ETBR-LP-1) (G-protein coupled receptor 37) (Parkin-associated endothelin receptor-like receptor) (PAELR)	GPR37	Homo sapiens (Human)	613		G-protein coupled receptor 1 family
+Q9UBS5	GABR1_HUMAN	reviewed	Gamma-aminobutyric acid type B receptor subunit 1 (GABA-B receptor 1) (GABA-B-R1) (GABA-BR1) (GABABR1) (Gb1)	GABBR1 GPRC3A	Homo sapiens (Human)	961	4MQE;4MQF;4MR7;4MR8;4MR9;4MRM;4MS1;4MS3;4MS4;4PAS;6HKC;	G-protein coupled receptor 3 family, GABA-B receptor subfamily
+P43220	GLP1R_HUMAN	reviewed	Glucagon-like peptide 1 receptor (GLP-1 receptor) (GLP-1-R) (GLP-1R)	GLP1R	Homo sapiens (Human)	463	3C59;3C5T;3IOL;4ZGM;5E94;5NX2;5OTT;5OTU;5OTV;5OTW;5OTX;5VEW;5VEX;6B3J;6GB1;	G-protein coupled receptor 2 family
+Q96LB0	MRGX3_HUMAN	reviewed	Mas-related G-protein coupled receptor member X3 (Sensory neuron-specific G-protein coupled receptor 1/2)	MRGPRX3 MRGX3 SNSR1 SNSR2	Homo sapiens (Human)	322		G-protein coupled receptor 1 family, Mas subfamily
+Q8NGJ6	O51A4_HUMAN	reviewed	Olfactory receptor 51A4	OR51A4	Homo sapiens (Human)	313		G-protein coupled receptor 1 family
+Q14416	GRM2_HUMAN	reviewed	Metabotropic glutamate receptor 2 (mGluR2)	GRM2 GPRC1B MGLUR2	Homo sapiens (Human)	872	4XAQ;4XAS;5CNI;5CNJ;5KZN;5KZQ;	G-protein coupled receptor 3 family
+Q9HBW0	LPAR2_HUMAN	reviewed	Lysophosphatidic acid receptor 2 (LPA receptor 2) (LPA-2) (Lysophosphatidic acid receptor Edg-4)	LPAR2 EDG4 LPA2	Homo sapiens (Human)	351	4P0C;	G-protein coupled receptor 1 family
+A6NND4	O2AT4_HUMAN	reviewed	Olfactory receptor 2AT4 (Olfactory receptor OR11-265)	OR2AT4	Homo sapiens (Human)	320		G-protein coupled receptor 1 family
+Q8NGJ7	O51A2_HUMAN	reviewed	Olfactory receptor 51A2	OR51A2	Homo sapiens (Human)	313		G-protein coupled receptor 1 family
+P48039	MTR1A_HUMAN	reviewed	Melatonin receptor type 1A (Mel-1A-R) (Mel1a receptor)	MTNR1A	Homo sapiens (Human)	350	6ME2;6ME3;6ME4;6ME5;	G-protein coupled receptor 1 family
+Q14439	GP176_HUMAN	reviewed	G-protein coupled receptor 176 (HB-954)	GPR176	Homo sapiens (Human)	515		G-protein coupled receptor 1 family
+Q99679	GPR21_HUMAN	reviewed	Probable G-protein coupled receptor 21	GPR21	Homo sapiens (Human)	349		G-protein coupled receptor 1 family
+Q9Y5N1	HRH3_HUMAN	reviewed	Histamine H3 receptor (H3R) (HH3R) (G-protein coupled receptor 97)	HRH3 GPCR97	Homo sapiens (Human)	445		G-protein coupled receptor 1 family
+P47804	RGR_HUMAN	reviewed	RPE-retinal G protein-coupled receptor	RGR	Homo sapiens (Human)	291		G-protein coupled receptor 1 family, Opsin subfamily
+P08100	OPSD_HUMAN	reviewed	Rhodopsin (Opsin-2)	RHO OPN2	Homo sapiens (Human)	348	4ZWJ;5DGY;5W0P;6CMO;	G-protein coupled receptor 1 family, Opsin subfamily
+Q8NGY2	OR6K2_HUMAN	reviewed	Olfactory receptor 6K2 (Olfactory receptor OR1-17)	OR6K2	Homo sapiens (Human)	324		G-protein coupled receptor 1 family
+P30953	OR1E1_HUMAN	reviewed	Olfactory receptor 1E1 (Olfactory receptor 13-66) (OR13-66) (Olfactory receptor 17-2/17-32) (OR17-2) (OR17-32) (Olfactory receptor 1E5) (Olfactory receptor 1E6) (Olfactory receptor 5-85) (OR5-85) (Olfactory receptor OR17-18) (Olfactory receptor-like protein HGMP07I)	OR1E1 OR1E5 OR1E6 OR1E9P	Homo sapiens (Human)	314		G-protein coupled receptor 1 family
+Q9NZP5	O5AC2_HUMAN	reviewed	Olfactory receptor 5AC2 (HSA1)	OR5AC2	Homo sapiens (Human)	309		G-protein coupled receptor 1 family
+Q8NH67	O52I2_HUMAN	reviewed	Olfactory receptor 52I2 (Olfactory receptor OR11-12)	OR52I2	Homo sapiens (Human)	350		G-protein coupled receptor 1 family
+Q8NGI0	O52N2_HUMAN	reviewed	Olfactory receptor 52N2 (Olfactory receptor OR11-57)	OR52N2	Homo sapiens (Human)	321		G-protein coupled receptor 1 family
+Q8NGI6	OR4DA_HUMAN	reviewed	Olfactory receptor 4D10 (Olfactory receptor OR11-251)	OR4D10 OR4D10P	Homo sapiens (Human)	311		G-protein coupled receptor 1 family
+Q6IF42	OR2A2_HUMAN	reviewed	Olfactory receptor 2A2 (Olfactory receptor 2A17) (Olfactory receptor OR7-11)	OR2A2 OR2A17P OR2A2P	Homo sapiens (Human)	318		G-protein coupled receptor 1 family
+Q8NH21	OR4F5_HUMAN	reviewed	Olfactory receptor 4F5	OR4F5	Homo sapiens (Human)	305		G-protein coupled receptor 1 family
+P51582	P2RY4_HUMAN	reviewed	P2Y purinoceptor 4 (P2Y4) (P2P) (Uridine nucleotide receptor) (UNR)	P2RY4 NRU	Homo sapiens (Human)	365	2B6Q;	G-protein coupled receptor 1 family
+Q86VZ1	P2RY8_HUMAN	reviewed	P2Y purinoceptor 8 (P2Y8)	P2RY8	Homo sapiens (Human)	359		G-protein coupled receptor 1 family
+Q14831	GRM7_HUMAN	reviewed	Metabotropic glutamate receptor 7 (mGluR7)	GRM7 GPRC1G MGLUR7	Homo sapiens (Human)	915	3MQ4;5C5C;	G-protein coupled receptor 3 family
+P47900	P2RY1_HUMAN	reviewed	P2Y purinoceptor 1 (P2Y1) (ADP receptor) (Purinergic receptor)	P2RY1	Homo sapiens (Human)	373	1Y36;4XNV;4XNW;	G-protein coupled receptor 1 family
+O60403	O10H2_HUMAN	reviewed	Olfactory receptor 10H2 (Olfactory receptor OR19-23)	OR10H2	Homo sapiens (Human)	315		G-protein coupled receptor 1 family
+Q8NH74	O10A6_HUMAN	reviewed	Olfactory receptor 10A6 (Olfactory receptor OR11-96)	OR10A6	Homo sapiens (Human)	314		G-protein coupled receptor 1 family
+Q15391	P2Y14_HUMAN	reviewed	P2Y purinoceptor 14 (P2Y14) (G-protein coupled receptor 105) (UDP-glucose receptor)	P2RY14 GPR105 KIAA0001	Homo sapiens (Human)	338	2B6V;	G-protein coupled receptor 1 family
+P49683	PRLHR_HUMAN	reviewed	Prolactin-releasing peptide receptor (PrRP receptor) (PrRPR) (G-protein coupled receptor 10) (hGR3)	PRLHR GPR10 GR3	Homo sapiens (Human)	370		G-protein coupled receptor 1 family
+P28223	5HT2A_HUMAN	reviewed	5-hydroxytryptamine receptor 2A (5-HT-2) (5-HT-2A) (Serotonin receptor 2A)	HTR2A HTR2	Homo sapiens (Human)	471	6A93;6A94;	G-protein coupled receptor 1 family
+Q9NPC1	LT4R2_HUMAN	reviewed	Leukotriene B4 receptor 2 (LTB4-R 2) (LTB4-R2) (LTB4 receptor JULF2) (Leukotriene B4 receptor BLT2) (Seven transmembrane receptor BLTR2)	LTB4R2 BLT2R BLTR2	Homo sapiens (Human)	358		G-protein coupled receptor 1 family
+Q86SM8	MRGRE_HUMAN	reviewed	Mas-related G-protein coupled receptor member E (G-protein coupled receptor 167)	MRGPRE GPR167 MRGE	Homo sapiens (Human)	312		G-protein coupled receptor 1 family, Mas subfamily
+Q8NGJ4	O52E2_HUMAN	reviewed	Olfactory receptor 52E2	OR52E2	Homo sapiens (Human)	325		G-protein coupled receptor 1 family
+Q9GZQ4	NMUR2_HUMAN	reviewed	Neuromedin-U receptor 2 (NMU-R2) (G-protein coupled receptor FM-4) (G-protein coupled receptor TGR-1)	NMUR2 NMU2R TGR1	Homo sapiens (Human)	415		G-protein coupled receptor 1 family
+P50391	NPY4R_HUMAN	reviewed	Neuropeptide Y receptor type 4 (NPY4-R) (Pancreatic polypeptide receptor 1) (PP1)	NPY4R PPYR1	Homo sapiens (Human)	375	2IK5;	G-protein coupled receptor 1 family
+Q9H2C5	O52A5_HUMAN	reviewed	Olfactory receptor 52A5 (Odorant receptor HOR3'beta5) (Olfactory receptor OR11-33)	OR52A5	Homo sapiens (Human)	316		G-protein coupled receptor 1 family
+Q8NGC9	O11H4_HUMAN	reviewed	Olfactory receptor 11H4 (Olfactory receptor OR14-36)	OR11H4	Homo sapiens (Human)	324		G-protein coupled receptor 1 family
+Q9H208	O10A2_HUMAN	reviewed	Olfactory receptor 10A2 (HP4) (Olfactory receptor OR11-86)	OR10A2 OR10A2P	Homo sapiens (Human)	303		G-protein coupled receptor 1 family
+Q8NGR1	O13A1_HUMAN	reviewed	Olfactory receptor 13A1 (Olfactory receptor OR10-3)	OR13A1	Homo sapiens (Human)	328		G-protein coupled receptor 1 family
+Q8NGI1	O56B2_HUMAN	reviewed	Putative olfactory receptor 56B2	OR56B2P	Homo sapiens (Human)	322		G-protein coupled receptor 1 family
+P0C617	O5AL1_HUMAN	reviewed	Olfactory receptor 5AL1 (Olfactory receptor OR11-184)	OR5AL1 OR5AL1P	Homo sapiens (Human)	328		G-protein coupled receptor 1 family
+Q7Z3T1	OR2W3_HUMAN	reviewed	Olfactory receptor 2W3 (Olfactory receptor 2W8) (Olfactory receptor OR1-49)	OR2W3 OR2W3P OR2W8P	Homo sapiens (Human)	314		G-protein coupled receptor 1 family
+O95047	OR2A4_HUMAN	reviewed	Olfactory receptor 2A4 (Olfactory receptor 2A10) (Olfactory receptor OR6-37)	OR2A4 OR2A10	Homo sapiens (Human)	310		G-protein coupled receptor 1 family
+Q8NH51	OR8K3_HUMAN	reviewed	Olfactory receptor 8K3 (Olfactory receptor OR11-181)	OR8K3	Homo sapiens (Human)	312		G-protein coupled receptor 1 family
+Q8NGC6	OR4KH_HUMAN	reviewed	Olfactory receptor 4K17 (Olfactory receptor OR14-29)	OR4K17	Homo sapiens (Human)	315		G-protein coupled receptor 1 family
+P34982	OR1D2_HUMAN	reviewed	Olfactory receptor 1D2 (Olfactory receptor 17-4) (OR17-4) (Olfactory receptor OR17-6) (Olfactory receptor-like protein HGMP07E)	OR1D2 OLFR1	Homo sapiens (Human)	312		G-protein coupled receptor 1 family
+Q8NGW1	OR6B3_HUMAN	reviewed	Olfactory receptor 6B3 (Olfactory receptor OR2-2)	OR6B3 OR6B3P	Homo sapiens (Human)	331		G-protein coupled receptor 1 family
+Q8NGD4	OR4K1_HUMAN	reviewed	Olfactory receptor 4K1 (Olfactory receptor OR14-19)	OR4K1	Homo sapiens (Human)	311		G-protein coupled receptor 1 family
+Q8NH92	OR1S1_HUMAN	reviewed	Olfactory receptor 1S1 (Olfactory receptor OR11-232)	OR1S1	Homo sapiens (Human)	325		G-protein coupled receptor 1 family
+P41145	OPRK_HUMAN	reviewed	Kappa-type opioid receptor (K-OR-1) (KOR-1)	OPRK1 OPRK	Homo sapiens (Human)	380	2A0D;2IQN;4DJH;6B73;	G-protein coupled receptor 1 family
+Q8NGD0	OR4M1_HUMAN	reviewed	Olfactory receptor 4M1 (Olfactory receptor OR14-7)	OR4M1	Homo sapiens (Human)	313		G-protein coupled receptor 1 family
+Q8NGM1	OR4CF_HUMAN	reviewed	Olfactory receptor 4C15 (Olfactory receptor OR11-127) (Olfactory receptor OR11-134)	OR4C15	Homo sapiens (Human)	316		G-protein coupled receptor 1 family
+Q9NPG1	FZD3_HUMAN	reviewed	Frizzled-3 (Fz-3) (hFz3)	FZD3	Homo sapiens (Human)	666		G-protein coupled receptor Fz/Smo family
+Q9NQ84	GPC5C_HUMAN	reviewed	G-protein coupled receptor family C group 5 member C (Retinoic acid-induced gene 3 protein) (RAIG-3)	GPRC5C RAIG3 PSEC0087	Homo sapiens (Human)	441		G-protein coupled receptor 3 family
+Q9NSD7	RL3R1_HUMAN	reviewed	Relaxin-3 receptor 1 (RLN3 receptor 1) (G protein-coupled receptor SALPR) (G-protein coupled receptor GPCR135) (Relaxin family peptide receptor 3) (Somatostatin- and angiotensin-like peptide receptor)	RXFP3 RLN3R1 SALPR	Homo sapiens (Human)	469		G-protein coupled receptor 1 family
+Q9Y585	OR1A2_HUMAN	reviewed	Olfactory receptor 1A2 (Olfactory receptor 17-6) (OR17-6) (Olfactory receptor OR17-10)	OR1A2	Homo sapiens (Human)	309		G-protein coupled receptor 1 family
+Q9Y4A9	O10H1_HUMAN	reviewed	Olfactory receptor 10H1 (Olfactory receptor OR19-27)	OR10H1	Homo sapiens (Human)	318		G-protein coupled receptor 1 family
+Q8NGC1	O11G2_HUMAN	reviewed	Olfactory receptor 11G2 (Olfactory receptor OR14-34)	OR11G2	Homo sapiens (Human)	345		G-protein coupled receptor 1 family
+Q8NGZ2	O14K1_HUMAN	reviewed	Olfactory receptor 14K1 (Olfactory receptor 5AY1) (Olfactory receptor OR1-39)	OR14K1 OR5AY1	Homo sapiens (Human)	314		G-protein coupled receptor 1 family
+Q8NH80	O10D3_HUMAN	reviewed	Putative olfactory receptor 10D3 (HTPCRX09) (Olfactory receptor OR11-293)	OR10D3 OR10D3P	Homo sapiens (Human)	312		G-protein coupled receptor 1 family
+Q13258	PD2R_HUMAN	reviewed	Prostaglandin D2 receptor (PGD receptor) (PGD2 receptor) (Prostanoid DP receptor)	PTGDR	Homo sapiens (Human)	359		G-protein coupled receptor 1 family
+P21453	S1PR1_HUMAN	reviewed	Sphingosine 1-phosphate receptor 1 (S1P receptor 1) (S1P1) (Endothelial differentiation G-protein coupled receptor 1) (Sphingosine 1-phosphate receptor Edg-1) (S1P receptor Edg-1) (CD antigen CD363)	S1PR1 CHEDG1 EDG1	Homo sapiens (Human)	382	3V2W;3V2Y;	G-protein coupled receptor 1 family
+O95977	S1PR4_HUMAN	reviewed	Sphingosine 1-phosphate receptor 4 (S1P receptor 4) (S1P4) (Endothelial differentiation G-protein coupled receptor 6) (Sphingosine 1-phosphate receptor Edg-6) (S1P receptor Edg-6)	S1PR4 EDG6	Homo sapiens (Human)	384	2DCO;	G-protein coupled receptor 1 family
+Q9NYW4	TA2R5_HUMAN	reviewed	Taste receptor type 2 member 5 (T2R5)	TAS2R5	Homo sapiens (Human)	299		G-protein coupled receptor T2R family
+P59537	T2R43_HUMAN	reviewed	Taste receptor type 2 member 43 (T2R43) (Taste receptor type 2 member 52) (T2R52)	TAS2R43	Homo sapiens (Human)	309		G-protein coupled receptor T2R family
+Q9P1P4	TAAR3_HUMAN	reviewed	Putative trace amine-associated receptor 3 (TaR-3) (Trace amine receptor 3) (hTaar3) (G-protein coupled receptor 57)	TAAR3P GPR57 TAAR3	Homo sapiens (Human)	343		G-protein coupled receptor 1 family
+Q9NYW2	TA2R8_HUMAN	reviewed	Taste receptor type 2 member 8 (T2R8) (Taste receptor family B member 5) (TRB5)	TAS2R8	Homo sapiens (Human)	309		G-protein coupled receptor T2R family
+Q96RI9	TAAR9_HUMAN	reviewed	Trace amine-associated receptor 9 (TaR-9) (Trace amine receptor 9) (Trace amine receptor 3) (TaR-3)	TAAR9 TA3 TAR3 TRAR3	Homo sapiens (Human)	348		G-protein coupled receptor 1 family
+Q01726	MSHR_HUMAN	reviewed	Melanocyte-stimulating hormone receptor (MSH-R) (Melanocortin receptor 1) (MC1-R)	MC1R MSHR	Homo sapiens (Human)	317		G-protein coupled receptor 1 family
+Q8NGA1	OR1M1_HUMAN	reviewed	Olfactory receptor 1M1 (Olfactory receptor 19-6) (OR19-6) (Olfactory receptor OR19-5)	OR1M1	Homo sapiens (Human)	313		G-protein coupled receptor 1 family
+P48146	NPBW2_HUMAN	reviewed	Neuropeptides B/W receptor type 2 (G-protein coupled receptor 8)	NPBWR2 GPR8	Homo sapiens (Human)	333		G-protein coupled receptor 1 family
+Q8NH08	O10AC_HUMAN	reviewed	Olfactory receptor 10AC1 (Olfactory receptor OR7-5)	OR10AC1 OR10AC1P	Homo sapiens (Human)	325		G-protein coupled receptor 1 family
+Q9H343	O51I1_HUMAN	reviewed	Olfactory receptor 51I1 (Odorant receptor HOR5'beta11) (Olfactory receptor OR11-39)	OR51I1	Homo sapiens (Human)	314		G-protein coupled receptor 1 family
+P43088	PF2R_HUMAN	reviewed	Prostaglandin F2-alpha receptor (PGF receptor) (PGF2-alpha receptor) (Prostanoid FP receptor)	PTGFR	Homo sapiens (Human)	359		G-protein coupled receptor 1 family
+Q8NFJ5	RAI3_HUMAN	reviewed	Retinoic acid-induced protein 3 (G-protein coupled receptor family C group 5 member A) (Phorbol ester induced gene 1) (PEIG-1) (Retinoic acid-induced gene 1 protein) (RAIG-1)	GPRC5A GPCR5A RAI3 RAIG1	Homo sapiens (Human)	357		G-protein coupled receptor 3 family
+P43119	PI2R_HUMAN	reviewed	Prostacyclin receptor (Prostaglandin I2 receptor) (PGI receptor) (PGI2 receptor) (Prostanoid IP receptor)	PTGIR PRIPR	Homo sapiens (Human)	386		G-protein coupled receptor 1 family
+P59536	T2R41_HUMAN	reviewed	Taste receptor type 2 member 41 (T2R41) (Taste receptor type 2 member 59) (T2R59)	TAS2R41	Homo sapiens (Human)	307		G-protein coupled receptor T2R family
+Q8NGH5	O56A1_HUMAN	reviewed	Olfactory receptor 56A1 (Olfactory receptor OR11-75)	OR56A1	Homo sapiens (Human)	318		G-protein coupled receptor 1 family
+Q7RTX0	TS1R3_HUMAN	reviewed	Taste receptor type 1 member 3 (Sweet taste receptor T1R3)	TAS1R3 T1R3 TR3	Homo sapiens (Human)	852		G-protein coupled receptor 3 family, TAS1R subfamily
+Q9H346	O52D1_HUMAN	reviewed	Olfactory receptor 52D1 (Odorant receptor HOR5'beta14) (Olfactory receptor OR11-43)	OR52D1	Homo sapiens (Human)	318		G-protein coupled receptor 1 family
+Q8NGY0	O10X1_HUMAN	reviewed	Olfactory receptor 10X1 (Olfactory receptor OR1-14)	OR10X1 OR10X1P	Homo sapiens (Human)	326		G-protein coupled receptor 1 family
+P35408	PE2R4_HUMAN	reviewed	Prostaglandin E2 receptor EP4 subtype (PGE receptor EP4 subtype) (PGE2 receptor EP4 subtype) (Prostanoid EP4 receptor)	PTGER4 PTGER2	Homo sapiens (Human)	488	5YHL;5YWY;	G-protein coupled receptor 1 family
+P30939	5HT1F_HUMAN	reviewed	5-hydroxytryptamine receptor 1F (5-HT-1F) (5-HT1F) (Serotonin receptor 1F)	HTR1F HTR1EL	Homo sapiens (Human)	366		G-protein coupled receptor 1 family
+P28335	5HT2C_HUMAN	reviewed	5-hydroxytryptamine receptor 2C (5-HT-2C) (5-HT2C) (5-HTR2C) (5-hydroxytryptamine receptor 1C) (5-HT-1C) (5-HT1C) (Serotonin receptor 2C)	HTR2C HTR1C	Homo sapiens (Human)	458	6BQG;6BQH;	G-protein coupled receptor 1 family
+Q5T601	AGRF1_HUMAN	reviewed	Adhesion G-protein coupled receptor F1 (G protein-coupled receptor 110) (G protein-coupled receptor KPG_012) (G protein-coupled receptor PGR19)	ADGRF1 GPR110 PGR19	Homo sapiens (Human)	910		G-protein coupled receptor 2 family, Adhesion G-protein coupled receptor (ADGR) subfamily
+Q13324	CRFR2_HUMAN	reviewed	Corticotropin-releasing factor receptor 2 (CRF-R-2) (CRF-R2) (CRFR-2) (Corticotropin-releasing hormone receptor 2) (CRH-R-2) (CRH-R2)	CRHR2 CRF2R CRH2R	Homo sapiens (Human)	411	3N93;3N95;3N96;	G-protein coupled receptor 2 family
+P50406	5HT6R_HUMAN	reviewed	5-hydroxytryptamine receptor 6 (5-HT-6) (5-HT6) (Serotonin receptor 6)	HTR6	Homo sapiens (Human)	440		G-protein coupled receptor 1 family
+O60241	AGRB2_HUMAN	reviewed	Adhesion G protein-coupled receptor B2 (Brain-specific angiogenesis inhibitor 2)	ADGRB2 BAI2	Homo sapiens (Human)	1585		G-protein coupled receptor 2 family, Adhesion G-protein coupled receptor (ADGR) subfamily
+P32238	CCKAR_HUMAN	reviewed	Cholecystokinin receptor type A (CCK-A receptor) (CCK-AR) (Cholecystokinin-1 receptor) (CCK1-R)	CCKAR CCKRA	Homo sapiens (Human)	428	1D6G;1HZN;1PB2;	G-protein coupled receptor 1 family
+O00590	ACKR2_HUMAN	reviewed	Atypical chemokine receptor 2 (C-C chemokine receptor D6) (Chemokine receptor CCR-10) (Chemokine receptor CCR-9) (Chemokine-binding protein 2) (Chemokine-binding protein D6)	ACKR2 CCBP2 CCR10 CMKBR9 D6	Homo sapiens (Human)	384		G-protein coupled receptor 1 family, Atypical chemokine receptor subfamily
+Q14246	AGRE1_HUMAN	reviewed	Adhesion G protein-coupled receptor E1 (EGF-like module receptor 1) (EGF-like module-containing mucin-like hormone receptor-like 1) (EMR1 hormone receptor)	ADGRE1 EMR1 TM7LN3	Homo sapiens (Human)	886		G-protein coupled receptor 2 family, Adhesion G-protein coupled receptor (ADGR) subfamily
+O60242	AGRB3_HUMAN	reviewed	Adhesion G protein-coupled receptor B3 (Brain-specific angiogenesis inhibitor 3)	ADGRB3 BAI3 KIAA0550	Homo sapiens (Human)	1522	4DLO;	G-protein coupled receptor 2 family, Adhesion G-protein coupled receptor (ADGR) subfamily
+Q16570	ACKR1_HUMAN	reviewed	Atypical chemokine receptor 1 (Duffy antigen/chemokine receptor) (Fy glycoprotein) (GpFy) (Glycoprotein D) (Plasmodium vivax receptor) (CD antigen CD234)	ACKR1 DARC FY GPD	Homo sapiens (Human)	336	4NUU;4NUV;	G-protein coupled receptor 1 family, Atypical chemokine receptor subfamily
+P21728	DRD1_HUMAN	reviewed	D(1A) dopamine receptor (Dopamine D1 receptor)	DRD1	Homo sapiens (Human)	446	1OZ5;	G-protein coupled receptor 1 family
+O75084	FZD7_HUMAN	reviewed	Frizzled-7 (Fz-7) (hFz7) (FzE3)	FZD7	Homo sapiens (Human)	574	4Z33;5T44;5URV;5WBS;6NE2;6NE4;6O3A;6O3B;	G-protein coupled receptor Fz/Smo family
+P08912	ACM5_HUMAN	reviewed	Muscarinic acetylcholine receptor M5	CHRM5	Homo sapiens (Human)	532		G-protein coupled receptor 1 family, Muscarinic acetylcholine receptor subfamily, CHRM5 sub-subfamily
+P51684	CCR6_HUMAN	reviewed	C-C chemokine receptor type 6 (C-C CKR-6) (CC-CKR-6) (CCR-6) (Chemokine receptor-like 3) (CKR-L3) (DRY6) (G-protein coupled receptor 29) (GPR-CY4) (GPRCY4) (LARC receptor) (CD antigen CD196)	CCR6 CKRL3 CMKBR6 GPR29 STRL22	Homo sapiens (Human)	374		G-protein coupled receptor 1 family
+P49238	CX3C1_HUMAN	reviewed	CX3C chemokine receptor 1 (C-X3-C CKR-1) (CX3CR1) (Beta chemokine receptor-like 1) (CMK-BRL-1) (CMK-BRL1) (Fractalkine receptor) (G-protein coupled receptor 13) (V28)	CX3CR1 CMKBRL1 GPR13	Homo sapiens (Human)	355		G-protein coupled receptor 1 family
+P29275	AA2BR_HUMAN	reviewed	Adenosine receptor A2b	ADORA2B	Homo sapiens (Human)	332		G-protein coupled receptor 1 family
+P28566	5HT1E_HUMAN	reviewed	5-hydroxytryptamine receptor 1E (5-HT-1E) (5-HT1E) (S31) (Serotonin receptor 1E)	HTR1E	Homo sapiens (Human)	365		G-protein coupled receptor 1 family
+Q7Z7M1	AGRD2_HUMAN	reviewed	Adhesion G-protein coupled receptor D2 (G-protein coupled receptor 144) (G-protein coupled receptor PGR24)	ADGRD2 GPR144 PGR24	Homo sapiens (Human)	963		G-protein coupled receptor 2 family, Adhesion G-protein coupled receptor (ADGR) subfamily
+Q9ULV1	FZD4_HUMAN	reviewed	Frizzled-4 (Fz-4) (hFz4) (FzE4) (CD antigen CD344)	FZD4	Homo sapiens (Human)	537	5BPB;5BPQ;5BQC;5BQE;5CL1;5CM4;5UWG;6NE1;	G-protein coupled receptor Fz/Smo family
+Q8TDV5	GP119_HUMAN	reviewed	Glucose-dependent insulinotropic receptor (G-protein coupled receptor 119)	GPR119	Homo sapiens (Human)	335		G-protein coupled receptor 1 family
+O60883	G37L1_HUMAN	reviewed	G-protein coupled receptor 37-like 1 (Endothelin B receptor-like protein 2) (ETBR-LP-2)	GPR37L1 ETBRLP2	Homo sapiens (Human)	481		G-protein coupled receptor 1 family
+O00144	FZD9_HUMAN	reviewed	Frizzled-9 (Fz-9) (hFz9) (FzE6) (CD antigen CD349)	FZD9 FZD3	Homo sapiens (Human)	591		G-protein coupled receptor Fz/Smo family
+Q01718	ACTHR_HUMAN	reviewed	Adrenocorticotropic hormone receptor (ACTH receptor) (ACTH-R) (Adrenocorticotropin receptor) (Melanocortin receptor 2) (MC2-R)	MC2R ACTHR	Homo sapiens (Human)	297		G-protein coupled receptor 1 family
+P32246	CCR1_HUMAN	reviewed	C-C chemokine receptor type 1 (C-C CKR-1) (CC-CKR-1) (CCR-1) (CCR1) (HM145) (LD78 receptor) (Macrophage inflammatory protein 1-alpha receptor) (MIP-1alpha-R) (RANTES-R) (CD antigen CD191)	CCR1 CMKBR1 CMKR1 SCYAR1	Homo sapiens (Human)	355	1Y5D;	G-protein coupled receptor 1 family
+P41595	5HT2B_HUMAN	reviewed	5-hydroxytryptamine receptor 2B (5-HT-2B) (5-HT2B) (Serotonin receptor 2B)	HTR2B	Homo sapiens (Human)	481	4IB4;4NC3;5TUD;5TVN;6DRX;6DRY;6DRZ;6DS0;	G-protein coupled receptor 1 family
+P08173	ACM4_HUMAN	reviewed	Muscarinic acetylcholine receptor M4	CHRM4	Homo sapiens (Human)	479	5DSG;6D9H;	G-protein coupled receptor 1 family, Muscarinic acetylcholine receptor subfamily, CHRM4 sub-subfamily
+O95838	GLP2R_HUMAN	reviewed	Glucagon-like peptide 2 receptor (GLP-2 receptor) (GLP-2-R) (GLP-2R)	GLP2R	Homo sapiens (Human)	553		G-protein coupled receptor 2 family
+Q96P88	GNRR2_HUMAN	reviewed	Putative gonadotropin-releasing hormone II receptor (GnRH II receptor) (GnRH-II-R) (Type II GnRH receptor)	GNRHR2	Homo sapiens (Human)	292		G-protein coupled receptor 1 family
+Q8IZF3	AGRF4_HUMAN	reviewed	Adhesion G protein-coupled receptor F4 (G-protein coupled receptor 115) (G-protein coupled receptor PGR18)	ADGRF4 GPR115 PGR18	Homo sapiens (Human)	695		G-protein coupled receptor 2 family, Adhesion G-protein coupled receptor (ADGR) subfamily
+Q9NYQ7	CELR3_HUMAN	reviewed	Cadherin EGF LAG seven-pass G-type receptor 3 (Cadherin family member 11) (Epidermal growth factor-like protein 1) (EGF-like protein 1) (Flamingo homolog 1) (hFmi1) (Multiple epidermal growth factor-like domains protein 2) (Multiple EGF-like domains protein 2)	CELSR3 CDHF11 EGFL1 FMI1 KIAA0812 MEGF2	Homo sapiens (Human)	3312		G-protein coupled receptor 2 family, LN-TM7 subfamily
+P46091	GPR1_HUMAN	reviewed	G-protein coupled receptor 1	GPR1	Homo sapiens (Human)	355		G-protein coupled receptor 1 family
+P47898	5HT5A_HUMAN	reviewed	5-hydroxytryptamine receptor 5A (5-HT-5) (5-HT-5A) (5-HT5A) (Serotonin receptor 5A)	HTR5A	Homo sapiens (Human)	357		G-protein coupled receptor 1 family
+O14843	FFAR3_HUMAN	reviewed	Free fatty acid receptor 3 (G-protein coupled receptor 41)	FFAR3 GPR41	Homo sapiens (Human)	346		G-protein coupled receptor 1 family
+Q8TDT2	GP152_HUMAN	reviewed	Probable G-protein coupled receptor 152 (G-protein coupled receptor PGR5)	GPR152 PGR5	Homo sapiens (Human)	470		G-protein coupled receptor 1 family
+Q5NUL3	FFAR4_HUMAN	reviewed	Free fatty acid receptor 4 (G-protein coupled receptor 120) (G-protein coupled receptor 129) (G-protein coupled receptor GT01) (G-protein coupled receptor PGR4) (Omega-3 fatty acid receptor 1)	FFAR4 GPR120 GPR129 O3FAR1 PGR4	Homo sapiens (Human)	377		G-protein coupled receptor 1 family
+Q9BY21	GPR87_HUMAN	reviewed	G-protein coupled receptor 87 (G-protein coupled receptor 95)	GPR87 GPR95 FKSG78	Homo sapiens (Human)	358		G-protein coupled receptor 1 family
+P51810	GP143_HUMAN	reviewed	G-protein coupled receptor 143 (Ocular albinism type 1 protein)	GPR143 OA1	Homo sapiens (Human)	404		G-protein coupled receptor OA family
+Q6PRD1	GP179_HUMAN	reviewed	Probable G-protein coupled receptor 179 (Probable G-protein coupled receptor 158-like 1) (GPR158-like)	GPR179 GPR158L GPR158L1	Homo sapiens (Human)	2367		G-protein coupled receptor 3 family
+Q9GZN0	GPR88_HUMAN	reviewed	Probable G-protein coupled receptor 88 (Striatum-specific G-protein coupled receptor)	GPR88 STRG	Homo sapiens (Human)	384		G-protein coupled receptor 1 family
+O00222	GRM8_HUMAN	reviewed	Metabotropic glutamate receptor 8 (mGluR8)	GRM8 GPRC1H MGLUR8	Homo sapiens (Human)	908	6BSZ;6BT5;6E5V;	G-protein coupled receptor 3 family
+Q8IWK6	AGRA3_HUMAN	reviewed	Adhesion G protein-coupled receptor A3 (G-protein coupled receptor 125)	ADGRA3 GPR125 UNQ556/PRO1113	Homo sapiens (Human)	1321		G-protein coupled receptor 2 family, Adhesion G-protein coupled receptor (ADGR) subfamily
+Q99678	GPR20_HUMAN	reviewed	G-protein coupled receptor 20	GPR20	Homo sapiens (Human)	358		G-protein coupled receptor 1 family
+O15218	GP182_HUMAN	reviewed	G-protein coupled receptor 182	GPR182 ADMR	Homo sapiens (Human)	404		G-protein coupled receptor 1 family
+Q99680	GPR22_HUMAN	reviewed	G-protein coupled receptor 22	GPR22	Homo sapiens (Human)	433		G-protein coupled receptor 1 family
+Q02643	GHRHR_HUMAN	reviewed	Growth hormone-releasing hormone receptor (GHRH receptor) (Growth hormone-releasing factor receptor) (GRF receptor) (GRFR)	GHRHR	Homo sapiens (Human)	423	2XDG;	G-protein coupled receptor 2 family
+Q9NS66	GP173_HUMAN	reviewed	Probable G-protein coupled receptor 173 (Super conserved receptor expressed in brain 3)	GPR173 SREB3	Homo sapiens (Human)	373		G-protein coupled receptor 1 family
+O95800	GPR75_HUMAN	reviewed	Probable G-protein coupled receptor 75	GPR75	Homo sapiens (Human)	540		G-protein coupled receptor 1 family
+P18089	ADA2B_HUMAN	reviewed	Alpha-2B adrenergic receptor (Alpha-2 adrenergic receptor subtype C2) (Alpha-2B adrenoreceptor) (Alpha-2B adrenoceptor) (Alpha-2BAR)	ADRA2B ADRA2L1 ADRA2RL1	Homo sapiens (Human)	450	2CVA;	G-protein coupled receptor 1 family, Adrenergic receptor subfamily, ADRA2B sub-subfamily
+Q5T848	GP158_HUMAN	reviewed	Probable G-protein coupled receptor 158	GPR158 KIAA1136	Homo sapiens (Human)	1215		G-protein coupled receptor 3 family
+Q9Y271	CLTR1_HUMAN	reviewed	Cysteinyl leukotriene receptor 1 (CysLTR1) (Cysteinyl leukotriene D4 receptor) (LTD4 receptor) (G-protein coupled receptor HG55) (HMTMF81)	CYSLTR1 CYSLT1	Homo sapiens (Human)	337		G-protein coupled receptor 1 family
+P14416	DRD2_HUMAN	reviewed	D(2) dopamine receptor (Dopamine D2 receptor)	DRD2	Homo sapiens (Human)	443	1I15;5AER;6CM4;	G-protein coupled receptor 1 family
+O75899	GABR2_HUMAN	reviewed	Gamma-aminobutyric acid type B receptor subunit 2 (GABA-B receptor 2) (GABA-B-R2) (GABA-BR2) (GABABR2) (Gb2) (G-protein coupled receptor 51) (HG20)	GABBR2 GPR51 GPRC3B	Homo sapiens (Human)	941	4F11;4F12;4MQE;4MQF;4MR7;4MR8;4MR9;4MRM;4MS1;4MS3;4MS4;4PAS;6M8R;6OCP;	G-protein coupled receptor 3 family, GABA-B receptor subfamily
+Q8NGN2	O10S1_HUMAN	reviewed	Olfactory receptor 10S1 (Olfactory receptor OR11-279)	OR10S1	Homo sapiens (Human)	331		G-protein coupled receptor 1 family
+Q8NGY7	O10J6_HUMAN	reviewed	Putative olfactory receptor 10J6	OR10J6P OR10J6	Homo sapiens (Human)	276		G-protein coupled receptor 1 family
+Q9UHM6	OPN4_HUMAN	reviewed	Melanopsin (Opsin-4)	OPN4 MOP	Homo sapiens (Human)	478		G-protein coupled receptor 1 family, Opsin subfamily
+Q8NGV0	OR2Y1_HUMAN	reviewed	Olfactory receptor 2Y1 (Olfactory receptor OR5-2)	OR2Y1	Homo sapiens (Human)	311		G-protein coupled receptor 1 family
+Q9UGF5	O14J1_HUMAN	reviewed	Olfactory receptor 14J1 (Hs6M1-28) (Olfactory receptor 5U1) (Olfactory receptor OR6-25)	OR14J1 OR5U1	Homo sapiens (Human)	321		G-protein coupled receptor 1 family
+Q8NGH8	O56A4_HUMAN	reviewed	Olfactory receptor 56A4 (Olfactory receptor OR11-49)	OR56A4	Homo sapiens (Human)	313		G-protein coupled receptor 1 family
+P58181	O10A3_HUMAN	reviewed	Olfactory receptor 10A3 (HTPCRX12) (Olfactory receptor OR11-97)	OR10A3	Homo sapiens (Human)	314		G-protein coupled receptor 1 family
+Q8NGT7	O2A12_HUMAN	reviewed	Olfactory receptor 2A12 (Olfactory receptor OR7-10)	OR2A12 OR2A12P	Homo sapiens (Human)	310		G-protein coupled receptor 1 family
+Q8NGN6	O10G7_HUMAN	reviewed	Olfactory receptor 10G7 (Olfactory receptor OR11-283)	OR10G7	Homo sapiens (Human)	311		G-protein coupled receptor 1 family
+Q8NH60	O52J3_HUMAN	reviewed	Olfactory receptor 52J3 (Olfactory receptor OR11-32)	OR52J3	Homo sapiens (Human)	311		G-protein coupled receptor 1 family
+Q8NH07	O11H2_HUMAN	reviewed	Olfactory receptor 11H2 (Olfactory receptor OR14-1)	OR11H2 C14orf15 OR11H2P	Homo sapiens (Human)	326		G-protein coupled receptor 1 family
+A6NMS3	OR5K4_HUMAN	reviewed	Olfactory receptor 5K4	OR5K4	Homo sapiens (Human)	321		G-protein coupled receptor 1 family
+Q9UGF6	OR5V1_HUMAN	reviewed	Olfactory receptor 5V1 (Hs6M1-21) (Olfactory receptor OR6-26)	OR5V1	Homo sapiens (Human)	321		G-protein coupled receptor 1 family
+Q8NGV7	OR5H2_HUMAN	reviewed	Olfactory receptor 5H2 (Olfactory receptor OR3-10)	OR5H2	Homo sapiens (Human)	314		G-protein coupled receptor 1 family
+Q8NH41	OR4KF_HUMAN	reviewed	Olfactory receptor 4K15 (Olfactory receptor OR14-20)	OR4K15	Homo sapiens (Human)	348		G-protein coupled receptor 1 family
+Q8NHB1	OR2V1_HUMAN	reviewed	Olfactory receptor 2V1	OR2V1	Homo sapiens (Human)	315		G-protein coupled receptor 1 family
+P47888	OR3A3_HUMAN	reviewed	Olfactory receptor 3A3 (Olfactory receptor 17-201) (OR17-201) (Olfactory receptor 3A6) (Olfactory receptor 3A7) (Olfactory receptor 3A8) (Olfactory receptor OR17-22)	OR3A3 OR3A6 OR3A7 OR3A8P	Homo sapiens (Human)	321		G-protein coupled receptor 1 family
+Q8N0Y5	OR8I2_HUMAN	reviewed	Olfactory receptor 8I2 (Olfactory receptor OR11-170)	OR8I2	Homo sapiens (Human)	310		G-protein coupled receptor 1 family
+Q8NGG3	OR5T3_HUMAN	reviewed	Olfactory receptor 5T3 (Olfactory receptor OR11-178)	OR5T3	Homo sapiens (Human)	340		G-protein coupled receptor 1 family
+O95222	OR6A2_HUMAN	reviewed	Olfactory receptor 6A2 (Olfactory receptor 11-55) (OR11-55) (Olfactory receptor 6A1) (Olfactory receptor OR11-83) (hP2 olfactory receptor)	OR6A2 OR6A1 OR6A2P	Homo sapiens (Human)	327		G-protein coupled receptor 1 family
+Q96R30	OR2V2_HUMAN	reviewed	Olfactory receptor 2V2 (Olfactory receptor 2V3) (Olfactory receptor OR5-3)	OR2V2 OR2V3	Homo sapiens (Human)	315		G-protein coupled receptor 1 family
+Q8NH72	OR4C6_HUMAN	reviewed	Olfactory receptor 4C6 (Olfactory receptor OR11-138)	OR4C6	Homo sapiens (Human)	309		G-protein coupled receptor 1 family
+Q8NH18	OR5J2_HUMAN	reviewed	Olfactory receptor 5J2 (Olfactory receptor OR11-266)	OR5J2	Homo sapiens (Human)	312		G-protein coupled receptor 1 family
+P47893	OR3A2_HUMAN	reviewed	Olfactory receptor 3A2 (Olfactory receptor 17-228) (OR17-228) (Olfactory receptor OR17-14)	OR3A2 OLFRA04	Homo sapiens (Human)	321		G-protein coupled receptor 1 family
+Q8NGW6	OR6K6_HUMAN	reviewed	Olfactory receptor 6K6 (Olfactory receptor OR1-21)	OR6K6	Homo sapiens (Human)	343		G-protein coupled receptor 1 family
+Q8NH16	OR2L2_HUMAN	reviewed	Olfactory receptor 2L2 (HTPCRH07) (Olfactory receptor 2L12) (Olfactory receptor 2L4)	OR2L2 OR2L12 OR2L4P	Homo sapiens (Human)	312		G-protein coupled receptor 1 family
+Q8NGV6	OR5H6_HUMAN	reviewed	Olfactory receptor 5H6 (Olfactory receptor OR3-11)	OR5H6	Homo sapiens (Human)	325		G-protein coupled receptor 1 family
+Q8NGR3	OR1K1_HUMAN	reviewed	Olfactory receptor 1K1	OR1K1	Homo sapiens (Human)	316		G-protein coupled receptor 1 family
+Q6IFH4	OR6B2_HUMAN	reviewed	Olfactory receptor 6B2 (Olfactory receptor OR2-1)	OR6B2 OR6B2P	Homo sapiens (Human)	312		G-protein coupled receptor 1 family
+Q8NGG5	OR8K1_HUMAN	reviewed	Olfactory receptor 8K1 (Olfactory receptor OR11-182)	OR8K1	Homo sapiens (Human)	319		G-protein coupled receptor 1 family
+Q8NGX9	OR6P1_HUMAN	reviewed	Olfactory receptor 6P1 (Olfactory receptor OR1-12)	OR6P1	Homo sapiens (Human)	317		G-protein coupled receptor 1 family
+Q8NGU2	OR9A4_HUMAN	reviewed	Olfactory receptor 9A4 (Olfactory receptor OR7-1)	OR9A4	Homo sapiens (Human)	314		G-protein coupled receptor 1 family
+Q8NGJ9	O51T1_HUMAN	reviewed	Olfactory receptor 51T1 (Olfactory receptor OR11-26)	OR51T1	Homo sapiens (Human)	327		G-protein coupled receptor 1 family
+Q8NGX5	O10K1_HUMAN	reviewed	Olfactory receptor 10K1 (Olfactory receptor OR1-6)	OR10K1	Homo sapiens (Human)	313		G-protein coupled receptor 1 family
+P04001	OPSG_HUMAN	reviewed	Medium-wave-sensitive opsin 1 (Green cone photoreceptor pigment) (Green-sensitive opsin) (GOP)	OPN1MW GCP	Homo sapiens (Human)	364	1KPW;	G-protein coupled receptor 1 family, Opsin subfamily
+Q8NGT9	OR2A1_HUMAN	reviewed	Olfactory receptor 2A1/2A42 (Olfactory receptor OR7-16) (Olfactory receptor OR7-19)	OR2A1; OR2A42	Homo sapiens (Human)	310		G-protein coupled receptor 1 family
+Q9HB89	NMUR1_HUMAN	reviewed	Neuromedin-U receptor 1 (NMU-R1) (G-protein coupled receptor 66) (G-protein coupled receptor FM-3)	NMUR1 GPR66	Homo sapiens (Human)	426		G-protein coupled receptor 1 family
+Q99463	NPY6R_HUMAN	reviewed	Putative neuropeptide Y receptor type 6 (NPY6-R) (NPY Y1-like receptor) (Putative pancreatic polypeptide receptor 2) (PP2)	NPY6R NPY1RL Y2B	Homo sapiens (Human)	290		G-protein coupled receptor 1 family
+Q8NH95	O13C6_HUMAN	reviewed	Putative olfactory receptor 13C6 (Olfactory receptor, family 13, subfamily C, member 6 pseudogene) (Olfactory receptor, family 13, subfamily C, member 7 pseudogene) (Putative olfactory receptor 13C7)	OR13C6P	Homo sapiens (Human)	151		G-protein coupled receptor 1 family
+Q8NH89	O5AK3_HUMAN	reviewed	Putative olfactory receptor 5AK3	OR5AK3P OR5AK3	Homo sapiens (Human)	298		G-protein coupled receptor 1 family
+P43116	PE2R2_HUMAN	reviewed	Prostaglandin E2 receptor EP2 subtype (PGE receptor EP2 subtype) (PGE2 receptor EP2 subtype) (Prostanoid EP2 receptor)	PTGER2	Homo sapiens (Human)	358		G-protein coupled receptor 1 family
+Q9H228	S1PR5_HUMAN	reviewed	Sphingosine 1-phosphate receptor 5 (S1P receptor 5) (S1P5) (Endothelial differentiation G-protein-coupled receptor 8) (Sphingosine 1-phosphate receptor Edg-8) (S1P receptor Edg-8)	S1PR5 EDG8	Homo sapiens (Human)	398		G-protein coupled receptor 1 family
+P59538	T2R31_HUMAN	reviewed	Taste receptor type 2 member 31 (T2R31) (Taste receptor type 2 member 44) (T2R44) (Taste receptor type 2 member 53) (T2R53)	TAS2R31 TAS2R44	Homo sapiens (Human)	309		G-protein coupled receptor T2R family
+P31391	SSR4_HUMAN	reviewed	Somatostatin receptor type 4 (SS-4-R) (SS4-R) (SS4R)	SSTR4	Homo sapiens (Human)	388		G-protein coupled receptor 1 family
+P47901	V1BR_HUMAN	reviewed	Vasopressin V1b receptor (V1bR) (AVPR V1b) (AVPR V3) (Antidiuretic hormone receptor 1b) (Vasopressin V3 receptor)	AVPR1B AVPR3 VPR3	Homo sapiens (Human)	424		G-protein coupled receptor 1 family, Vasopressin/oxytocin receptor subfamily
+A6ND48	O14I1_HUMAN	reviewed	Olfactory receptor 14I1 (Olfactory receptor 5BU1)	OR14I1 OR5BU1 OR5BU1P	Homo sapiens (Human)	311		G-protein coupled receptor 1 family
+P30989	NTR1_HUMAN	reviewed	Neurotensin receptor type 1 (NT-R-1) (NTR1) (High-affinity levocabastine-insensitive neurotensin receptor) (NTRH)	NTSR1 NTRR	Homo sapiens (Human)	418	2LYW;	G-protein coupled receptor 1 family, Neurotensin receptor subfamily, NTSR1 sub-subfamily
+Q8NGS7	O13C8_HUMAN	reviewed	Olfactory receptor 13C8	OR13C8	Homo sapiens (Human)	320		G-protein coupled receptor 1 family
+Q8NGA6	O10H5_HUMAN	reviewed	Olfactory receptor 10H5 (Olfactory receptor OR19-25) (Olfactory receptor OR19-26)	OR10H5	Homo sapiens (Human)	315		G-protein coupled receptor 1 family
+P47884	OR1D4_HUMAN	reviewed	Olfactory receptor 1D4 (Olfactory receptor 17-30) (OR17-30)	OR1D4	Homo sapiens (Human)	311		G-protein coupled receptor 1 family
+Q96R09	OR5B2_HUMAN	reviewed	Olfactory receptor 5B2 (OST073) (Olfactory receptor OR11-240)	OR5B2	Homo sapiens (Human)	309		G-protein coupled receptor 1 family
+Q8N628	OR2C3_HUMAN	reviewed	Olfactory receptor 2C3 (Olfactory receptor 2C4) (Olfactory receptor 2C5) (Olfactory receptor OR1-30)	OR2C3 OR2C4 OR2C5P	Homo sapiens (Human)	320		G-protein coupled receptor 1 family
+O76100	OR7AA_HUMAN	reviewed	Olfactory receptor 7A10 (OST027) (Olfactory receptor OR19-18)	OR7A10	Homo sapiens (Human)	309		G-protein coupled receptor 1 family
+Q9GZK4	OR2H1_HUMAN	reviewed	Olfactory receptor 2H1 (Hs6M1-16) (OLFR42A-9004.14/9026.2) (Olfactory receptor 2H6) (Olfactory receptor 2H8) (Olfactory receptor 6-2) (OR6-2) (Olfactory receptor OR6-32)	OR2H1 OR2H6 OR2H8	Homo sapiens (Human)	316		G-protein coupled receptor 1 family
+Q15617	OR8G1_HUMAN	reviewed	Olfactory receptor 8G1 (Olfactory receptor OR11-281) (Olfactory receptor TPCR25)	OR8G1 OR8G1P	Homo sapiens (Human)	311		G-protein coupled receptor 1 family
+Q8NGP8	OR5M1_HUMAN	reviewed	Olfactory receptor 5M1 (OST050) (Olfactory receptor OR11-208)	OR5M1	Homo sapiens (Human)	315		G-protein coupled receptor 1 family
+A6NH00	OR2T8_HUMAN	reviewed	Olfactory receptor 2T8	OR2T8 OR2T8P	Homo sapiens (Human)	312		G-protein coupled receptor 1 family
+Q9NZP2	OR6C2_HUMAN	reviewed	Olfactory receptor 6C2 (HSA3)	OR6C2	Homo sapiens (Human)	312		G-protein coupled receptor 1 family
+Q8NHB8	OR5K2_HUMAN	reviewed	Olfactory receptor 5K2 (Olfactory receptor OR3-9)	OR5K2	Homo sapiens (Human)	316		G-protein coupled receptor 1 family
+Q8NGM8	OR6M1_HUMAN	reviewed	Olfactory receptor 6M1 (Olfactory receptor OR11-271)	OR6M1	Homo sapiens (Human)	313		G-protein coupled receptor 1 family
+Q15619	OR1C1_HUMAN	reviewed	Olfactory receptor 1C1 (Olfactory receptor OR1-42) (Olfactory receptor TPCR27)	OR1C1	Homo sapiens (Human)	314		G-protein coupled receptor 1 family
+P0C7N8	OR9G9_HUMAN	reviewed	Olfactory receptor 9G9	OR9G9	Homo sapiens (Human)	305		G-protein coupled receptor 1 family
+Q8NGN0	OR4D5_HUMAN	reviewed	Olfactory receptor 4D5 (Olfactory receptor OR11-276)	OR4D5	Homo sapiens (Human)	318		G-protein coupled receptor 1 family
+Q8NGS9	O13C2_HUMAN	reviewed	Olfactory receptor 13C2 (Olfactory receptor OR9-12)	OR13C2	Homo sapiens (Human)	318		G-protein coupled receptor 1 family
+Q9NYV9	T2R13_HUMAN	reviewed	Taste receptor type 2 member 13 (T2R13) (Taste receptor family B member 3) (TRB3)	TAS2R13	Homo sapiens (Human)	303		G-protein coupled receptor T2R family
+P59534	T2R39_HUMAN	reviewed	Taste receptor type 2 member 39 (T2R39) (Taste receptor type 2 member 57) (T2R57)	TAS2R39	Homo sapiens (Human)	338	2GFZ;	G-protein coupled receptor T2R family
+O95136	S1PR2_HUMAN	reviewed	Sphingosine 1-phosphate receptor 2 (S1P receptor 2) (S1P2) (Endothelial differentiation G-protein coupled receptor 5) (Sphingosine 1-phosphate receptor Edg-5) (S1P receptor Edg-5)	S1PR2 EDG5	Homo sapiens (Human)	353	1ZTI;	G-protein coupled receptor 1 family
+P47872	SCTR_HUMAN	reviewed	Secretin receptor (SCT-R)	SCTR	Homo sapiens (Human)	440		G-protein coupled receptor 2 family
+Q9NYV7	T2R16_HUMAN	reviewed	Taste receptor type 2 member 16 (T2R16)	TAS2R16	Homo sapiens (Human)	291		G-protein coupled receptor T2R family
+Q8TCB6	O51E1_HUMAN	reviewed	Olfactory receptor 51E1 (D-GPCR) (G-protein coupled receptor 164) (Olfactory receptor 52A3) (Prostate-overexpressed G protein-coupled receptor) (Prostate-specific G protein-coupled receptor 2)	OR51E1 GPR164 OR51E1P OR52A3P POGR PSGR2	Homo sapiens (Human)	317		G-protein coupled receptor 1 family
+Q8NGS8	O13C5_HUMAN	reviewed	Olfactory receptor 13C5 (Olfactory receptor OR9-11)	OR13C5	Homo sapiens (Human)	318		G-protein coupled receptor 1 family
+Q8NH02	O2T29_HUMAN	reviewed	Olfactory receptor 2T29	OR2T29	Homo sapiens (Human)	315		G-protein coupled receptor 1 family
+Q8NGK0	O51G2_HUMAN	reviewed	Olfactory receptor 51G2 (Olfactory receptor OR11-28)	OR51G2	Homo sapiens (Human)	314		G-protein coupled receptor 1 family
+Q8TCW9	PKR1_HUMAN	reviewed	Prokineticin receptor 1 (PK-R1) (G-protein coupled receptor 73) (G-protein coupled receptor ZAQ) (GPR73a)	PROKR1 GPR73 PKR1	Homo sapiens (Human)	393		G-protein coupled receptor 1 family
+Q16538	GP162_HUMAN	reviewed	Probable G-protein coupled receptor 162 (Gene-rich cluster gene A protein)	GPR162 GRCA	Homo sapiens (Human)	588		G-protein coupled receptor 1 family
+Q8TDV2	GP148_HUMAN	reviewed	Probable G-protein coupled receptor 148 (Brain and testis restricted GPCR) (G-protein coupled receptor PGR6)	GPR148 BTR PGR6	Homo sapiens (Human)	347		G-protein coupled receptor 1 family
+Q9Y2T5	GPR52_HUMAN	reviewed	G-protein coupled receptor 52	GPR52	Homo sapiens (Human)	361		G-protein coupled receptor 1 family
+Q9NS67	GPR27_HUMAN	reviewed	Probable G-protein coupled receptor 27 (Super conserved receptor expressed in brain 1)	GPR27 SREB1	Homo sapiens (Human)	375		G-protein coupled receptor 1 family
+P30542	AA1R_HUMAN	reviewed	Adenosine receptor A1	ADORA1	Homo sapiens (Human)	326	5N2S;5UEN;6D9H;	G-protein coupled receptor 1 family
+P29274	AA2AR_HUMAN	reviewed	Adenosine receptor A2a	ADORA2A ADORA2	Homo sapiens (Human)	412	1MMH;1UPE;2YDO;2YDV;3EML;3PWH;3QAK;3REY;3RFM;3UZA;3UZC;3VG9;3VGA;4EIY;4UG2;4UHR;5G53;5IU4;5IU7;5IU8;5IUA;5IUB;5JTB;5K2A;5K2B;5K2C;5K2D;5MZJ;5MZP;5N2R;5NLX;5NM2;5NM4;5OLG;5OLH;5OLO;5OLV;5OLZ;5OM1;5OM4;5UIG;5UVI;5VRA;5WF5;5WF6;6AQF;6GDG;6MH8;	G-protein coupled receptor 1 family
+P32248	CCR7_HUMAN	reviewed	C-C chemokine receptor type 7 (C-C CKR-7) (CC-CKR-7) (CCR-7) (BLR2) (CDw197) (Epstein-Barr virus-induced G-protein coupled receptor 1) (EBI1) (EBV-induced G-protein coupled receptor 1) (MIP-3 beta receptor) (CD antigen CD197)	CCR7 CMKBR7 EBI1 EVI1	Homo sapiens (Human)	378		G-protein coupled receptor 1 family
+Q9ULW2	FZD10_HUMAN	reviewed	Frizzled-10 (Fz-10) (hFz10) (FzE7) (CD antigen CD350)	FZD10	Homo sapiens (Human)	581		G-protein coupled receptor Fz/Smo family
+Q96P67	GPR82_HUMAN	reviewed	Probable G-protein coupled receptor 82	GPR82	Homo sapiens (Human)	336		G-protein coupled receptor 1 family
+Q86SQ3	AGRE4_HUMAN	reviewed	Putative adhesion G protein-coupled receptor E4P (EGF-like module receptor 4) (EGF-like module-containing mucin-like hormone receptor-like 4) (G-protein coupled receptor 127) (G-protein coupled receptor PGR16)	ADGRE4P EMR4 EMR4P GPR127 PGR16	Homo sapiens (Human)	457		G-protein coupled receptor 2 family, Adhesion G-protein coupled receptor (ADGR) subfamily
+Q99788	CML1_HUMAN	reviewed	Chemokine-like receptor 1 (G-protein coupled receptor ChemR23) (G-protein coupled receptor DEZ)	CMKLR1 CHEMR23 DEZ	Homo sapiens (Human)	373		G-protein coupled receptor 1 family
+P61073	CXCR4_HUMAN	reviewed	C-X-C chemokine receptor type 4 (CXC-R4) (CXCR-4) (FB22) (Fusin) (HM89) (LCR1) (Leukocyte-derived seven transmembrane domain receptor) (LESTR) (Lipopolysaccharide-associated protein 3) (LAP-3) (LPS-associated protein 3) (NPYRL) (Stromal cell-derived factor 1 receptor) (SDF-1 receptor) (CD antigen CD184)	CXCR4	Homo sapiens (Human)	352	2K03;2K04;2K05;2N55;3ODU;3OE0;3OE6;3OE8;3OE9;4RWS;	G-protein coupled receptor 1 family
+P25025	CXCR2_HUMAN	reviewed	C-X-C chemokine receptor type 2 (CXC-R2) (CXCR-2) (CDw128b) (GRO/MGSA receptor) (High affinity interleukin-8 receptor B) (IL-8R B) (IL-8 receptor type 2) (CD antigen CD182)	CXCR2 IL8RB	Homo sapiens (Human)	360	4Q3H;5TYT;	G-protein coupled receptor 1 family
+P35414	APJ_HUMAN	reviewed	Apelin receptor (Angiotensin receptor-like 1) (G-protein coupled receptor APJ) (G-protein coupled receptor HG11)	APLNR AGTRL1 APJ	Homo sapiens (Human)	380	2LOT;2LOU;2LOV;2LOW;5VBL;	G-protein coupled receptor 1 family
+P35348	ADA1A_HUMAN	reviewed	Alpha-1A adrenergic receptor (Alpha-1A adrenoreceptor) (Alpha-1A adrenoceptor) (Alpha-1C adrenergic receptor) (Alpha-adrenergic receptor 1c)	ADRA1A ADRA1C	Homo sapiens (Human)	466		G-protein coupled receptor 1 family, Adrenergic receptor subfamily, ADRA1A sub-subfamily
+P46092	CCR10_HUMAN	reviewed	C-C chemokine receptor type 10 (C-C CKR-10) (CC-CKR-10) (CCR-10) (G-protein coupled receptor 2)	CCR10 GPR2	Homo sapiens (Human)	362		G-protein coupled receptor 1 family
+P20309	ACM3_HUMAN	reviewed	Muscarinic acetylcholine receptor M3	CHRM3	Homo sapiens (Human)	590	2CSA;	G-protein coupled receptor 1 family, Muscarinic acetylcholine receptor subfamily, CHRM3 sub-subfamily
+Q9HCU4	CELR2_HUMAN	reviewed	Cadherin EGF LAG seven-pass G-type receptor 2 (Cadherin family member 10) (Epidermal growth factor-like protein 2) (EGF-like protein 2) (Flamingo homolog 3) (Multiple epidermal growth factor-like domains protein 3) (Multiple EGF-like domains protein 3)	CELSR2 CDHF10 EGFL2 KIAA0279 MEGF3	Homo sapiens (Human)	2923		G-protein coupled receptor 2 family, LN-TM7 subfamily
+P08908	5HT1A_HUMAN	reviewed	5-hydroxytryptamine receptor 1A (5-HT-1A) (5-HT1A) (G-21) (Serotonin receptor 1A)	HTR1A ADRB2RL1 ADRBRL1	Homo sapiens (Human)	422		G-protein coupled receptor 1 family, 5-hydroxytryptamine receptor subfamily, HTR1A sub-subfamily
+P50052	AGTR2_HUMAN	reviewed	Type-2 angiotensin II receptor (Angiotensin II type-2 receptor) (AT2)	AGTR2	Homo sapiens (Human)	363	5UNF;5UNG;5UNH;	G-protein coupled receptor 1 family
+Q8IZF2	AGRF5_HUMAN	reviewed	Adhesion G protein-coupled receptor F5 (G-protein coupled receptor 116)	ADGRF5 GPR116 KIAA0758	Homo sapiens (Human)	1346		G-protein coupled receptor 2 family, Adhesion G-protein coupled receptor (ADGR) subfamily
+Q8IZP9	AGRG2_HUMAN	reviewed	Adhesion G-protein coupled receptor G2 (G-protein coupled receptor 64) (Human epididymis-specific protein 6) (He6)	ADGRG2 GPR64 HE6 TM7LN2	Homo sapiens (Human)	1017		G-protein coupled receptor 2 family, Adhesion G-protein coupled receptor (ADGR) subfamily
+P34998	CRFR1_HUMAN	reviewed	Corticotropin-releasing factor receptor 1 (CRF-R-1) (CRF-R1) (CRFR-1) (Corticotropin-releasing hormone receptor 1) (CRH-R-1) (CRH-R1)	CRHR1 CRFR CRFR1 CRHR	Homo sapiens (Human)	444	2L27;3EHS;3EHT;3EHU;4K5Y;4Z9G;	G-protein coupled receptor 2 family
+P34969	5HT7R_HUMAN	reviewed	5-hydroxytryptamine receptor 7 (5-HT-7) (5-HT7) (5-HT-X) (Serotonin receptor 7)	HTR7	Homo sapiens (Human)	479		G-protein coupled receptor 1 family
+Q8WXG9	AGRV1_HUMAN	reviewed	Adhesion G-protein coupled receptor V1 (ADGRV1) (EC 3.4.-.-) (G-protein coupled receptor 98) (Monogenic audiogenic seizure susceptibility protein 1 homolog) (Usher syndrome type-2C protein) (Very large G-protein coupled receptor 1) [Cleaved into: ADGRV1 subunit alpha; ADGRV1 subunit beta]	ADGRV1 GPR98 KIAA0686 KIAA1943 MASS1 VLGR1	Homo sapiens (Human)	6306		G-protein coupled receptor 2 family, Adhesion G-protein coupled receptor (ADGR) subfamily
+Q96LA9	MRGX4_HUMAN	reviewed	Mas-related G-protein coupled receptor member X4 (Sensory neuron-specific G-protein coupled receptor 5/6)	MRGPRX4 MRGX4 SNSR5 SNSR6	Homo sapiens (Human)	322		G-protein coupled receptor 1 family, Mas subfamily
+P04201	MAS_HUMAN	reviewed	Proto-oncogene Mas	MAS1 MAS	Homo sapiens (Human)	325		G-protein coupled receptor 1 family
+Q8TDU9	RL3R2_HUMAN	reviewed	Relaxin-3 receptor 2 (RLN3 receptor 2) (G-protein coupled receptor 100) (G-protein coupled receptor GPCR142) (Insulin-like peptide INSL5 receptor) (Relaxin family peptide receptor 4)	RXFP4 GPR100 RLN3R2	Homo sapiens (Human)	374		G-protein coupled receptor 1 family
+Q96R54	O14A2_HUMAN	reviewed	Olfactory receptor 14A2 (Olfactory receptor 5AX1) (Olfactory receptor OR1-31)	OR14A2 OR5AX1 OR5AX1P	Homo sapiens (Human)	314		G-protein coupled receptor 1 family
+Q5JRS4	O10J3_HUMAN	reviewed	Olfactory receptor 10J3	OR10J3 OR10J3P	Homo sapiens (Human)	329		G-protein coupled receptor 1 family
+Q8NH76	O56B4_HUMAN	reviewed	Olfactory receptor 56B4 (Olfactory receptor OR11-67)	OR56B4	Homo sapiens (Human)	319		G-protein coupled receptor 1 family
+P41586	PACR_HUMAN	reviewed	Pituitary adenylate cyclase-activating polypeptide type I receptor (PACAP type I receptor) (PACAP-R-1) (PACAP-R1)	ADCYAP1R1	Homo sapiens (Human)	468	2JOD;3N94;	G-protein coupled receptor 2 family
+O95013	O4F21_HUMAN	reviewed	Olfactory receptor 4F21	OR4F21 OR4F21P	Homo sapiens (Human)	312		G-protein coupled receptor 1 family
+Q9H255	O51E2_HUMAN	reviewed	Olfactory receptor 51E2 (HPRAJ) (Olfactory receptor OR11-16) (Prostate-specific G-protein coupled receptor)	OR51E2 PSGR	Homo sapiens (Human)	320		G-protein coupled receptor 1 family
+P0C646	O52Z1_HUMAN	reviewed	Olfactory receptor 52Z1	OR52Z1 OR52Z1P	Homo sapiens (Human)	298		G-protein coupled receptor 1 family
+Q8NGL6	O4A15_HUMAN	reviewed	Olfactory receptor 4A15 (Olfactory receptor OR11-118)	OR4A15	Homo sapiens (Human)	344		G-protein coupled receptor 1 family
+Q8NGX3	O10T2_HUMAN	reviewed	Olfactory receptor 10T2 (Olfactory receptor OR1-3)	OR10T2	Homo sapiens (Human)	314		G-protein coupled receptor 1 family
+Q9H209	O10A4_HUMAN	reviewed	Olfactory receptor 10A4 (HP2) (Olfactory receptor-like protein JCG5)	OR10A4 OR10A4P	Homo sapiens (Human)	315		G-protein coupled receptor 1 family
+Q8NGD5	OR4KE_HUMAN	reviewed	Olfactory receptor 4K14 (Olfactory receptor OR14-22)	OR4K14	Homo sapiens (Human)	310		G-protein coupled receptor 1 family
+Q8NH48	OR5B3_HUMAN	reviewed	Olfactory receptor 5B3 (Olfactory receptor 5B13) (Olfactory receptor OR11-239)	OR5B3 OR5B13	Homo sapiens (Human)	314		G-protein coupled receptor 1 family
+Q8NGC5	OR6J1_HUMAN	reviewed	Olfactory receptor 6J1 (Olfactory receptor 6J2)	OR6J1 OR6J2	Homo sapiens (Human)	347		G-protein coupled receptor 1 family
+Q8NG97	OR2Z1_HUMAN	reviewed	Olfactory receptor 2Z1 (Olfactory receptor 2Z2) (Olfactory receptor OR19-4)	OR2Z1 OR2Z2	Homo sapiens (Human)	314		G-protein coupled receptor 1 family
+Q8NGG7	OR8A1_HUMAN	reviewed	Olfactory receptor 8A1 (OST025) (Olfactory receptor OR11-318)	OR8A1	Homo sapiens (Human)	326		G-protein coupled receptor 1 family
+Q8NG98	OR7D4_HUMAN	reviewed	Olfactory receptor 7D4 (OR19-B) (Odorant receptor family subfamily D member 4RT) (Olfactory receptor OR19-7)	OR7D4 OR7D4P	Homo sapiens (Human)	312		G-protein coupled receptor 1 family
+Q96RD1	OR6C1_HUMAN	reviewed	Olfactory receptor 6C1 (OST267)	OR6C1	Homo sapiens (Human)	312		G-protein coupled receptor 1 family
+Q6IEV9	OR4CB_HUMAN	reviewed	Olfactory receptor 4C11 (Olfactory receptor OR11-136)	OR4C11 OR4C11P	Homo sapiens (Human)	310		G-protein coupled receptor 1 family
+Q96R84	OR1F2_HUMAN	reviewed	Putative olfactory receptor 1F2 (OLFmf2)	OR1F2P OR1F2	Homo sapiens (Human)	312		G-protein coupled receptor 1 family
+Q9P1Q5	OR1A1_HUMAN	reviewed	Olfactory receptor 1A1 (Olfactory receptor 17-7) (OR17-7) (Olfactory receptor OR17-11)	OR1A1	Homo sapiens (Human)	309		G-protein coupled receptor 1 family
+Q8NH03	OR2T3_HUMAN	reviewed	Olfactory receptor 2T3	OR2T3	Homo sapiens (Human)	318		G-protein coupled receptor 1 family
+Q8NG81	OR2M7_HUMAN	reviewed	Olfactory receptor 2M7 (Olfactory receptor OR1-58)	OR2M7	Homo sapiens (Human)	312		G-protein coupled receptor 1 family
+Q15622	OR7A5_HUMAN	reviewed	Olfactory receptor 7A5 (Olfactory receptor OR19-17) (Olfactory receptor TPCR92)	OR7A5	Homo sapiens (Human)	319		G-protein coupled receptor 1 family
+Q8NG80	OR2L5_HUMAN	reviewed	Olfactory receptor 2L5 (Olfactory receptor 2L11) (Olfactory receptor OR1-53)	OR2L5 OR2L11	Homo sapiens (Human)	312		G-protein coupled receptor 1 family
+Q8NGA0	OR7G1_HUMAN	reviewed	Olfactory receptor 7G1 (Olfactory receptor 19-15) (OR19-15) (Olfactory receptor OR19-8)	OR7G1 OR7G1P	Homo sapiens (Human)	311		G-protein coupled receptor 1 family
+Q8NH43	OR4L1_HUMAN	reviewed	Olfactory receptor 4L1 (Olfactory receptor 4L2) (Olfactory receptor OR14-28)	OR4L1 OR4L2P	Homo sapiens (Human)	312		G-protein coupled receptor 1 family
+Q99835	SMO_HUMAN	reviewed	Smoothened homolog (SMO) (Protein Gx)	SMO SMOH	Homo sapiens (Human)	787	4JKV;4N4W;4O9R;4QIM;4QIN;5L7D;5L7I;5V56;5V57;	G-protein coupled receptor Fz/Smo family
+P30518	V2R_HUMAN	reviewed	Vasopressin V2 receptor (V2R) (AVPR V2) (Antidiuretic hormone receptor) (Renal-type arginine vasopressin receptor)	AVPR2 ADHR DIR DIR3 V2R	Homo sapiens (Human)	371	4JQI;	G-protein coupled receptor 1 family, Vasopressin/oxytocin receptor subfamily
+Q9HBX9	RXFP1_HUMAN	reviewed	Relaxin receptor 1 (Leucine-rich repeat-containing G-protein coupled receptor 7) (Relaxin family peptide receptor 1)	RXFP1 LGR7	Homo sapiens (Human)	757	2JM4;2M7P;	G-protein coupled receptor 1 family
+P35346	SSR5_HUMAN	reviewed	Somatostatin receptor type 5 (SS-5-R) (SS5-R) (SS5R)	SSTR5	Homo sapiens (Human)	364		G-protein coupled receptor 1 family
+P32745	SSR3_HUMAN	reviewed	Somatostatin receptor type 3 (SS-3-R) (SS3-R) (SS3R) (SSR-28)	SSTR3	Homo sapiens (Human)	418		G-protein coupled receptor 1 family
+Q8NFZ6	VN1R2_HUMAN	reviewed	Vomeronasal type-1 receptor 2 (G-protein coupled receptor GPCR25) (hGPCR25) (V1r-like receptor 2)	VN1R2 V1RL2	Homo sapiens (Human)	395		G-protein coupled receptor 1 family
+P16473	TSHR_HUMAN	reviewed	Thyrotropin receptor (Thyroid-stimulating hormone receptor) (TSH-R)	TSHR LGR3	Homo sapiens (Human)	764	1XUM;2XWT;3G04;	G-protein coupled receptor 1 family, FSH/LSH/TSH subfamily
+Q9UKP6	UR2R_HUMAN	reviewed	Urotensin-2 receptor (UR-2-R) (G-protein coupled receptor 14) (Urotensin II receptor) (UR-II-R)	UTS2R GPR14	Homo sapiens (Human)	389		G-protein coupled receptor 1 family
+P30872	SSR1_HUMAN	reviewed	Somatostatin receptor type 1 (SS-1-R) (SS1-R) (SS1R) (SRIF-2)	SSTR1	Homo sapiens (Human)	391		G-protein coupled receptor 1 family
+P34981	TRFR_HUMAN	reviewed	Thyrotropin-releasing hormone receptor (TRH-R) (Thyroliberin receptor)	TRHR	Homo sapiens (Human)	398		G-protein coupled receptor 1 family
+Q8NGI7	O10V1_HUMAN	reviewed	Olfactory receptor 10V1 (Olfactory receptor OR11-256)	OR10V1	Homo sapiens (Human)	309		G-protein coupled receptor 1 family
+P25116	PAR1_HUMAN	reviewed	Proteinase-activated receptor 1 (PAR-1) (Coagulation factor II receptor) (Thrombin receptor)	F2R CF2R PAR1 TR	Homo sapiens (Human)	425	1NRN;1NRO;1NRP;1NRQ;1NRR;3BEF;3HKI;3HKJ;3LU9;3VW7;	G-protein coupled receptor 1 family
+Q9BXE9	VN1R3_HUMAN	reviewed	Vomeronasal type-1 receptor 3 (V1r-like receptor 3)	VN1R3 V1RL3 FKSG46	Homo sapiens (Human)	311		G-protein coupled receptor 1 family

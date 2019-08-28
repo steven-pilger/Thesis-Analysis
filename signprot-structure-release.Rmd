@@ -1,0 +1,22 @@
+---
+title: "Signprot in Complex Structure Release"
+output: 'html_document'
+---
+
+```{r, include=FALSE}
+library(tidyverse)
+```
+
+
+```{r}
+df <- read_csv('../data/signprot_data/signprot_release.csv') %>% 
+    mutate(year = format(pub_date, "%Y")) %>%
+    mutate(date = as.Date(paste0(year, "-01","-01"),"%Y-%m-%d"))
+
+df %>% 
+    ggplot(aes(x=date)) +
+    geom_bar() +
+    scale_x_date(date_breaks = "1 year", date_labels = "%Y") +
+    theme_minimal()
+```
+

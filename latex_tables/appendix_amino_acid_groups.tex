@@ -1,0 +1,69 @@
+\begin{table}[H]
+\centering\n\caption[Sequence Signature Features and their Corresponding Amino Acids]{Sequence Signature Features and their Corresponding Amino Acids}
+\label{tbl:amino_acid_groups}
+\resizebox{\textwidth}{!}{%
+ \begin{tabular}{llll}
+\toprule
+                                    Name & Feature Code & Sidechain Length &                   Amino Acids \\
+\midrule
+                             Hydrophobic &           HY &              any &  A, C, F, I, L, M, P, V, W, Y \\
+                             Hydrophobic &           HY &              4-5 &                       F, M, Y \\
+                   Hydrophobic aliphatic &           HA &              any &                 A, I, L, M, V \\
+                   Hydrophobic aliphatic &           HA &              1-2 &                          A, V \\
+                   Hydrophobic aliphatic &           HA &              2-3 &                       I, L, V \\
+                   Hydrophobic aliphatic &           HA &                3 &                          I, L \\
+                   Hydrophobic aliphatic &           HA &              3-4 &                       I, L, M \\
+               Hydrophobic aliphatic [M] &            M &                4 &                             M \\
+ Hydrophob al / $\alpha$-H prop - very high [A] &            A &              Max &                             A \\
+               Hydrophobic aliphatic [I] &            I &                  &                             I \\
+               Hydrophobic aliphatic [L] &            L &                  &                             L \\
+               Hydrophobic aliphatic [V] &            V &                  &                             V \\
+                    Hydrophobic aromatic &           HR &              any &                    F, H, W, Y \\
+                    Hydrophobic aromatic &           HR &              4-5 &                       F, H, Y \\
+                    Hydrophobic aromatic &           HR &                5 &                          F, Y \\
+                    Hydrophobic aromatic &           HR &              5-6 &                       F, W, Y \\
+                Hydrophobic aromatic [W] &            W &                6 &                             W \\
+             Hydropob ar / H-bonding [Y] &            Y &                  &                             Y \\
+                Hydrophobic aromatic [F] &            F &                  &                             F \\
+                Hydrogen bonding (polar) &           Hb &              any &  D, E, H, K, N, Q, R, S, T, Y \\
+                        Hydrogen bonding &           Hb &                2 &                          S, T \\
+                        Hydrogen bonding &           Hb &                3 &                          H, N \\
+                    Hydrogen bonding [N] &            N &                  &                             N \\
+                    Hydrogen bonding [Q] &            Q &                  &                             Q \\
+                    Hydrogen bonding [S] &            S &                  &                             S \\
+                    Hydrogen bonding [T] &            T &                  &                             T \\
+              Hydrogen bonding uncharged &           Hu &              2-3 &                       N, S, T \\
+              Hydrogen bonding uncharged &           Hu &              3-4 &                       H, N, Q \\
+                  Hydrogen bond acceptor &           Ha &              2-3 &                    D, N, S, T \\
+                  Hydrogen bond acceptor &           Ha &                3 &                          D, N \\
+                  Hydrogen bond acceptor &           Ha &              3-4 &                 D, E, H, N, Q \\
+                  Hydrogen bond acceptor &           Ha &                4 &                       E, H, Q \\
+                     Hydrogen bond donor &           Hd &                4 &                          H, Q \\
+                     Hydrogen bond donor &           Hd &              4-5 &                       H, K, Q \\
+                     Hydrogen bond donor &           Hd &              5-6 &                       K, R, Y \\
+                     Hydrogen bond donor &           Hd &                6 &                          R, Y \\
+                                 Charged &           +- &              any &                 D, E, H, K, R \\
+                                 Charged &           +- &              3-4 &                       D, E, H \\
+                                 Charged &           +- &              4-5 &                       E, H, K \\
+                        Charged positive &            + &              any &                       H, K, R \\
+     Charged pos / H bond / Hphob ar [H] &            H &                4 &                             H \\
+                        Charged positive &            + &              4-5 &                          H, K \\
+                    Charged positive [K] &            K &                5 &                             K \\
+                        Charged positive &            + &              5-6 &                          K, R \\
+                    Charged positive [R] &            R &                6 &                             R \\
+                        Charged negative &            - &              any &                          D, E \\
+                    Charged negative [D] &            D &                3 &                             D \\
+                    Charged negative [E] &            E &                4 &                             E \\
+                                   Small &           Sm &              any &                    A, C, G, S \\
+                                   Small &           Sm &              0-1 &                          A, G \\
+                                   Small &           Sm &              1-2 &                       A, C, S \\
+               $\alpha$-Helix propensity - high &           $\alpha$H &              Hig &                 A, K, L, M, R \\
+                $\alpha$-Helix propensity - low &           $\alpha$H &              Min &                          G, P \\
+                 $\alpha$-Helix flexibility [G] &            G &                0 &                             G \\
+                        $\alpha$-Helix kink [P] &            P &                2 &                             P \\
+             Disulfide-forming (S-S) [C] &            C &                2 &                             C \\
+                     Gap (no amino acid) &            - &                  &                             - \\
+\bottomrule
+\end{tabular}
+ }
+\end{table}

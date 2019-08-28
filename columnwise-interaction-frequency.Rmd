@@ -1,0 +1,229 @@
+---
+title: "Columnwise Interaction Frequency"
+author: "Steven Pilger"
+date: "8/20/2019"
+output: 'html_document'
+---
+
+```{r}
+library(tidyverse)
+```
+
+```{r}
+df <- read_csv('../data/a-gio-interactions.csv') %>% 
+    select(rec_gn, sig_gn, entry_name, int_ty) %>% 
+    group_by(rec_gn, ) %>% 
+    summarise(n=n()) %>% 
+    ungroup() %>% 
+    mutate(
+        freq=n/sum(n)*100,
+        gn_cons=case_when(
+            str_detect(rec_gn, 'x48|x49|x50|x51|x52') ~ TRUE,
+            TRUE ~ FALSE
+        ))
+
+summary_freq <- summary(df$freq)
+    
+df <- df %>% 
+    mutate(
+        # alpha = ifelse(gn_cons & freq>summary_freq[2] | freq>summary_freq[5],1,0.33),
+        alpha = ifelse(freq>summary_freq[5],1,0.33),
+        fill=ifelse(gn_cons, 'Central', 'Distal'),
+        segment = str_split(rec_gn, 'x', simplify = T)[,1],
+        pos = str_split(rec_gn, 'x', simplify = T)[,2],
+        segment = case_when(
+            segment == 34 ~ 3.5,
+            TRUE ~ as.numeric(segment)
+        )) %>% 
+    arrange(segment, pos) %>% 
+    rownames_to_column('index') %>% 
+    mutate(index = as.integer(index)) %>% 
+    mutate(rec_gn = fct_reorder(rec_gn, index))
+
+
+plot <- df %>% 
+    ggplot(aes(rec_gn, freq)) +
+    geom_col(aes(
+        alpha=as.factor(alpha),
+        fill=as.factor(fill)),
+        show.legend = FALSE) +
+    
+    geom_hline(yintercept = summary_freq[5], linetype=2, alpha=0.75) +
+    # geom_hline(yintercept = summary_freq[2], linetype=2, alpha=0.75) +
+    
+    scale_alpha_manual(values = setNames(unique(df$alpha), unique(df$alpha))) +
+    scale_fill_brewer(palette = 'Set1') +
+    
+    theme_minimal() +
+    theme(axis.text.x = element_text(angle = 45, hjust = 1)) +
+    labs(
+        x='Residue Position',
+        y='Interaction Frequency (%)'
+    )
+
+ggsave(
+    '../images/results/a-gio-interaction-frequency.pdf',
+    plot,
+    width = 7,
+    height=5
+)
+
+plot
+```
+
+
+```{r}
+df <- read_csv('../data/b1-gs-interactions.csv') %>% 
+    select(rec_gn, sig_gn, entry_name, int_ty) %>% 
+    group_by(rec_gn, ) %>% 
+    summarise(n=n()) %>% 
+    ungroup() %>% 
+    mutate(
+        freq=n/sum(n)*100,
+        gn_cons=case_when(
+            str_detect(rec_gn, 'x48|x49|x50|x51|x52') ~ TRUE,
+            TRUE ~ FALSE
+        ))
+
+summary_freq <- summary(df$freq)
+    
+df <- df %>% 
+    mutate(
+        # alpha = ifelse(gn_cons & freq>summary_freq[2] | freq>summary_freq[5],1,0.33),
+        alpha = ifelse(freq>summary_freq[5],1,0.33),
+        fill=ifelse(gn_cons, 'Central', 'Distal'),
+        segment = str_split(rec_gn, 'x', simplify = T)[,1],
+        pos = str_split(rec_gn, 'x', simplify = T)[,2],
+        segment = case_when(
+            segment == 34 ~ 3.5,
+            TRUE ~ as.numeric(segment)
+        )) %>% 
+    arrange(segment, pos) %>% 
+    rownames_to_column('index') %>% 
+    mutate(index = as.integer(index)) %>% 
+    mutate(rec_gn = fct_reorder(rec_gn, index))
+
+plot <- df %>% 
+    ggplot(aes(rec_gn, freq)) +
+    geom_col(aes(
+        alpha=as.factor(alpha),
+        fill=as.factor(fill)),
+        show.legend = FALSE) +
+    
+    geom_hline(yintercept = summary_freq[5], linetype=2, alpha=0.75) +
+    # geom_hline(yintercept = summary_freq[2], linetype=2, alpha=0.75) +
+    
+    scale_alpha_manual(values = setNames(unique(df$alpha), unique(df$alpha))) +
+    scale_fill_brewer(palette = 'Set1') +
+    
+    theme_minimal() +
+    theme(axis.text.x = element_text(angle = 45, hjust = 1)) +
+    labs(
+        x='Residue Position',
+        y='Interaction Frequency (%)'
+    )
+
+ggsave(
+    '../images/results/b1-gs-interaction-frequency.pdf',
+    plot,
+    width = 7,
+    height=4
+)
+
+plot
+```
+
+
+```{r}
+df_a <- read_csv('../data/a-gio-interactions.csv') %>% 
+    select(rec_gn, sig_gn, entry_name, int_ty) %>% 
+    group_by(rec_gn, ) %>% 
+    summarise(n=n()) %>% 
+    ungroup() %>% 
+    mutate(
+        freq=n/sum(n)*100,
+        gn_cons=case_when(
+            str_detect(rec_gn, 'x48|x49|x50|x51|x52') ~ TRUE,
+            TRUE ~ FALSE
+        ))
+
+summary_freq <- summary(df_a$freq)
+    
+df_a <- df_a %>% 
+    mutate(
+        alpha = ifelse(gn_cons & freq>summary_freq[2] | freq>summary_freq[5],1,0.33),
+        fill=ifelse(gn_cons, 'Central', 'Distal'),
+        class = 'Class A',
+        segment = str_split(rec_gn, 'x', simplify = T)[,1],
+        pos = str_split(rec_gn, 'x', simplify = T)[,2],
+        segment = case_when(
+            segment == 34 ~ 3.5,
+            TRUE ~ as.numeric(segment)
+        ))
+
+df_b <- read_csv('../data/b1-gs-interactions.csv') %>% 
+    select(rec_gn, sig_gn, entry_name, int_ty) %>% 
+    group_by(rec_gn, ) %>% 
+    summarise(n=n()) %>% 
+    ungroup() %>% 
+    mutate(
+        freq=n/sum(n)*100,
+        gn_cons=case_when(
+            str_detect(rec_gn, 'x48|x49|x50|x51|x52') ~ TRUE,
+            TRUE ~ FALSE
+        ))
+
+summary_freq <- summary(df_b$freq)
+    
+df_b <- df_b %>% 
+    mutate(
+        alpha = ifelse(gn_cons & freq>summary_freq[2] | freq>summary_freq[5],1,0.33),
+        fill=ifelse(gn_cons, 'Central', 'Distal'),
+        class='Class B1',
+        segment = str_split(rec_gn, 'x', simplify = T)[,1],
+        pos = str_split(rec_gn, 'x', simplify = T)[,2],
+        segment = case_when(
+            segment == 34 ~ 3.5,
+            TRUE ~ as.numeric(segment)
+        ))
+
+
+plot <- bind_rows(df_a, df_b) %>% 
+    arrange(segment, pos) %>% 
+    rownames_to_column('index') %>% 
+    mutate(index = as.integer(index)) %>% 
+    mutate(rec_gn = fct_reorder(rec_gn, index)) %>% 
+    ggplot(aes(rec_gn, freq)) +
+    geom_col(aes(
+        alpha=as.factor(alpha),
+        fill=as.factor(fill)),
+        show.legend = FALSE) +
+    
+    # geom_hline(yintercept = summary_freq[5], linetype=2, alpha=0.75) +
+    # geom_hline(yintercept = summary_freq[2], linetype=2, alpha=0.75) +
+    
+    scale_alpha_manual(values = setNames(unique(df_a$alpha), unique(df_a$alpha))) +
+    scale_fill_brewer(palette = 'Set1') +
+    
+    theme_minimal() +
+    theme(axis.text.x = element_text(angle = 45, hjust = 1)) +
+    facet_grid(
+        class ~ .,
+        scales = 'free',
+        space = 'free'
+        ) +
+    labs(
+        x='Residue Position',
+        y='Interaction Frequency (%)'
+    )
+
+ggsave(
+    '../images/results/combined-interaction-frequency.pdf',
+    plot,
+    width = 7,
+    height=5
+)
+
+plot
+```
+

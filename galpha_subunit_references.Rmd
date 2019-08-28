@@ -1,0 +1,22 @@
+---
+title: "G Alpha Seq"
+output: 'html_document'
+---
+
+```{r}
+library(tidyverse)
+library(kableExtra)
+```
+
+```{r}
+caption = 'G$\\alpha$ subunit reference sequence IDs'
+read_csv("../data/nuccore_result_gprot.txt") %>%
+    select(
+        'Symbol'=code,
+        'GeneCards Description'=name,
+        'RefSeq ID'=refseq) %>% 
+     knitr::kable("latex", caption = caption, booktabs = T) %>%
+    # kable_styling(full_width = T) %>%
+    write(., '../data/latex_tables/subunit_refseq.tex')
+```
+

@@ -1,0 +1,24 @@
+,gprot,pdb,pub_date,rec_class,receptor,resolution
+0,gnai1_human,6N4B,2019-01-30,Class A (Rhodopsin),CB<sub>1</sub> receptor,3.000
+1,gnas2_human,5VAI,2017-05-24,Class B1 (Secretin),GLP-1 receptor,4.100
+2,gnao_human,6G79,2018-06-20,Class A (Rhodopsin),5-HT<sub>1B</sub> receptor,3.780
+3,gnai2_human,6D9H,2018-06-20,Class A (Rhodopsin),A<sub>1</sub> receptor,3.600
+4,gnas2_human,6NIY,2019-01-23,Class B1 (Secretin),CT receptor,3.340
+5,gnai1_human,6OSA,2019-07-10,Class A (Rhodopsin),NTS<sub>1</sub> receptor,3.000
+6,gna11_human,6OIJ,2019-05-08,Class A (Rhodopsin),M<sub>1</sub> receptor,3.300
+7,gnas2_human,6B3J,2018-02-21,Class B1 (Secretin),GLP-1 receptor,3.300
+8,gnai1_human,6DDF,2018-06-13,Class A (Rhodopsin),&mu; receptor,3.500
+9,gnai1_human,6QNO,2019-07-10,Class A (Rhodopsin),Rhodopsin,4.380
+10,gnas2_bovin,6NBI,2019-04-17,Class B1 (Secretin),PTH1 receptor,4.000
+11,gnas2_bovin,6NBF,2019-04-17,Class B1 (Secretin),PTH1 receptor,3.000
+12,gnai1_human,6DDE,2018-06-13,Class A (Rhodopsin),&mu; receptor,3.500
+13,gnas2_human,6GDG,2018-05-16,Class A (Rhodopsin),A<sub>2A</sub> receptor,4.110
+14,gnao_human,6FUF,2018-10-03,Class A (Rhodopsin),Rhodopsin,3.120
+15,gnas2_human,5UZ7,2017-05-03,Class B1 (Secretin),CT receptor,4.100
+16,gnas2_bovin,6NBH,2019-04-17,Class B1 (Secretin),PTH1 receptor,3.500
+17,gnai1_human,6CMO,2018-06-20,Class A (Rhodopsin),Rhodopsin,4.500
+18,gnai1_human,6OS9,2019-07-10,Class A (Rhodopsin),NTS<sub>1</sub> receptor,3.000
+19,gnao_human,6OIK,2019-05-08,Class A (Rhodopsin),M<sub>2</sub> receptor,3.600
+20,gnas2_human,5G53,2016-08-03,Class A (Rhodopsin),A<sub>2A</sub> receptor,3.400
+21,gnas2_bovin,3SN6,2011-07-20,Class A (Rhodopsin),&beta;<sub>2</sub>-adrenoceptor,3.200
+22,gnai1_human,6OT0,2019-06-12,Class F (Frizzled),SMO,3.900

@@ -1,0 +1,251 @@
+---
+title: "interacting segments graph"
+output: 'html_document'
+---
+
+```{r}
+library(tidyverse)
+library(tidygraph)
+library(ggraph)
+library(kableExtra)
+```
+
+
+```{r}
+df <- read_csv('../data/a-gio-interactions.csv') %>% 
+    select(
+        'rec'=rec_gn,
+        'sig'=sig_gn,) %>% 
+    mutate(
+        rec=str_split(rec, 'x', simplify = T)[,1],
+        sig=str_split(sig, '\\.', simplify = T)[,2]) %>% 
+    mutate(
+        rec=case_when(
+            rec == '23' ~ 'ECL1',
+            rec == '45' ~ 'ECL2',
+            rec == '67' ~ 'ECL3',
+            rec == '12' ~ 'ICL1',
+            rec == '34' ~ 'ICL2',
+            rec == '56' ~ 'ICL3',
+            TRUE ~ paste0('TM',as.character(rec)))) %>% 
+    dplyr::group_by(rec, sig) %>%
+    summarise(weight = n()) %>%
+    dplyr::ungroup() %>%
+    # filter(weight > median(weight)) %>%
+    mutate(weight = weight / sum(weight)) %>%
+    select(
+        'from'=rec,
+        'to'=sig,
+        weight
+    )
+
+graph <- as_tbl_graph(df, directed = FALSE) %>% 
+    activate(nodes) %>%
+    mutate(
+        type = case_when(
+            str_detect(name, 'CL|TM') ~ 1,
+            TRUE ~ 0))
+
+
+plot <- ggraph(graph, layout = 'dh') +
+    geom_edge_link(aes(
+        edge_width = weight,
+        start_cap = label_rect(node1.name),
+        end_cap = label_rect(node2.name)),
+        alpha = 0.2,
+        show.legend = FALSE) + 
+    # geom_node_point(aes(
+    #     color = factor(type),
+    #     size = 3),
+    #     show.legend = FALSE) +
+    geom_node_text(
+        aes(label = name, color = factor(type)),
+        size = 4,
+        fontface = 2,
+        show.legend = FALSE) +
+    theme_graph() +
+    theme(legend.position = 'bottom') +
+    scale_color_brewer(palette = "Set1")
+plot
+
+ggsave(
+    '../images/results/a-gio-interactions.pdf',
+    plot,
+    width = 7,
+    height = 5)
+
+caption = 'Graph Data for Class A – G$_{i/o}$ Interactions'
+df %>% 
+  select(
+    'From'=from,
+    'To'=to,
+    'Weight'=weight) %>% 
+  knitr::kable(
+    "latex",
+    caption = caption,
+    booktabs = T) %>%
+    kable_styling(latex_options = 'hold_position') %>%
+    write(., '../data/latex_tables/appendix-a-gio-graph.tex')
+```
+
+
+
+```{r}
+df <- read_csv('../data/b1-gs-interactions.csv') %>% 
+    select(
+        'rec'=rec_gn,
+        'sig'=sig_gn,) %>% 
+    mutate(
+        rec=str_split(rec, 'x', simplify = T)[,1],
+        sig=str_split(sig, '\\.', simplify = T)[,2]) %>% 
+    mutate(
+        rec=case_when(
+            rec == '23' ~ 'ECL1',
+            rec == '45' ~ 'ECL2',
+            rec == '67' ~ 'ECL3',
+            rec == '12' ~ 'ICL1',
+            rec == '34' ~ 'ICL2',
+            rec == '56' ~ 'ICL3',
+            TRUE ~ paste0('TM',as.character(rec)))) %>% 
+    dplyr::group_by(rec, sig) %>%
+    summarise(weight = n()) %>%
+    dplyr::ungroup() %>%
+    # filter(weight > median(weight)) %>%
+    mutate(weight = weight / sum(weight)) %>%
+    select(
+        'from'=rec,
+        'to'=sig,
+        weight
+    )
+
+graph <- as_tbl_graph(df, directed = FALSE) %>% 
+    activate(nodes) %>%
+    mutate(
+        type = case_when(
+            str_detect(name, 'CL|TM') ~ 1,
+            TRUE ~ 0))
+
+
+plot <- ggraph(graph, layout = 'dh') +
+    geom_edge_link(aes(
+        edge_width = weight,
+        start_cap = label_rect(node1.name),
+        end_cap = label_rect(node2.name)),
+        alpha = 0.2,
+        show.legend = FALSE) + 
+    # geom_node_point(aes(
+    #     color = factor(type),
+    #     size = 3),
+    #     show.legend = FALSE) +
+    geom_node_text(
+        aes(label = name, color = factor(type)),
+        size = 4,
+        fontface = 2,
+        show.legend = FALSE) +
+    theme_graph() +
+    theme(legend.position = 'bottom') +
+    scale_color_brewer(palette = "Set1")
+plot
+
+ggsave(
+    '../images/results/b1-gs-interactions.pdf',
+    plot,
+    width = 7,
+    height = 5)
+
+caption = 'Graph Data for Class B1 – G$_{s}$ Interactions'
+df %>% 
+  select(
+    'From'=from,
+    'To'=to,
+    'Weight'=weight) %>% 
+  knitr::kable(
+    "latex",
+    caption = caption,
+    booktabs = T) %>%
+    kable_styling(latex_options = 'hold_position') %>%
+    write(., '../data/latex_tables/appendix-b1-gs-graph.tex')
+```
+
+```{r}
+caption <- 'Interaction Data Class A – G$_{i/o}$'
+label <- 'interaction-data-a-gio'
+read_csv('../data/a-gio-interactions.csv') %>% 
+  select(
+    'PDB'=pdb_id,
+    'G protein'=gprot,
+    'Receptor'=entry_name,
+    'Interaction'=int_ty,
+    'Rec. GN'=rec_gn,
+    'Rec. AA'=rec_aa,
+    'Sig. GN'=sig_gn,
+    'Sig. AA'=sig_aa,
+  ) %>% 
+  knitr::kable(
+    "latex",
+    caption = caption,
+    label = label,
+    booktabs = T,
+    longtable = T) %>%
+    kable_styling(latex_options = c("hold_position", "repeat_header")) %>% 
+    landscape() %>% 
+    write(., '../data/latex_tables/appendix-a-gio-interaction-data.tex')
+
+caption <- 'Interaction Data Class B1 – G$_{s}$'
+label <- 'interaction-data-b1-gs'
+read_csv('../data/b1-gs-interactions.csv') %>% 
+  select(
+    'PDB'=pdb_id,
+    'G protein'=gprot,
+    'Receptor'=entry_name,
+    'Interaction'=int_ty,
+    'Rec. GN'=rec_gn,
+    'Rec. AA'=rec_aa,
+    'Sig. GN'=sig_gn,
+    'Sig. AA'=sig_aa,
+  ) %>% 
+  knitr::kable(
+    "latex",
+    caption = caption,
+    label = label,
+    booktabs = T,
+    longtable = T) %>%
+    kable_styling(latex_options = c("hold_position", "repeat_header")) %>% 
+    landscape() %>% 
+    write(., '../data/latex_tables/appendix-b1-gs-interaction-data.tex')
+```
+
+```{r}
+caption <- 'Count of Interaction Types for Class A – G$\\alpha_{i/o}$'
+label <- 'interaction-types-a-gio'
+read_csv('../data/a-gio-interactions-receptor.csv') %>% 
+  select(int_ty) %>% 
+  separate(int_ty, c('Type'), ",") %>% 
+  group_by(Type) %>% 
+  summarise(Count=n()) %>% 
+  arrange(desc(Count)) %>% 
+  knitr::kable(
+    "latex",
+    caption = caption,
+    label = label,
+    booktabs = T) %>% 
+    kable_styling(latex_options = c("hold_position")) %>% 
+    write(., '../data/latex_tables/a-gio-interaction-types.tex')
+
+caption <- 'Count of Interaction Types for Class B1 – G$\\alpha_{s}$'
+label <- 'interaction-types-b1-gs'
+read_csv('../data/b1-gs-interactions-receptor.csv') %>% 
+  select(int_ty) %>% 
+  separate(int_ty, c('Type'), ",") %>% 
+  group_by(Type) %>% 
+  summarise(Count=n()) %>% 
+  arrange(desc(Count)) %>% 
+  knitr::kable(
+    "latex",
+    caption = caption,
+    label = label,
+    booktabs = T) %>% 
+    kable_styling(latex_options = c("hold_position")) %>% 
+    write(., '../data/latex_tables/b1-gs-interaction-types.tex')
+```
+
